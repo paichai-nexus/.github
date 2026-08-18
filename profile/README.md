@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="../assets/nexus-hero-v3.svg" width="100%" alt="PAICHAI NEXUS">
 </p>
 
@@ -30,17 +30,17 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><h2>47</h2><sub>MEMBERS</sub><br><b>활동 구성원</b></td>
-<td align="center" width="25%"><h2>19</h2><sub>FIELDS</sub><br><b>참여 전공</b></td>
-<td align="center" width="25%"><h2>8</h2><sub>DIVISIONS</sub><br><b>운영 부서</b></td>
-<td align="center" width="25%"><h2>2026</h2><sub>FIRST YEAR</sub><br><b>NEXUS 시작</b></td>
+<td align="center" width="20%"><h2>47</h2><sub>MEMBERS</sub><br><b>활동 구성원</b></td>
+<td align="center" width="20%"><h2>19</h2><sub>FIELDS</sub><br><b>참여 전공</b></td>
+<td align="center" width="20%"><h2>8</h2><sub>DIVISIONS</sub><br><b>운영 부서</b></td>
+<td align="center" width="20%"><h2>2026</h2><sub>FIRST YEAR</sub><br><b>NEXUS 시작</b></td>
 </tr>
 </table>
 
 <p align="center">
 <code>컴퓨터공학</code> · <code>소프트웨어</code> · <code>게임공학</code> · <code>드론</code> · <code>전기전자</code> ·
 <code>정보보안</code> · <code>철도건설</code> · <code>행정</code> · <code>경영</code> · <code>IT경영</code> ·
-<code>경찰</code> · <code>레저스포츠</code> · <code>식품</code> · <code>간호</code> · <code>외식조리</code> ·
+<code>경찰법학</code> · <code>레저스포츠</code> · <code>식품</code> · <code>간호</code> · <code>외식조리</code> ·
 <code>미디어콘텐츠</code> · <code>건축</code> · <code>커뮤니케이션디자인</code> · <code>조경</code>
 </p>
 
@@ -194,22 +194,26 @@ AI · SW · HW · Embedded · 기술 연구
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=120" width="76"><br><b>@gxmzung</b></a><br>
 <sub>Computer Engineering</sub><br>
 <sub><b>Founder · President</b></sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <a href="https://github.com/chan1150"><img src="https://github.com/chan1150.png?size=120" width="76"><br><b>@chan1150</b></a><br>
 <sub>Electrical & Electronics</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=120" width="76"><br><b>@haeum8877</b></a><br>
 <sub>Architecture</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=120" width="76"><br><b>@minwoo9</b></a><br>
 <sub>IT Management</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/happurity"><img src="https://github.com/happurity.png?size=120" width="76"><br><b>@happurity</b></a><br>
+<sub>Police Law</sub>
 </td>
 </tr>
 </table>
@@ -313,3 +317,4 @@ AI · SW · HW · Embedded · 기술 연구
   연결로 시작해, 해결로 완성하라.<br><br>
   <sub>Pai Chai University · Daejeon, Republic of Korea</sub>
 </p>
+
