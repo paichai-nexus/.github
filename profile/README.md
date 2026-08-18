@@ -551,53 +551,86 @@ Competition · Service · Research · Collaboration · Handover
 
 ## 2026 · GitHub Members
 
+<p align="center">
+  <sub>2026 배재대학교 단과대 체계를 기준으로 정리합니다.</sub>
+</p>
+
+### 🤖 AI·SW창의융합대학
+
 <table>
 <tr>
 <td align="center" width="20%">
 <a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=160" width="82"><br><b>@gxmzung</b></a><br>
-<sub>컴퓨터공학</sub><br><sub><b>Founder · President</b></sub>
+<sub>컴퓨터공학</sub><br>
+<sub><b>Founder · President</b></sub>
 </td>
 <td align="center" width="20%">
 <a href="https://github.com/chan1150"><img src="https://github.com/chan1150.png?size=160" width="82"><br><b>@chan1150</b></a><br>
 <sub>전기전자</sub>
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=160" width="82"><br><b>@haeum8877</b></a><br>
-<sub>건축</sub>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="82"><br><b>@minwoo9</b></a><br>
-<sub>IT경영</sub>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/happurity"><img src="https://github.com/happurity.png?size=160" width="82"><br><b>@happurity</b></a><br>
-<sub>경찰법학</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<a href="https://github.com/overflow-52"><img src="https://github.com/overflow-52.png?size=160" width="82"><br><b>@overflow-52</b></a><br>
-<sub>경찰법학</sub>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/jeonghawaii07"><img src="https://github.com/jeonghawaii07.png?size=160" width="82"><br><b>@jeonghawaii07</b></a><br>
-<sub>보의복</sub>
-</td>
-<td align="center" width="20%">
 <a href="https://github.com/wjddbgks4046-ai"><img src="https://github.com/wjddbgks4046-ai.png?size=160" width="82"><br><b>@wjddbgks4046-ai</b></a><br>
 <sub>전기전자</sub>
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/minixdbxkyuu"><img src="https://github.com/minixdbxkyuu.png?size=160" width="82"><br><b>@minixdbxkyuu</b></a><br>
-<sub>스포츠마케팅</sub>
+<a href="https://github.com/jack070401"><img src="https://github.com/jack070401.png?size=160" width="82"><br><b>@jack070401</b></a><br>
+<sub>전기전자</sub>
 </td>
 <td align="center" width="20%">
 <a href="https://github.com/seongjun018"><img src="https://github.com/seongjun018.png?size=160" width="82"><br><b>@seongjun018</b></a><br>
 <sub>드론로봇</sub>
 </td>
-<td align="center" width="20%">
-<a href="https://github.com/jack070401"><img src="https://github.com/jack070401.png?size=160" width="82"><br><b>@jack070401</b></a><br>
-<sub>전기전자</sub>
+</tr>
+</table>
+
+### ⚖️ 인문사회대학
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/happurity"><img src="https://github.com/happurity.png?size=160" width="82"><br><b>@happurity</b></a><br>
+<sub>경찰법학</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/overflow-52"><img src="https://github.com/overflow-52.png?size=160" width="82"><br><b>@overflow-52</b></a><br>
+<sub>경찰법학</sub>
+</td>
+</tr>
+</table>
+
+### 💼 경영대학
+
+<table>
+<tr>
+<td align="center" width="100%">
+<a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="82"><br><b>@minwoo9</b></a><br>
+<sub>IT경영</sub>
+</td>
+</tr>
+</table>
+
+### 🧬 생명보건대학
+
+<table>
+<tr>
+<td align="center" width="100%">
+<a href="https://github.com/jeonghawaii07"><img src="https://github.com/jeonghawaii07.png?size=160" width="82"><br><b>@jeonghawaii07</b></a><br>
+<sub>보건의료복지</sub>
+</td>
+</tr>
+</table>
+
+### 🎨 문화예술대학
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=160" width="82"><br><b>@haeum8877</b></a><br>
+<sub>건축</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/minixdbxkyuu"><img src="https://github.com/minixdbxkyuu.png?size=160" width="82"><br><b>@minixdbxkyuu</b></a><br>
+<sub>스포츠마케팅</sub>
 </td>
 </tr>
 </table>
@@ -607,7 +640,6 @@ Competition · Service · Research · Collaboration · Handover
 </p>
 
 <br>
-
 ## Member Principle
 
 <table>
@@ -1140,4 +1172,5 @@ NEXUS의 장기 목표 중 하나는
 <p align="center">
   <sub>© 2026 PAICHAI NEXUS · Built to be continued.</sub>
 </p>
+
 
