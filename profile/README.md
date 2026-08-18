@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/paichai-nexus/.github/main/assets/nexus-hero-v6.svg" width="100%" alt="PAICHAI NEXUS">
 </p>
 
@@ -581,6 +581,28 @@ Competition · Service · Research · Collaboration · Handover
 <sub>드론로봇</sub>
 </td>
 </tr>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/SeongJun08"><img src="https://github.com/SeongJun08.png?size=160" width="82"><br><b>@SeongJun08</b></a><br>
+<sub><b>심승준</b> · 컴퓨터공학</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/h-ng21o"><img src="https://github.com/h-ng21o.png?size=160" width="82"><br><b>@h-ng21o</b></a><br>
+<sub><b>홍정우</b> · 컴퓨터공학</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/seoyul1128"><img src="https://github.com/seoyul1128.png?size=160" width="82"><br><b>@seoyul1128</b></a><br>
+<sub><b>이서율</b> · 소프트웨어</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/jaeh040817"><img src="https://github.com/jaeh040817.png?size=160" width="82"><br><b>@jaeh040817</b></a><br>
+<sub><b>유재현</b> · 정보보안</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/shield-761"><img src="https://github.com/shield-761.png?size=160" width="82"><br><b>@shield-761</b></a><br>
+<sub><b>정한빈</b> · 게임공학</sub>
+</td>
+</tr>
 </table>
 
 ### ⚖️ 인문사회대학
@@ -602,9 +624,13 @@ Competition · Service · Research · Collaboration · Handover
 
 <table>
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 <a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="82"><br><b>@minwoo9</b></a><br>
 <sub>IT경영</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/min020676"><img src="https://github.com/min020676.png?size=160" width="82"><br><b>@min020676</b></a><br>
+<sub><b>최민성</b> · IT경영</sub>
 </td>
 </tr>
 </table>
@@ -613,9 +639,13 @@ Competition · Service · Research · Collaboration · Handover
 
 <table>
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 <a href="https://github.com/jeonghawaii07"><img src="https://github.com/jeonghawaii07.png?size=160" width="82"><br><b>@jeonghawaii07</b></a><br>
 <sub>보건의료복지</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/guswls0520"><img src="https://github.com/guswls0520.png?size=160" width="82"><br><b>@guswls0520</b></a><br>
+<sub><b>정현진</b> · 식품영양</sub>
 </td>
 </tr>
 </table>
@@ -624,13 +654,17 @@ Competition · Service · Research · Collaboration · Handover
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=160" width="82"><br><b>@haeum8877</b></a><br>
 <sub>건축</sub>
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <a href="https://github.com/minixdbxkyuu"><img src="https://github.com/minixdbxkyuu.png?size=160" width="82"><br><b>@minixdbxkyuu</b></a><br>
 <sub>스포츠마케팅</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/sera881"><img src="https://github.com/sera881.png?size=160" width="82"><br><b>@sera881</b></a><br>
+<sub><b>신세라</b> · 조경</sub>
 </td>
 </tr>
 </table>
