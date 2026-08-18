@@ -30,17 +30,17 @@
 
 <table>
 <tr>
-<td align="center" width="20%"><h2>47</h2><sub>MEMBERS</sub><br><b>활동 구성원</b></td>
-<td align="center" width="20%"><h2>19</h2><sub>FIELDS</sub><br><b>참여 전공</b></td>
-<td align="center" width="20%"><h2>8</h2><sub>DIVISIONS</sub><br><b>운영 부서</b></td>
-<td align="center" width="20%"><h2>2026</h2><sub>FIRST YEAR</sub><br><b>NEXUS 시작</b></td>
+<td align="center" width="25%"><h2>47</h2><sub>MEMBERS</sub><br><b>활동 구성원</b></td>
+<td align="center" width="25%"><h2>19</h2><sub>FIELDS</sub><br><b>참여 전공</b></td>
+<td align="center" width="25%"><h2>8</h2><sub>DIVISIONS</sub><br><b>운영 부서</b></td>
+<td align="center" width="25%"><h2>2026</h2><sub>FIRST YEAR</sub><br><b>NEXUS 시작</b></td>
 </tr>
 </table>
 
 <p align="center">
-<code>컴퓨터공학</code> · <code>소프트웨어</code> · <code>게임공학</code> · <code>드론</code> · <code>전기전자</code> ·
+<code>컴퓨터공학</code> · <code>소프트웨어</code> · <code>게임공학</code> · <code>드론로봇</code> · <code>전기전자</code> ·
 <code>정보보안</code> · <code>철도건설</code> · <code>행정</code> · <code>경영</code> · <code>IT경영</code> ·
-<code>경찰법학</code> · <code>레저스포츠</code> · <code>식품</code> · <code>간호</code> · <code>외식조리</code> ·
+<code>경찰법학</code> · <code>스포츠·레저</code> · <code>보의복</code> · <code>식품</code> · <code>간호</code> · <code>외식조리</code> ·
 <code>미디어콘텐츠</code> · <code>건축</code> · <code>커뮤니케이션디자인</code> · <code>조경</code>
 </p>
 
@@ -216,6 +216,29 @@ AI · SW · HW · Embedded · 기술 연구
 <sub>Police Law</sub>
 </td>
 </tr>
+
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/overflow-52"><img src="https://github.com/overflow-52.png?size=120" width="76"><br><b>@overflow-52</b></a><br>
+<sub>Police Law</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/jeonghawaii07"><img src="https://github.com/jeonghawaii07.png?size=120" width="76"><br><b>@jeonghawaii07</b></a><br>
+<sub>Apparel / Fashion</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/wjddbgks4046-ai"><img src="https://github.com/wjddbgks4046-ai.png?size=120" width="76"><br><b>@wjddbgks4046-ai</b></a><br>
+<sub>Electrical & Electronics</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/minixdbxkyuu"><img src="https://github.com/minixdbxkyuu.png?size=120" width="76"><br><b>@minixdbxkyuu</b></a><br>
+<sub>Sports Marketing</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/seongjun018"><img src="https://github.com/seongjun018.png?size=120" width="76"><br><b>@seongjun018</b></a><br>
+<sub>Drone & Robotics</sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -317,4 +340,5 @@ AI · SW · HW · Embedded · 기술 연구
   연결로 시작해, 해결로 완성하라.<br><br>
   <sub>Pai Chai University · Daejeon, Republic of Korea</sub>
 </p>
+
 
