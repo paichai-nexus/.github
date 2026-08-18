@@ -589,7 +589,7 @@ Competition · Service · Research · Collaboration · Handover
 </td>
 <td align="center" width="20%">
 <a href="https://github.com/chan1150"><img src="https://github.com/chan1150.png?size=160" width="82"><br><b>@chan1150</b></a><br>
-<sub>전기전자</sub>
+<sub><b>김민찬</b> · 전기전자</sub>
 </td>
 <td align="center" width="20%">
 <a href="https://github.com/wjddbgks4046-ai"><img src="https://github.com/wjddbgks4046-ai.png?size=160" width="82"><br><b>@wjddbgks4046-ai</b></a><br>
@@ -627,7 +627,7 @@ Competition · Service · Research · Collaboration · Handover
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="82"><br><b>@minwoo9</b></a><br>
-<sub>IT경영</sub>
+<sub><b>구민우</b> · IT경영</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/min020676"><img src="https://github.com/min020676.png?size=160" width="82"><br><b>@min020676</b></a><br>
@@ -657,7 +657,7 @@ Competition · Service · Research · Collaboration · Handover
 <tr>
 <td align="center" width="33%">
 <a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=160" width="82"><br><b>@haeum8877</b></a><br>
-<sub>건축</sub>
+<sub><b>박하음</b> · 건축</sub>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/minixdbxkyuu"><img src="https://github.com/minixdbxkyuu.png?size=160" width="82"><br><b>@minixdbxkyuu</b></a><br>
