@@ -565,6 +565,29 @@ Competition · Service · Research · Collaboration · Handover
 <sub><b>Founder · President</b></sub>
 </td>
 <td align="center" width="20%">
+<a href="https://github.com/SeongJun08"><img src="https://github.com/SeongJun08.png?size=160" width="82"><br><b>@SeongJun08</b></a><br>
+<sub><b>심승준</b> · 컴퓨터공학</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/h-ng21o"><img src="https://github.com/h-ng21o.png?size=160" width="82"><br><b>@h-ng21o</b></a><br>
+<sub><b>홍정우</b> · 컴퓨터공학</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/seoyul1128"><img src="https://github.com/seoyul1128.png?size=160" width="82"><br><b>@seoyul1128</b></a><br>
+<sub><b>이서율</b> · 소프트웨어</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/shield-761"><img src="https://github.com/shield-761.png?size=160" width="82"><br><b>@shield-761</b></a><br>
+<sub><b>정한빈</b> · 게임공학</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/jaeh040817"><img src="https://github.com/jaeh040817.png?size=160" width="82"><br><b>@jaeh040817</b></a><br>
+<sub><b>유재현</b> · 정보보안</sub>
+</td>
+<td align="center" width="20%">
 <a href="https://github.com/chan1150"><img src="https://github.com/chan1150.png?size=160" width="82"><br><b>@chan1150</b></a><br>
 <sub>전기전자</sub>
 </td>
@@ -579,28 +602,6 @@ Competition · Service · Research · Collaboration · Handover
 <td align="center" width="20%">
 <a href="https://github.com/seongjun018"><img src="https://github.com/seongjun018.png?size=160" width="82"><br><b>@seongjun018</b></a><br>
 <sub>드론로봇</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<a href="https://github.com/SeongJun08"><img src="https://github.com/SeongJun08.png?size=160" width="82"><br><b>@SeongJun08</b></a><br>
-<sub><b>심승준</b> · 컴퓨터공학</sub>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/h-ng21o"><img src="https://github.com/h-ng21o.png?size=160" width="82"><br><b>@h-ng21o</b></a><br>
-<sub><b>홍정우</b> · 컴퓨터공학</sub>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/seoyul1128"><img src="https://github.com/seoyul1128.png?size=160" width="82"><br><b>@seoyul1128</b></a><br>
-<sub><b>이서율</b> · 소프트웨어</sub>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/jaeh040817"><img src="https://github.com/jaeh040817.png?size=160" width="82"><br><b>@jaeh040817</b></a><br>
-<sub><b>유재현</b> · 정보보안</sub>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/shield-761"><img src="https://github.com/shield-761.png?size=160" width="82"><br><b>@shield-761</b></a><br>
-<sub><b>정한빈</b> · 게임공학</sub>
 </td>
 </tr>
 </table>
