@@ -1,321 +1,299 @@
-<div align="center">
+<p align="center">
+  <img src="../assets/nexus-main-banner.png" width="100%" alt="PAICHAI NEXUS">
+</p>
 
-# PAICHAI NEXUS
+<h1 align="center">배재대학교 NEXUS</h1>
+<h3 align="center">학생 주도 융합 프로젝트 조직</h3>
 
-### Student-led Interdisciplinary Project Lab
+<p align="center">
+  전공을 연결하고, 문제를 해결하고, 결과를 증명하는 팀
+</p>
 
-**Connect Disciplines. Build Systems. Create Evidence.**
-
-Engineering · AI · Life Science · Healthcare · FoodTech · Civil Engineering · Sports · Humanities
-
-<br>
-
-[![Pai Chai University](https://img.shields.io/badge/Pai%20Chai%20University-Daejeon%2C%20Korea-1f6feb)](https://www.pcu.ac.kr/)
-[![Organization](https://img.shields.io/badge/Organization-Student--led%20Project%20Lab-2ea44f)](https://github.com/paichai-nexus)
-[![Active Project](https://img.shields.io/badge/Active%20Project-Smart%20Seedling%20AI-orange)](https://github.com/paichai-nexus/smart-seedling-ai)
-
-<br>
-
-> **From ideas to evidence.**  
-> We connect students from different disciplines to build, validate, and document projects with real technical and domain depth.
-
-</div>
+<p align="center">
+  <a href="https://github.com/paichai-nexus/smart-seedling-ai">
+    <img src="https://img.shields.io/badge/대표%20프로젝트-Smart%20Seedling%20AI-2563eb?style=for-the-badge">
+  </a>
+  <a href="../docs/MEMBERS.md">
+    <img src="https://img.shields.io/badge/멤버%20구성-2026%20%2F%202027-0f766e?style=for-the-badge">
+  </a>
+  <a href="../docs/PROJECT_STANDARD.md">
+    <img src="https://img.shields.io/badge/프로젝트%20표준-NEXUS%20SYSTEM-1d4ed8?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-## About NEXUS
+## 우리는 어떤 팀인가요?
 
-**PAICHAI NEXUS** is a student-led interdisciplinary project lab at **Pai Chai University**.
+**NEXUS**는 배재대학교 안에서 다양한 전공의 학생들이 함께 모여,  
+실제 문제를 **프로젝트·연구·서비스·공모전·발표**로 연결하는  
+**학생 주도 융합 프로젝트 조직**입니다.
 
-We bring students from different academic backgrounds together to solve problems that cannot be meaningfully addressed by a single discipline.
-
-NEXUS is not designed around nominal multidisciplinary teams or presentation-only outcomes.
-
-Our projects follow a repeatable process:
+단순히 “전공이 다른 학생들이 모였다”에서 끝나는 팀이 아니라,  
+각 전공이 실제 역할을 맡아 **기획 → 개발 → 검증 → 결과물**까지 만드는 것을 목표로 합니다.
 
 ```text
-Problem Discovery
-        ↓
-Domain Research
-        ↓
-Interdisciplinary Team Formation
-        ↓
-Requirement Definition
-        ↓
-Prototype / Research
-        ↓
-Domain Expert Validation
-        ↓
-User / Field Evaluation
-        ↓
-Evidence & Documentation
-        ↓
-Competition · Research · Deployment · Publication
+문제 발견
+   ↓
+팀 구성
+   ↓
+기획 / 설계
+   ↓
+개발 / 연구
+   ↓
+검증 / 피드백
+   ↓
+결과물 도출
+   ↓
+공모전 / 발표 / 논문 / 서비스
 ```
-
-> **Our standard is not “we built something.”  
-> Our standard is “we can explain what we built, why it matters, and what evidence supports it.”**
 
 ---
 
-## Featured Project
+## NEXUS 한눈에 보기
 
 <table>
 <tr>
-<td width="100%">
-
-### 🌱 Smart Seedling AI
-
-**Vision AI and IoT-based individual seedling growth monitoring research platform**
-
-[**Repository → paichai-nexus/smart-seedling-ai**](https://github.com/paichai-nexus/smart-seedling-ai)
-
-A multidisciplinary research platform focused on monitoring individual seedlings through computer vision and IoT-based sensing.
-
-**Core themes**
-
-`Vision AI` · `IoT` · `Plant Growth Monitoring` · `Data Collection` · `Research Validation`
-
-**Research direction**
-
-```text
-Seedling / Sensor Data
-        ↓
-Image & Environmental Data Collection
-        ↓
-Vision AI Analysis
-        ↓
-Individual Growth Monitoring
-        ↓
-Diagnosis / Decision Support
-        ↓
-Validation & Research Evidence
-```
-
+<td align="center" width="25%">
+<h3>47명</h3>
+<p>2026 조직 구성원</p>
+</td>
+<td align="center" width="25%">
+<h3>19개</h3>
+<p>전공 분야</p>
+</td>
+<td align="center" width="25%">
+<h3>8개</h3>
+<p>운영 부서</p>
+</td>
+<td align="center" width="25%">
+<h3>1개+</h3>
+<p>공개 프로젝트 저장소</p>
 </td>
 </tr>
 </table>
 
 ---
 
-## 2026 Project Pipeline
+## 어떤 사람들이 함께하나요?
 
-NEXUS is expanding its interdisciplinary portfolio across multiple academic domains.
+NEXUS에는 개발자만 있는 것이 아닙니다.  
+기획, 디자인, 행정, 경영, 간호, 식품, 스포츠, 건축, 보안, 철도, 전기전자 등  
+다양한 전공의 학생들이 함께합니다.
 
-| Domain | Project Direction | Stage |
-| --- | --- | --- |
-| 🌱 **Horticulture & Forestry** | Vision AI-based crop growth diagnosis and customized pest-control / fertilization support | **Active** |
-| 🏥 **Nursing** | University-hospital HIS and nursing workflow optimization | Planning / Research |
-| 🧬 **Biotechnology** | BioDockLab — clinical-trial data management and biobanking platform | Planning / Research |
-| 🏗️ **Railway / Civil Engineering** | Geological analysis and structural-stability research for tunnel sections | Research |
-| ⚽ **Sports & Leisure** | Elite youth-athlete matching and career-management O2O platform | Planning |
-| 🍽️ **FoodTech** | Vision AI Zero-Waste recipe recommendation | Concept / Research |
-| 🧪 **FoodTech** | AI menu development and consumer evaluation | Concept / Research |
+### 참여 전공 예시
 
-> Project stages are intentionally stated separately from completed or validated outcomes.
+`컴퓨터공학` · `소프트웨어` · `게임공학` · `드론` · `전기전자`  
+`철도건설` · `정보보안` · `행정` · `경영` · `IT경영`  
+`경찰` · `레저스포츠` · `보건의복` · `식품` · `간호`  
+`외식조리` · `미디어콘텐츠` · `건축` · `커뮤니케이션디자인` · `조경`
 
 ---
 
-## How We Build
+## 우리가 만드는 프로젝트
 
-Every NEXUS project is expected to move through four layers.
+NEXUS는 전공을 섞기만 하는 팀이 아니라,  
+**실제로 결과물이 나오는 프로젝트 구조**를 지향합니다.
 
-| Layer | Core Question | Typical Output |
+### 2026 주요 프로젝트 방향
+
+| 분야 | 프로젝트 | 상태 |
 | --- | --- | --- |
-| **01 · DISCOVER** | What real problem are we solving? | Problem statement · stakeholders · constraints |
-| **02 · BUILD** | What should exist when we are done? | Prototype · experiment · dataset · system |
-| **03 · VALIDATE** | Does it work technically and within the domain? | Test · expert review · user study · field evaluation |
-| **04 · EVIDENCE** | Can the result be demonstrated and reproduced? | Data · report · documentation · publication |
+| 🌱 원예·산림 | Vision AI 기반 작물 생육 진단 및 맞춤형 방제/시비 솔루션 | 진행중 |
+| 🏥 간호 | 대학병원향 통합 의료 정보 시스템(HIS) 및 간호 실무 최적화 | 기획 / 연구 |
+| 🧬 생명공학 | BioDockLab 글로벌 임상시험 데이터 관리 및 바이오뱅킹 플랫폼 | 기획 / 연구 |
+| 🏗️ 철도·토목 | 도마·도안 터널 구간 지질 특성 분석 기반 구조 안정성 연구 | 연구 |
+| ⚽ 스포츠레저 | 엘리트 유소년 선수 매칭 및 경력 관리 O2O 플랫폼 | 기획 |
+| 🍽️ FoodTech | Vision AI 기반 Zero-Waste 식재료 인식 및 레시피 추천 | 구상 / 연구 |
+| 🧪 FoodTech | AI 메뉴개발 및 소비자 평가 연구 | 구상 / 연구 |
+
+> **중요:**  
+> NEXUS는 기획, 구현, 검증, 실증 단계를 구분합니다.  
+> “아이디어 있음”과 “검증 완료”를 같은 것으로 취급하지 않습니다.
+
+---
+
+## 대표 공개 프로젝트
+
+### 🌱 Smart Seedling AI
+
+**Vision AI + IoT 기반 개별 모종 생육 모니터링 연구 플랫폼**
+
+[👉 저장소 바로가기](https://github.com/paichai-nexus/smart-seedling-ai)
+
+이 프로젝트는 작물/모종의 생장 상태를 이미지와 센서 기반으로 수집하고,  
+Vision AI를 통해 개별 생육 상태를 분석하는 연구형 프로젝트입니다.
 
 ```text
-DISCOVER
-   ↓
-BUILD
-   ↓
-VALIDATE
-   ↓
-EVIDENCE
-   ↓
-ITERATE
+모종 / 센서 데이터
+      ↓
+이미지 및 환경 데이터 수집
+      ↓
+Vision AI 분석
+      ↓
+개별 생육 모니터링
+      ↓
+진단 / 의사결정 보조
+      ↓
+검증 및 연구 결과
 ```
 
 ---
 
-## Interdisciplinary by Design
+## NEXUS 조직도
 
-We do not consider a project interdisciplinary simply because students from different majors are listed on the team.
+NEXUS는 아래와 같은 **8개 부서 체계**를 기반으로 운영됩니다.
 
-Each discipline should have **real responsibility and an identifiable contribution**.
-
-```text
-Engineering / Technology
-        +
-Domain Expertise
-        +
-User / Field Context
-        +
-Verification
-        +
-Evidence
-        ↓
-Meaningful Interdisciplinary Work
-```
-
-Examples:
-
-- developers own implementation, interfaces, testing, and technical documentation
-- domain students evaluate whether assumptions and outputs make sense in practice
-- user or field feedback is incorporated whenever possible
-- limitations and unresolved questions are documented
-- claims are separated from verified results
-
----
-
-## Organization
-
-NEXUS operates as a project organization rather than a single development team.
-
-| Division | Responsibility |
+| 부서 | 역할 |
 | --- | --- |
-| **Planning & Strategy** | Idea discovery · project strategy · portfolio planning |
-| **Project Operations** | Schedule · personnel · progress · risk · checkpoints |
-| **Research & Development** | AI · software · hardware · embedded · technical research |
-| **Design & Communication** | UI/UX · branding · content · SNS · presentations |
-| **External Relations** | Professors · companies · institutions · universities |
-| **Business Support** | Budget · procurement · accounting · administration |
-| **Education & Events** | Mentoring · education · exhibitions · workshops |
-| **Humanities & User Research** | Policy · law · psychology · social and user research |
-
----
-
-## Project Standard
-
-Every project repository should answer the same questions.
+| **기획전략부** | 아이디어를 발굴하고 프로젝트와 조직의 방향을 기획 |
+| **프로젝트운영부** | 프로젝트 일정·인원·진행상황·리스크를 관리 |
+| **연구개발부** | AI·SW·HW·임베디드 등 실제 기술과 결과물을 개발 |
+| **디자인·커뮤니케이션부** | 디자인·콘텐츠·SNS·홍보·발표자료 제작 |
+| **대외협력부** | 교수·기업·기관·타 대학과의 협력 및 네트워크 담당 |
+| **경영지원부** | 예산·구매·회계·회원관리 등 조직 운영 지원 |
+| **교육·행사부** | 전공 멘토링·고교/청소년/대학 교육, 동아리 체험 행사 부스 |
+| **인문사회·사용자연구부** | 행정·법·심리 등 사회·사용자 관점에서 프로젝트 검토 |
 
 ```text
-01. Problem
-02. Background
-03. Objectives
-04. Stakeholders
-05. Requirements / Research Questions
-06. Architecture / Research Design
-07. Team & Responsibilities
-08. Milestones
-09. Validation Method
-10. Evidence
-11. Current Status
-12. Limitations
-13. Next Steps
+아이디어 발굴
+   ↓
+팀 구성
+   ↓
+프로젝트 운영
+   ↓
+개발 / 연구
+   ↓
+검증 / 사용자 관점 검토
+   ↓
+홍보 / 발표 / 대외협력
+   ↓
+다음 프로젝트로 확장
 ```
-
-A repository should make it possible for a new contributor, professor, reviewer, or external collaborator to understand the project without relying on verbal explanation.
 
 ---
 
-## Evidence Levels
+## 멤버 구성
 
-We explicitly distinguish project maturity.
+NEXUS는 **연도별로 조직을 관리**합니다.  
+군 복무, 휴학, 복학, 졸업, 신규 모집, 인수인계 등으로 인해  
+활동 멤버 구성이 달라질 수 있기 때문입니다.
+
+### 2026 GitHub 등록 멤버
+
+> 실명 대신 **GitHub 아이디 기준**으로 관리합니다.
+
+| GitHub | 전공 | 역할 |
+| --- | --- | --- |
+| [@gxmzung](https://github.com/gxmzung) | 컴퓨터공학 | Founder · President |
+| [@chan1150](https://github.com/chan1150) | 전기전자 | Member |
+| [@haeum8877](https://github.com/haeum8877) | 건축 | Member |
+| [@minwoo9](https://github.com/minwoo9) | IT경영 | Member |
+
+추가 멤버는 GitHub 가입 및 조직 초대 완료 후 순차 반영됩니다.
+
+### 2027 조직 구분
+
+| 구분 | 설명 |
+| --- | --- |
+| **Continuing Members** | 2026에서 계속 활동하는 멤버 |
+| **New / Returning Members** | 신규 모집 또는 복귀 멤버 |
+| **Project Maintainers** | 프로젝트 지속 운영 담당 |
+| **Leadership Transition** | 차기 운영진 / 리더십 인수인계 |
+
+자세한 정책은 아래 문서에서 관리합니다.
+
+- [멤버 및 연도별 로스터 정책 보기](../docs/MEMBERS.md)
+
+---
+
+## NEXUS는 이렇게 일합니다
+
+NEXUS의 프로젝트는 “발표자료만 예쁘게 만들고 끝”나는 방식이 아니라,  
+아래처럼 **역할과 근거가 남는 구조**를 추구합니다.
+
+| 단계 | 질문 | 결과물 예시 |
+| --- | --- | --- |
+| **DISCOVER** | 어떤 문제를 해결할 것인가? | 문제 정의, 배경, 타겟 |
+| **DEFINE** | 무엇을 어디까지 할 것인가? | 요구사항, 연구 질문, 범위 |
+| **BUILD** | 실제로 무엇을 만들 것인가? | 프로토타입, 시스템, 실험 |
+| **VALIDATE** | 이것이 실제로 작동하는가? | 테스트, 사용자 평가, 도메인 검토 |
+| **EVIDENCE** | 이를 어떻게 증명할 것인가? | 데이터, 문서, 보고서, 발표, 논문 |
 
 ```text
-Concept
-   ↓
-Implemented
-   ↓
-Demonstrated
-   ↓
-Validated
-   ↓
-Field Verified
+DISCOVER → DEFINE → BUILD → VALIDATE → EVIDENCE → ITERATE
 ```
 
-**Implemented ≠ validated.**
+---
 
-This distinction is part of how NEXUS documents technical and research work.
+## 프로젝트 원칙
+
+### 1. 보여주기보다 만들기
+발표는 중요하지만, 발표 자체가 결과물은 아닙니다.
+
+### 2. 전공마다 실제 역할이 있어야 함
+이름만 올리는 융합이 아니라, 각 전공이 실제 책임을 가져야 합니다.
+
+### 3. 주장보다 근거
+구현, 시연, 검증, 실증은 다릅니다.
+
+```text
+구상
+ ↓
+구현
+ ↓
+시연
+ ↓
+검증
+ ↓
+실증
+```
+
+### 4. 과정이 남아야 함
+README, 문서, 이슈, PR, 결과자료가 남아야 다음 사람이 이어받을 수 있습니다.
+
+### 5. 다음 단계가 있어야 함
+좋은 프로젝트는 다음 중 하나로 이어질 수 있어야 합니다.
+
+`공모전` · `연구` · `서비스` · `부스 운영` · `발표` · `산학협력`
 
 ---
 
-## Project Outputs
+## 함께할 수 있는 분야
 
-A NEXUS project should aim to produce one or more meaningful artifacts.
+NEXUS는 아래와 같은 분야의 협업을 지향합니다.
 
-**Engineering**  
-`Prototype` · `Application` · `AI Model` · `Embedded System` · `Dataset`
-
-**Research**  
-`Experiment` · `Technical Report` · `Research Paper` · `Poster`
-
-**Validation**  
-`User Study` · `Field Test` · `Domain Review` · `Performance Evaluation`
-
-**External Outcomes**  
-`Competition` · `Exhibition` · `Industry Collaboration` · `Education`
+`AI` · `SW` · `Embedded` · `UAV / Drone` · `Healthcare IT`  
+`Bio AI` · `FoodTech` · `Agri AIoT` · `GIS / 재난안전`  
+`공공서비스` · `정책` · `디자인` · `UX` · `사용자 연구`
 
 ---
 
-## Principles
+## 외부 협력
 
-### 01 · Build, Don't Just Present
-A presentation is communication, not the project outcome itself.
+NEXUS는 다음과 같은 협력을 열어두고 있습니다.
 
-### 02 · Domain Experts Matter
-Technical feasibility and domain validity are evaluated separately.
-
-### 03 · Evidence Over Claims
-Results should be supported by tests, data, review, or explicitly stated limitations.
-
-### 04 · Document the Process
-Requirements, architecture, experiments, failures, and decisions should remain understandable and reproducible.
-
-### 05 · Design for the Next Step
-Projects should be capable of progressing toward:
-
-**prototype → validation → competition → research → collaboration → deployment**
+- 교수 및 연구실
+- 기업 및 스타트업
+- 공공기관
+- 타 대학 학생팀
+- 청소년 / 고교 교육 프로그램
+- 전공 간 공동 프로젝트
 
 ---
 
-## Collaboration
+## NEXUS에 관심이 있다면
 
-We welcome collaboration with:
+NEXUS는  
+**“혼자 잘하는 사람”보다 “함께 결과를 만드는 사람”**을 더 높게 평가합니다.
 
-- university laboratories
-- professors and researchers
-- student project teams
-- companies and startups
-- public institutions
-- other universities
-- high schools and youth education programs
-- interdisciplinary research groups
-
-**Areas of interest**
-
-`AI` · `Robotics / UAV` · `Embedded Systems` · `Healthcare IT` · `Bioinformatics`  
-`FoodTech` · `Agriculture` · `Smart Infrastructure` · `Data Analysis` · `Human-Centered Technology`
+개발자, 기획자, 디자이너, 연구형 학생, 발표 강점이 있는 학생,  
+현장형 문제에 관심 있는 학생 모두 환영합니다.
 
 ---
 
-## For Members
-
-Before starting development, every team should be able to answer:
-
-**What are we building?**  
-Define the problem and expected outcome.
-
-**Who owns what?**  
-Technical and domain responsibilities must be explicit.
-
-**How do we know it works?**  
-Testing, evaluation, or validation criteria must be documented.
-
-See [**Project Standard**](../docs/PROJECT_STANDARD.md) and [**Contributing Guide**](../CONTRIBUTING.md).
-
----
-
-<div align="center">
-
-### PAICHAI NEXUS
-
-**Connect Disciplines. Build Systems. Create Evidence.**
-
-Pai Chai University · Daejeon, Republic of Korea
-
-</div>
+<p align="center">
+  <b>배재대학교 NEXUS</b><br>
+  <sub>연결로 시작해, 해결로 완성하라.</sub><br><br>
+  <sub>Pai Chai University · Daejeon, Republic of Korea</sub>
+</p>
