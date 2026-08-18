@@ -55,7 +55,7 @@
 <table>
 <tr>
 <td align="center" width="20%">
-<h1>47</h1>
+<h1>51</h1>
 <sub>MEMBERS</sub><br>
 <b>활동 구성원</b>
 </td>
