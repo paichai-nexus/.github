@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paichai-nexus/.github/main/assets/nexus-main-banner.png" width="100%" alt="PAICHAI NEXUS">
+  <img src="https://raw.githubusercontent.com/paichai-nexus/.github/main/assets/nexus-hero-v3.svg" width="100%" alt="PAICHAI NEXUS">
 </p>
 
 <p align="center">
