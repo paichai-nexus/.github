@@ -1,0 +1,40 @@
+<svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="80" y1="20" x2="1510" y2="540" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#07172F"/>
+    <stop offset="0.48" stop-color="#0B2B57"/>
+    <stop offset="1" stop-color="#102D4E"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+    gradientTransform="translate(1175 205) rotate(90) scale(275 390)">
+    <stop stop-color="#4EA8FF" stop-opacity=".34"/>
+    <stop offset="1" stop-color="#4EA8FF" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="1600" height="560" rx="36" fill="url(#bg)"/>
+<rect width="1600" height="560" rx="36" fill="url(#glow)"/>
+
+<!-- constellation -->
+<g stroke="#6FB7FF" stroke-opacity=".45" stroke-width="2">
+  <path d="M1045 94L1165 152L1294 118L1395 199L1318 314L1450 375L1312 452L1178 401L1064 462L981 349L1088 274L1016 180Z"/>
+  <path d="M1165 152L1088 274L1318 314L1294 118M1088 274L1178 401M1318 314L1312 452"/>
+</g>
+<g fill="#A7D5FF">
+  <circle cx="1045" cy="94" r="6"/><circle cx="1165" cy="152" r="8"/><circle cx="1294" cy="118" r="5"/>
+  <circle cx="1395" cy="199" r="7"/><circle cx="1318" cy="314" r="10"/><circle cx="1450" cy="375" r="5"/>
+  <circle cx="1312" cy="452" r="7"/><circle cx="1178" cy="401" r="6"/><circle cx="1064" cy="462" r="5"/>
+  <circle cx="981" cy="349" r="6"/><circle cx="1088" cy="274" r="8"/><circle cx="1016" cy="180" r="5"/>
+</g>
+<g fill="#64B5FF" opacity=".55" filter="url(#blur)">
+  <circle cx="1318" cy="314" r="28"/><circle cx="1165" cy="152" r="22"/><circle cx="1088" cy="274" r="24"/>
+</g>
+
+<text x="105" y="120" fill="#7FBFFF" font-family="Arial, sans-serif" font-size="24" letter-spacing="6">PAICHAI UNIVERSITY · 2026</text>
+<text x="105" y="225" fill="white" font-family="Arial, sans-serif" font-size="78" font-weight="700">PAICHAI NEXUS</text>
+<text x="105" y="285" fill="#CFE7FF" font-family="Arial, sans-serif" font-size="31" font-weight="600">Student-led Interdisciplinary Project Organization</text>
+<text x="105" y="354" fill="#9EC7EE" font-family="Arial, sans-serif" font-size="26">CONNECT DISCIPLINES · BUILD SYSTEMS · VALIDATE RESULTS</text>
+<line x1="105" y1="395" x2="790" y2="395" stroke="#4FA6F8" stroke-width="2"/>
+<text x="105" y="448" fill="white" font-family="Arial, sans-serif" font-size="30" font-weight="600">연결로 시작해, 해결로 완성하라.</text>
+<text x="105" y="500" fill="#9EC7EE" font-family="Arial, sans-serif" font-size="20">Daejeon · Republic of Korea</text>
+</svg>

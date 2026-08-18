@@ -1,0 +1,15 @@
+<svg width="1600" height="560" viewBox="0 0 1600 560" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="560" rx="30" fill="#071B31"/>
+<text x="70" y="70" fill="#7FC5FF" font-family="Arial" font-size="21" letter-spacing="4">8 DIVISIONS · ONE OPERATING SYSTEM</text>
+<text x="70" y="116" fill="white" font-family="Arial" font-size="34" font-weight="700">프로젝트는 개발팀만으로 완성되지 않습니다.</text>
+<g font-family="Arial">
+  <g transform="translate(80,175)"><rect width="330" height="125" rx="20" fill="#0C355A"/><text x="24" y="38" fill="#81C5FF" font-size="16">01</text><text x="24" y="70" fill="white" font-size="23" font-weight="700">기획전략부</text><text x="24" y="100" fill="#B5D6F2" font-size="16">방향 · 문제정의 · 프로젝트 기획</text></g>
+  <g transform="translate(450,175)"><rect width="330" height="125" rx="20" fill="#0C355A"/><text x="24" y="38" fill="#81C5FF" font-size="16">02</text><text x="24" y="70" fill="white" font-size="23" font-weight="700">프로젝트운영부</text><text x="24" y="100" fill="#B5D6F2" font-size="16">일정 · 인원 · 리스크 · 기록</text></g>
+  <g transform="translate(820,175)"><rect width="330" height="125" rx="20" fill="#0C355A"/><text x="24" y="38" fill="#81C5FF" font-size="16">03</text><text x="24" y="70" fill="white" font-size="23" font-weight="700">연구개발부</text><text x="24" y="100" fill="#B5D6F2" font-size="16">AI · SW · HW · Embedded</text></g>
+  <g transform="translate(1190,175)"><rect width="330" height="125" rx="20" fill="#0C355A"/><text x="24" y="38" fill="#81C5FF" font-size="16">04</text><text x="24" y="70" fill="white" font-size="23" font-weight="700">디자인·커뮤니케이션부</text><text x="24" y="100" fill="#B5D6F2" font-size="16">Design · SNS · Presentation</text></g>
+  <g transform="translate(80,335)"><rect width="330" height="125" rx="20" fill="#0C355A"/><text x="24" y="38" fill="#81C5FF" font-size="16">05</text><text x="24" y="70" fill="white" font-size="23" font-weight="700">대외협력부</text><text x="24" y="100" fill="#B5D6F2" font-size="16">교수 · 기업 · 기관 · 타 대학</text></g>
+  <g transform="translate(450,335)"><rect width="330" height="125" rx="20" fill="#0C355A"/><text x="24" y="38" fill="#81C5FF" font-size="16">06</text><text x="24" y="70" fill="white" font-size="23" font-weight="700">경영지원부</text><text x="24" y="100" fill="#B5D6F2" font-size="16">예산 · 구매 · 회계 · 회원관리</text></g>
+  <g transform="translate(820,335)"><rect width="330" height="125" rx="20" fill="#0C355A"/><text x="24" y="38" fill="#81C5FF" font-size="16">07</text><text x="24" y="70" fill="white" font-size="23" font-weight="700">교육·행사부</text><text x="24" y="100" fill="#B5D6F2" font-size="16">멘토링 · 교육 · 체험 · 행사</text></g>
+  <g transform="translate(1190,335)"><rect width="330" height="125" rx="20" fill="#0C355A"/><text x="24" y="38" fill="#81C5FF" font-size="16">08</text><text x="24" y="70" fill="white" font-size="23" font-weight="700">인문사회·사용자연구부</text><text x="24" y="100" fill="#B5D6F2" font-size="16">행정 · 법 · 심리 · 사용자 관점</text></g>
+</g>
+</svg>

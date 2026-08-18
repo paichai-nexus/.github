@@ -1,0 +1,15 @@
+<svg width="1600" height="360" viewBox="0 0 1600 360" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="360" rx="30" fill="#081C33"/>
+<text x="70" y="70" fill="#7FC5FF" font-family="Arial" font-size="21" letter-spacing="4">NEXUS DELIVERY SYSTEM</text>
+<text x="70" y="112" fill="white" font-family="Arial" font-size="32" font-weight="700">아이디어를 ‘결과’가 아니라 ‘검증된 결과’로 연결합니다.</text>
+<g font-family="Arial">
+  <g transform="translate(75,175)"><circle cx="55" cy="55" r="52" fill="#0E4D82"/><text x="55" y="50" text-anchor="middle" fill="white" font-size="22" font-weight="700">01</text><text x="55" y="75" text-anchor="middle" fill="#B7DDFF" font-size="15">DISCOVER</text></g>
+  <g transform="translate(365,175)"><circle cx="55" cy="55" r="52" fill="#0E4D82"/><text x="55" y="50" text-anchor="middle" fill="white" font-size="22" font-weight="700">02</text><text x="55" y="75" text-anchor="middle" fill="#B7DDFF" font-size="15">DEFINE</text></g>
+  <g transform="translate(655,175)"><circle cx="55" cy="55" r="52" fill="#0E4D82"/><text x="55" y="50" text-anchor="middle" fill="white" font-size="22" font-weight="700">03</text><text x="55" y="75" text-anchor="middle" fill="#B7DDFF" font-size="15">BUILD</text></g>
+  <g transform="translate(945,175)"><circle cx="55" cy="55" r="52" fill="#0E4D82"/><text x="55" y="50" text-anchor="middle" fill="white" font-size="22" font-weight="700">04</text><text x="55" y="75" text-anchor="middle" fill="#B7DDFF" font-size="15">VALIDATE</text></g>
+  <g transform="translate(1235,175)"><circle cx="55" cy="55" r="52" fill="#0E4D82"/><text x="55" y="50" text-anchor="middle" fill="white" font-size="22" font-weight="700">05</text><text x="55" y="75" text-anchor="middle" fill="#B7DDFF" font-size="15">EVIDENCE</text></g>
+</g>
+<g stroke="#58ABF0" stroke-width="3" opacity=".7">
+  <path d="M190 230H365"/><path d="M480 230H655"/><path d="M770 230H945"/><path d="M1060 230H1235"/>
+</g>
+</svg>
