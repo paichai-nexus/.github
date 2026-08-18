@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="../assets/nexus-hero-v3.svg" width="100%" alt="PAICHAI NEXUS">
 </p>
 
@@ -6,6 +6,7 @@
   <a href="https://github.com/paichai-nexus/smart-seedling-ai"><img src="https://img.shields.io/badge/🌱_ACTIVE_PROJECT-Smart_Seedling_AI-2563eb?style=for-the-badge"></a>
   <a href="../docs/MEMBERS.md"><img src="https://img.shields.io/badge/👥_ROSTER-2026_·_2027-0f766e?style=for-the-badge"></a>
   <a href="../docs/PROJECT_STANDARD.md"><img src="https://img.shields.io/badge/📘_STANDARD-NEXUS_SYSTEM-1d4ed8?style=for-the-badge"></a>
+  <a href="https://www.instagram.com/nexus_paichai/"><img src="https://img.shields.io/badge/Instagram-@nexus__paichai-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <h3 align="center">연결로 시작해, 해결로 완성하라.</h3>
@@ -284,7 +285,14 @@ AI · SW · HW · Embedded · 기술 연구
 ---
 
 <p align="center">
+  <a href="https://www.instagram.com/nexus_paichai/">
+    <img src="https://img.shields.io/badge/Instagram-@nexus__paichai-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="PAICHAI NEXUS Instagram">
+  </a>
+</p>
+
+<p align="center">
   <b>PAICHAI NEXUS</b><br>
   연결로 시작해, 해결로 완성하라.<br><br>
   <sub>Pai Chai University · Daejeon, Republic of Korea</sub>
 </p>
+
