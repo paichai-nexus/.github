@@ -197,21 +197,11 @@
 
 ---
 
-# 🔗 GitHub Mapping Queue
+# 🔗 GitHub Mapping Status
 
-현재 GitHub 조직에는 공개 등록된 멤버가 **19명**입니다. 아래 계정들은 전공은 확인되어 있으나, 현재 확보된 명단만으로는 실명 매핑을 확정하지 않았습니다.
+✅ **현재 GitHub 공개 등록 19명 실명 매핑 완료**
 
-| GitHub | 전공 | 상태 |
-| --- | --- | --- |
-| [@wjddbgks4046-ai](https://github.com/wjddbgks4046-ai) | 전기전자 | 실명 매핑 확인 필요 |
-| [@jack070401](https://github.com/jack070401) | 전기전자 | 실명 매핑 확인 필요 |
-| [@seongjun018](https://github.com/seongjun018) | 드론로봇 | 실명 매핑 확인 필요 |
-| [@happurity](https://github.com/happurity) | 경찰법학 | 실명 매핑 확인 필요 |
-| [@overflow-52](https://github.com/overflow-52) | 경찰법학 | 실명 매핑 확인 필요 |
-| [@jeonghawaii07](https://github.com/jeonghawaii07) | 보건의료복지 | 실명 매핑 확인 필요 |
-| [@minixdbxkyuu](https://github.com/minixdbxkyuu) | 스포츠·레저 | 실명 매핑 확인 필요 |
-
-> 계정 이름만 보고 실명을 추정하지 않습니다. 확인되는 즉시 해당 전공 표에 연결합니다.
+GitHub 공개 등록 인원이 늘어날 때마다 이 문서와 메인 People 섹션을 함께 갱신합니다.
 
 ---
 

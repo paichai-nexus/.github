@@ -561,7 +561,7 @@ Competition · Service · Research · Collaboration · Handover
 <tr>
 <td align="center" width="20%">
 <a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=160" width="82"><br><b>@gxmzung</b></a><br>
-<sub>컴퓨터공학</sub><br>
+<sub><b>이영준</b> · 컴퓨터공학</sub><br>
 <sub><b>Founder · President</b></sub>
 </td>
 <td align="center" width="20%">
@@ -593,15 +593,15 @@ Competition · Service · Research · Collaboration · Handover
 </td>
 <td align="center" width="20%">
 <a href="https://github.com/wjddbgks4046-ai"><img src="https://github.com/wjddbgks4046-ai.png?size=160" width="82"><br><b>@wjddbgks4046-ai</b></a><br>
-<sub>전기전자</sub>
+<sub><b>정유한</b> · 전기전자</sub>
 </td>
 <td align="center" width="20%">
 <a href="https://github.com/jack070401"><img src="https://github.com/jack070401.png?size=160" width="82"><br><b>@jack070401</b></a><br>
-<sub>전기전자</sub>
+<sub><b>장성빈</b> · 전기전자</sub>
 </td>
 <td align="center" width="20%">
 <a href="https://github.com/seongjun018"><img src="https://github.com/seongjun018.png?size=160" width="82"><br><b>@seongjun018</b></a><br>
-<sub>드론로봇</sub>
+<sub><b>박성준</b> · 드론로봇</sub>
 </td>
 </tr>
 </table>
@@ -612,11 +612,11 @@ Competition · Service · Research · Collaboration · Handover
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/happurity"><img src="https://github.com/happurity.png?size=160" width="82"><br><b>@happurity</b></a><br>
-<sub>경찰법학</sub>
+<sub><b>심주연</b> · 경찰법학</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/overflow-52"><img src="https://github.com/overflow-52.png?size=160" width="82"><br><b>@overflow-52</b></a><br>
-<sub>경찰법학</sub>
+<sub><b>이혜성</b> · 경찰법학</sub>
 </td>
 </tr>
 </table>
@@ -642,7 +642,7 @@ Competition · Service · Research · Collaboration · Handover
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/jeonghawaii07"><img src="https://github.com/jeonghawaii07.png?size=160" width="82"><br><b>@jeonghawaii07</b></a><br>
-<sub>보건의료복지</sub>
+<sub><b>김정환</b> · 보건의료복지</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/guswls0520"><img src="https://github.com/guswls0520.png?size=160" width="82"><br><b>@guswls0520</b></a><br>
@@ -661,7 +661,7 @@ Competition · Service · Research · Collaboration · Handover
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/minixdbxkyuu"><img src="https://github.com/minixdbxkyuu.png?size=160" width="82"><br><b>@minixdbxkyuu</b></a><br>
-<sub>스포츠마케팅</sub>
+<sub><b>곽민규</b> · 스포츠마케팅</sub>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/sera881"><img src="https://github.com/sera881.png?size=160" width="82"><br><b>@sera881</b></a><br>
