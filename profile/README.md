@@ -549,10 +549,10 @@ Competition · Service · Research · Collaboration · Handover
 
 <br>
 
-## 2026 · GitHub Members
+## 2026 · GitHub Members · 19
 
 <p align="center">
-  <sub>2026 배재대학교 단과대 체계를 기준으로 정리합니다.</sub>
+  <sub>2026 배재대학교 단과대 체계를 기준으로 정리합니다. · GitHub 공개 등록 19명</sub>
 </p>
 
 ### 🤖 AI·SW창의융합대학
@@ -671,7 +671,7 @@ Competition · Service · Research · Collaboration · Handover
 </table>
 
 <p align="center">
-  <sub>GitHub 가입 및 조직 초대가 완료된 멤버부터 순차적으로 등록합니다.</sub>
+  <sub>현재 GitHub 공개 등록 19명 · 조직 초대 및 가입 확인 순으로 갱신합니다.</sub>
 </p>
 
 <br>
