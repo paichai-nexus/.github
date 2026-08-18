@@ -1,5 +1,13 @@
-﻿<p align="center">
+<p align="center">
   <img src="../assets/nexus-hero-v3.svg" width="100%" alt="PAICHAI NEXUS">
+</p>
+
+<p align="center">
+  <a href="#-nexus-2026"><b>ABOUT</b></a> ·
+  <a href="#-지금-만드는-것"><b>PROJECTS</b></a> ·
+  <a href="#-8개의-부서-하나의-프로젝트"><b>ORGANIZATION</b></a> ·
+  <a href="#-people"><b>PEOPLE</b></a> ·
+  <a href="#-nexus에-합류하고-싶다면"><b>JOIN</b></a>
 </p>
 
 <p align="center">
@@ -50,7 +58,7 @@
 개별 모종의 이미지와 환경 데이터를 수집하고  
 Vision AI를 활용해 생육 상태를 분석하는 연구 플랫폼.
 
-**STATUS** `ACTIVE`
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-16a34a?style=flat-square">
 
 [**→ Repository**](https://github.com/paichai-nexus/smart-seedling-ai)
 
@@ -63,7 +71,7 @@ Vision AI를 활용해 생육 상태를 분석하는 연구 플랫폼.
 남은 식재료를 인식하고 먼저 소비해야 할 재료를 판단해  
 실제로 조리 가능한 레시피로 연결하는 프로젝트.
 
-**STATUS** `CONCEPT / RESEARCH`
+<img src="https://img.shields.io/badge/STATUS-CONCEPT%20%2F%20RESEARCH-f59e0b?style=flat-square">
 
 </td>
 </tr>
@@ -77,7 +85,7 @@ Vision AI를 활용해 생육 상태를 분석하는 연구 플랫폼.
 대학병원 환경에서 간호 업무 흐름과  
 의료정보시스템을 함께 바라보는 프로젝트.
 
-**STATUS** `PLANNING / RESEARCH`
+<img src="https://img.shields.io/badge/STATUS-PLANNING%20%2F%20RESEARCH-0ea5e9?style=flat-square">
 
 </td>
 <td width="50%" valign="top">
@@ -88,14 +96,14 @@ Vision AI를 활용해 생육 상태를 분석하는 연구 플랫폼.
 터널 구간의 지질 특성을 분석하고  
 토목 구조 안정성과 연결하는 연구 프로젝트.
 
-**STATUS** `RESEARCH`
+<img src="https://img.shields.io/badge/STATUS-RESEARCH-7c3aed?style=flat-square">
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>2026 프로젝트 포트폴리오 전체 보기</b></summary>
+<summary><b>📂 2026 프로젝트 포트폴리오 전체 보기</b></summary>
 
 <br>
 
@@ -182,25 +190,25 @@ AI · SW · HW · Embedded · 기술 연구
 
 ## 👥 People
 
-### 2026 GitHub Members
+### 2026 · GitHub Members
 
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=120" width="72"><br><b>@gxmzung</b></a><br>
+<a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=120" width="76"><br><b>@gxmzung</b></a><br>
 <sub>Computer Engineering</sub><br>
-<sub>Founder · President</sub>
+<sub><b>Founder · President</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/chan1150"><img src="https://github.com/chan1150.png?size=120" width="72"><br><b>@chan1150</b></a><br>
+<a href="https://github.com/chan1150"><img src="https://github.com/chan1150.png?size=120" width="76"><br><b>@chan1150</b></a><br>
 <sub>Electrical & Electronics</sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=120" width="72"><br><b>@haeum8877</b></a><br>
+<a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=120" width="76"><br><b>@haeum8877</b></a><br>
 <sub>Architecture</sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=120" width="72"><br><b>@minwoo9</b></a><br>
+<a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=120" width="76"><br><b>@minwoo9</b></a><br>
 <sub>IT Management</sub>
 </td>
 </tr>
@@ -210,9 +218,14 @@ AI · SW · HW · Embedded · 기술 연구
   <sub>GitHub 가입 및 조직 초대가 완료된 멤버부터 순차 등록합니다.</sub>
 </p>
 
-### 2027
+### 2027 · Transition
 
-> **Continuing · New · Returning · Leadership Transition**
+<table>
+<tr>
+<td width="50%" align="center"><b>Continuing Members</b><br><sub>계속 활동하는 멤버</sub></td>
+<td width="50%" align="center"><b>New / Returning Members</b><br><sub>신규 · 복귀 멤버</sub></td>
+</tr>
+</table>
 
 군 복무, 휴학, 복학, 졸업, 신규 모집에 따라  
 **2026과 2027의 로스터는 별도로 관리합니다.**
@@ -228,28 +241,32 @@ AI · SW · HW · Embedded · 기술 연구
 <td width="33%" align="center">
 
 ### BUILD
-말보다 결과물
+**말보다 결과물**
 
 </td>
 <td width="33%" align="center">
 
 ### VALIDATE
-주장보다 검증
+**주장보다 검증**
 
 </td>
 <td width="33%" align="center">
 
 ### CONNECT
-전공보다 연결
+**전공보다 연결**
 
 </td>
 </tr>
 </table>
 
-**구상 ≠ 구현 ≠ 시연 ≠ 검증 ≠ 실증**
+<p align="center">
+  <b>구상 ≠ 구현 ≠ 시연 ≠ 검증 ≠ 실증</b>
+</p>
 
-우리는 각 단계를 구분하고, 한계를 숨기지 않고,  
+<p align="center">
+우리는 각 단계를 구분하고, 한계를 숨기지 않고,<br>
 다음 사람이 이어갈 수 있도록 기록합니다.
+</p>
 
 ---
 
@@ -273,26 +290,26 @@ AI · SW · HW · Embedded · 기술 연구
 ## ✨ NEXUS에 합류하고 싶다면
 
 <p align="center">
-  <img src="../assets/nexus-recruitment-2026.png" width="72%" alt="PAICHAI NEXUS 신입부원 모집">
+  <img src="../assets/nexus-recruitment-2026.png" width="68%" alt="PAICHAI NEXUS 신입부원 모집">
 </p>
+
+<h3 align="center">개발자만 찾지 않습니다.</h3>
 
 <p align="center">
-<b>개발자만 찾지 않습니다.</b><br>
 기획 · 디자인 · 행정 · 경영 · 연구 · 콘텐츠 · 발표 · 사용자 조사까지,<br>
-자신의 전공을 실제 프로젝트에 연결하고 싶은 학생을 기다립니다.
+<b>자신의 전공을 실제 프로젝트에 연결하고 싶은 학생</b>을 기다립니다.
 </p>
-
----
 
 <p align="center">
   <a href="https://www.instagram.com/nexus_paichai/">
-    <img src="https://img.shields.io/badge/Instagram-@nexus__paichai-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="PAICHAI NEXUS Instagram">
+    <img src="https://img.shields.io/badge/Instagram-@nexus__paichai-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
+
+---
 
 <p align="center">
   <b>PAICHAI NEXUS</b><br>
   연결로 시작해, 해결로 완성하라.<br><br>
   <sub>Pai Chai University · Daejeon, Republic of Korea</sub>
 </p>
-
