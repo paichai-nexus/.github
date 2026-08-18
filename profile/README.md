@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="https://raw.githubusercontent.com/paichai-nexus/.github/main/assets/nexus-hero-v6.svg" width="100%" alt="PAICHAI NEXUS">
 </p>
 
@@ -595,6 +595,10 @@ Competition · Service · Research · Collaboration · Handover
 <a href="https://github.com/seongjun018"><img src="https://github.com/seongjun018.png?size=160" width="82"><br><b>@seongjun018</b></a><br>
 <sub>드론로봇</sub>
 </td>
+<td align="center" width="20%">
+<a href="https://github.com/jack070401"><img src="https://github.com/jack070401.png?size=160" width="82"><br><b>@jack070401</b></a><br>
+<sub>전기전자</sub>
+</td>
 </tr>
 </table>
 
@@ -1136,3 +1140,4 @@ NEXUS의 장기 목표 중 하나는
 <p align="center">
   <sub>© 2026 PAICHAI NEXUS · Built to be continued.</sub>
 </p>
+
