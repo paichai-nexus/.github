@@ -1,105 +1,106 @@
 <p align="center">
-  <img src="../assets/nexus-main-banner.png" width="100%" alt="PAICHAI NEXUS">
-</p>
-
-<h1 align="center">배재대학교 NEXUS</h1>
-<h3 align="center">학생 주도 융합 프로젝트 조직</h3>
-
-<p align="center">
-  <b>전공을 연결하고, 문제를 해결하고, 결과를 증명하는 팀</b>
+  <img src="../assets/nexus-hero-v3.svg" width="100%" alt="PAICHAI NEXUS">
 </p>
 
 <p align="center">
-  <a href="https://github.com/paichai-nexus/smart-seedling-ai">
-    <img src="https://img.shields.io/badge/대표%20프로젝트-Smart%20Seedling%20AI-2563eb?style=for-the-badge">
-  </a>
-  <a href="../docs/MEMBERS.md">
-    <img src="https://img.shields.io/badge/멤버%20구성-2026%20%2F%202027-0f766e?style=for-the-badge">
-  </a>
-  <a href="../docs/PROJECT_STANDARD.md">
-    <img src="https://img.shields.io/badge/프로젝트%20표준-NEXUS%20SYSTEM-1d4ed8?style=for-the-badge">
-  </a>
+  <a href="https://github.com/paichai-nexus/smart-seedling-ai"><img src="https://img.shields.io/badge/🌱_ACTIVE_PROJECT-Smart_Seedling_AI-2563eb?style=for-the-badge"></a>
+  <a href="../docs/MEMBERS.md"><img src="https://img.shields.io/badge/👥_ROSTER-2026_·_2027-0f766e?style=for-the-badge"></a>
+  <a href="../docs/PROJECT_STANDARD.md"><img src="https://img.shields.io/badge/📘_STANDARD-NEXUS_SYSTEM-1d4ed8?style=for-the-badge"></a>
+</p>
+
+<h3 align="center">연결로 시작해, 해결로 완성하라.</h3>
+
+<p align="center">
+  NEXUS는 다양한 전공의 학생들이 모여<br>
+  <b>아이디어를 실제 프로젝트 · 연구 · 서비스 · 공모전 · 논문으로 이어가는 학생 주도 융합 조직</b>입니다.
 </p>
 
 ---
 
-## 우리는 어떤 팀인가요?
-
-**NEXUS**는 배재대학교 안에서 다양한 전공의 학생들이 함께 모여,  
-실제 문제를 **프로젝트·연구·서비스·공모전·발표**로 연결하는  
-**학생 주도 융합 프로젝트 조직**입니다.
-
-단순히 “전공이 다른 학생들이 모였다”에서 끝나는 팀이 아니라,  
-각 전공이 실제 역할을 맡아 **기획 → 개발 → 검증 → 결과물**까지 만드는 것을 목표로 합니다.
-
-```text
-문제 발견
-   ↓
-팀 구성
-   ↓
-기획 / 설계
-   ↓
-개발 / 연구
-   ↓
-검증 / 피드백
-   ↓
-결과물 도출
-   ↓
-공모전 / 발표 / 논문 / 서비스
-```
-
----
-
-## NEXUS 한눈에 보기
+## ✦ NEXUS 2026
 
 <table>
 <tr>
-<td align="center" width="25%">
-<h3>47명</h3>
-<p>2026 조직 구성원</p>
+<td align="center" width="25%"><h2>47</h2><sub>MEMBERS</sub><br><b>활동 구성원</b></td>
+<td align="center" width="25%"><h2>19</h2><sub>FIELDS</sub><br><b>참여 전공</b></td>
+<td align="center" width="25%"><h2>8</h2><sub>DIVISIONS</sub><br><b>운영 부서</b></td>
+<td align="center" width="25%"><h2>2026</h2><sub>FIRST YEAR</sub><br><b>NEXUS 시작</b></td>
+</tr>
+</table>
+
+<p align="center">
+<code>컴퓨터공학</code> · <code>소프트웨어</code> · <code>게임공학</code> · <code>드론</code> · <code>전기전자</code> ·
+<code>정보보안</code> · <code>철도건설</code> · <code>행정</code> · <code>경영</code> · <code>IT경영</code> ·
+<code>경찰</code> · <code>레저스포츠</code> · <code>식품</code> · <code>간호</code> · <code>외식조리</code> ·
+<code>미디어콘텐츠</code> · <code>건축</code> · <code>커뮤니케이션디자인</code> · <code>조경</code>
+</p>
+
+---
+
+## 🚀 지금 만드는 것
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 Smart Seedling AI
+**Vision AI × IoT × 원예·산림**
+
+개별 모종의 이미지와 환경 데이터를 수집하고  
+Vision AI를 활용해 생육 상태를 분석하는 연구 플랫폼.
+
+**STATUS** `ACTIVE`
+
+[**→ Repository**](https://github.com/paichai-nexus/smart-seedling-ai)
+
 </td>
-<td align="center" width="25%">
-<h3>19개</h3>
-<p>전공 분야</p>
+<td width="50%" valign="top">
+
+### 🍽️ Zero-Waste FoodTech
+**Vision AI × 외식조리 × 식품영양**
+
+남은 식재료를 인식하고 먼저 소비해야 할 재료를 판단해  
+실제로 조리 가능한 레시피로 연결하는 프로젝트.
+
+**STATUS** `CONCEPT / RESEARCH`
+
 </td>
-<td align="center" width="25%">
-<h3>8개</h3>
-<p>운영 부서</p>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Healthcare HIS
+**IT × 간호 × 사용자 경험**
+
+대학병원 환경에서 간호 업무 흐름과  
+의료정보시스템을 함께 바라보는 프로젝트.
+
+**STATUS** `PLANNING / RESEARCH`
+
 </td>
-<td align="center" width="25%">
-<h3>1개+</h3>
-<p>공개 프로젝트 저장소</p>
+<td width="50%" valign="top">
+
+### 🏗️ Tunnel Stability Research
+**철도건설 × 지질 × 데이터 분석**
+
+터널 구간의 지질 특성을 분석하고  
+토목 구조 안정성과 연결하는 연구 프로젝트.
+
+**STATUS** `RESEARCH`
+
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>2026 프로젝트 포트폴리오 전체 보기</b></summary>
 
-## 어떤 사람들이 함께하나요?
+<br>
 
-NEXUS에는 개발자만 있는 것이 아닙니다.  
-기획, 디자인, 행정, 경영, 간호, 식품, 스포츠, 건축, 보안, 철도, 전기전자 등  
-다양한 전공의 학생들이 함께합니다.
-
-### 참여 전공 예시
-
-`컴퓨터공학` · `소프트웨어` · `게임공학` · `드론` · `전기전자`  
-`철도건설` · `정보보안` · `행정` · `경영` · `IT경영`  
-`경찰` · `레저스포츠` · `보건의복` · `식품` · `간호`  
-`외식조리` · `미디어콘텐츠` · `건축` · `커뮤니케이션디자인` · `조경`
-
----
-
-## 우리가 만드는 프로젝트
-
-NEXUS는 전공을 섞기만 하는 팀이 아니라,  
-**실제로 결과물이 나오는 프로젝트 구조**를 지향합니다.
-
-### 2026 주요 프로젝트 방향
-
-| 분야 | 프로젝트 | 상태 |
+| 분야 | 프로젝트 | 단계 |
 | --- | --- | --- |
-| 🌱 원예·산림 | Vision AI 기반 작물 생육 진단 및 맞춤형 방제/시비 솔루션 | 진행중 |
+| 🌱 원예·산림 | Vision AI 기반 작물 생육 진단 및 맞춤형 방제/시비 솔루션 | **진행중** |
 | 🏥 간호 | 대학병원향 통합 의료 정보 시스템(HIS) 및 간호 실무 최적화 | 기획 / 연구 |
 | 🧬 생명공학 | BioDockLab 글로벌 임상시험 데이터 관리 및 바이오뱅킹 플랫폼 | 기획 / 연구 |
 | 🏗️ 철도·토목 | 도마·도안 터널 구간 지질 특성 분석 기반 구조 안정성 연구 | 연구 |
@@ -107,203 +108,183 @@ NEXUS는 전공을 섞기만 하는 팀이 아니라,
 | 🍽️ FoodTech | Vision AI 기반 Zero-Waste 식재료 인식 및 레시피 추천 | 구상 / 연구 |
 | 🧪 FoodTech | AI 메뉴개발 및 소비자 평가 연구 | 구상 / 연구 |
 
-> **중요:**  
-> NEXUS는 기획, 구현, 검증, 실증 단계를 구분합니다.  
-> “아이디어 있음”과 “검증 완료”를 같은 것으로 취급하지 않습니다.
+</details>
 
 ---
 
-## 대표 공개 프로젝트
+## 🧩 하나의 전공으로 풀 수 없는 문제를 다룹니다
 
-### 🌱 Smart Seedling AI
-
-**Vision AI + IoT 기반 개별 모종 생육 모니터링 연구 플랫폼**
-
-[👉 저장소 바로가기](https://github.com/paichai-nexus/smart-seedling-ai)
-
-이 프로젝트는 작물/모종의 생장 상태를 이미지와 센서 기반으로 수집하고,  
-Vision AI를 통해 개별 생육 상태를 분석하는 연구형 프로젝트입니다.
+<table>
+<tr>
+<td align="center" width="20%"><b>01</b><br>문제 발견<br><sub>DISCOVER</sub></td>
+<td align="center" width="20%"><b>02</b><br>역할 정의<br><sub>DEFINE</sub></td>
+<td align="center" width="20%"><b>03</b><br>개발·연구<br><sub>BUILD</sub></td>
+<td align="center" width="20%"><b>04</b><br>검증<br><sub>VALIDATE</sub></td>
+<td align="center" width="20%"><b>05</b><br>근거 남기기<br><sub>EVIDENCE</sub></td>
+</tr>
+</table>
 
 ```text
-모종 / 센서 데이터
-      ↓
-이미지 및 환경 데이터 수집
-      ↓
-Vision AI 분석
-      ↓
-개별 생육 모니터링
-      ↓
-진단 / 의사결정 보조
-      ↓
-검증 및 연구 결과
+아이디어
+  ↓
+전공별 역할
+  ↓
+실제 결과물
+  ↓
+사용자 / 전문가 / 데이터 검증
+  ↓
+공모전 · 연구 · 논문 · 서비스 · 산학협력
 ```
 
----
-
-## NEXUS 조직도
-
-NEXUS는 아래와 같은 **8개 부서 체계**를 기반으로 운영됩니다.
-
-| 부서 | 역할 |
-| --- | --- |
-| **기획전략부** | 아이디어를 발굴하고 프로젝트와 조직의 방향을 기획 |
-| **프로젝트운영부** | 프로젝트 일정·인원·진행상황·리스크를 관리 |
-| **연구개발부** | AI·SW·HW·임베디드 등 실제 기술과 결과물을 개발 |
-| **디자인·커뮤니케이션부** | 디자인·콘텐츠·SNS·홍보·발표자료 제작 |
-| **대외협력부** | 교수·기업·기관·타 대학과의 협력 및 네트워크 담당 |
-| **경영지원부** | 예산·구매·회계·회원관리 등 조직 운영 지원 |
-| **교육·행사부** | 전공 멘토링·고교/청소년/대학 교육, 동아리 체험 행사 부스 |
-| **인문사회·사용자연구부** | 행정·법·심리 등 사회·사용자 관점에서 프로젝트 검토 |
-
-```text
-아이디어 발굴
-   ↓
-팀 구성
-   ↓
-프로젝트 운영
-   ↓
-개발 / 연구
-   ↓
-검증 / 사용자 관점 검토
-   ↓
-홍보 / 발표 / 대외협력
-   ↓
-다음 프로젝트로 확장
-```
+> **NEXUS의 기준은 “만들었다”가 아니라 “왜 만들었고, 어떻게 검증했는지 설명할 수 있는가”입니다.**
 
 ---
 
-## 멤버 구성
+## 🏛️ 8개의 부서, 하나의 프로젝트
 
-NEXUS는 **연도별로 조직을 관리**합니다.  
-군 복무, 휴학, 복학, 졸업, 신규 모집, 인수인계 등으로 인해  
-활동 멤버 구성이 달라질 수 있기 때문입니다.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 2026 GitHub 등록 멤버
+### 🧭 기획전략부
+아이디어 발굴 · 조직 방향 · 프로젝트 기획
 
-> 실명 대신 **GitHub 아이디 기준**으로 관리합니다.
+### 📋 프로젝트운영부
+일정 · 인원 · 진행상황 · 리스크 관리
 
-| GitHub | 전공 | 역할 |
-| --- | --- | --- |
-| [@gxmzung](https://github.com/gxmzung) | 컴퓨터공학 | Founder · President |
-| [@chan1150](https://github.com/chan1150) | 전기전자 | Member |
-| [@haeum8877](https://github.com/haeum8877) | 건축 | Member |
-| [@minwoo9](https://github.com/minwoo9) | IT경영 | Member |
+### 🧑‍💻 연구개발부
+AI · SW · HW · Embedded · 기술 연구
 
-추가 멤버는 GitHub 가입 및 조직 초대 완료 후 순차 반영됩니다.
+### 🎨 디자인·커뮤니케이션부
+디자인 · 콘텐츠 · SNS · 발표 · 브랜딩
 
-### 2027 조직 구분
+</td>
+<td width="50%" valign="top">
 
-| 구분 | 설명 |
-| --- | --- |
-| **Continuing Members** | 2026에서 계속 활동하는 멤버 |
-| **New / Returning Members** | 신규 모집 또는 복귀 멤버 |
-| **Project Maintainers** | 프로젝트 지속 운영 담당 |
-| **Leadership Transition** | 차기 운영진 / 리더십 인수인계 |
+### 🤝 대외협력부
+교수 · 기업 · 기관 · 타 대학 협력
 
-자세한 정책은 아래 문서에서 관리합니다.
+### 💼 경영지원부
+예산 · 구매 · 회계 · 회원관리
 
-- [멤버 및 연도별 로스터 정책 보기](../docs/MEMBERS.md)
+### 🎓 교육·행사부
+멘토링 · 교육 · 체험부스 · 행사
 
----
+### 🔎 인문사회·사용자연구부
+행정 · 법 · 심리 · 사회 · 사용자 관점 검토
 
-## NEXUS는 이렇게 일합니다
-
-NEXUS의 프로젝트는 “발표자료만 예쁘게 만들고 끝”나는 방식이 아니라,  
-아래처럼 **역할과 근거가 남는 구조**를 추구합니다.
-
-| 단계 | 질문 | 결과물 예시 |
-| --- | --- | --- |
-| **DISCOVER** | 어떤 문제를 해결할 것인가? | 문제 정의, 배경, 타겟 |
-| **DEFINE** | 무엇을 어디까지 할 것인가? | 요구사항, 연구 질문, 범위 |
-| **BUILD** | 실제로 무엇을 만들 것인가? | 프로토타입, 시스템, 실험 |
-| **VALIDATE** | 이것이 실제로 작동하는가? | 테스트, 사용자 평가, 도메인 검토 |
-| **EVIDENCE** | 이를 어떻게 증명할 것인가? | 데이터, 문서, 보고서, 발표, 논문 |
-
-```text
-DISCOVER → DEFINE → BUILD → VALIDATE → EVIDENCE → ITERATE
-```
+</td>
+</tr>
+</table>
 
 ---
 
-## 프로젝트 원칙
+## 👥 People
 
-### 1. 보여주기보다 만들기
-발표는 중요하지만, 발표 자체가 결과물은 아닙니다.
+### 2026 GitHub Members
 
-### 2. 전공마다 실제 역할이 있어야 함
-이름만 올리는 융합이 아니라, 각 전공이 실제 책임을 가져야 합니다.
-
-### 3. 주장보다 근거
-구현, 시연, 검증, 실증은 다릅니다.
-
-```text
-구상
- ↓
-구현
- ↓
-시연
- ↓
-검증
- ↓
-실증
-```
-
-### 4. 과정이 남아야 함
-README, 문서, 이슈, PR, 결과자료가 남아야 다음 사람이 이어받을 수 있습니다.
-
-### 5. 다음 단계가 있어야 함
-좋은 프로젝트는 다음 중 하나로 이어질 수 있어야 합니다.
-
-`공모전` · `연구` · `서비스` · `부스 운영` · `발표` · `산학협력`
-
----
-
-## 함께할 수 있는 분야
-
-NEXUS는 아래와 같은 분야의 협업을 지향합니다.
-
-`AI` · `SW` · `Embedded` · `UAV / Drone` · `Healthcare IT`  
-`Bio AI` · `FoodTech` · `Agri AIoT` · `GIS / 재난안전`  
-`공공서비스` · `정책` · `디자인` · `UX` · `사용자 연구`
-
----
-
-## 외부 협력
-
-NEXUS는 다음과 같은 협력을 열어두고 있습니다.
-
-- 교수 및 연구실
-- 기업 및 스타트업
-- 공공기관
-- 타 대학 학생팀
-- 청소년 / 고교 교육 프로그램
-- 전공 간 공동 프로젝트
-
----
-
-## NEXUS 신입부원 모집
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=120" width="72"><br><b>@gxmzung</b></a><br>
+<sub>Computer Engineering</sub><br>
+<sub>Founder · President</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/chan1150"><img src="https://github.com/chan1150.png?size=120" width="72"><br><b>@chan1150</b></a><br>
+<sub>Electrical & Electronics</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=120" width="72"><br><b>@haeum8877</b></a><br>
+<sub>Architecture</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=120" width="72"><br><b>@minwoo9</b></a><br>
+<sub>IT Management</sub>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="../assets/nexus-recruitment-2026.png" width="85%" alt="PAICHAI NEXUS 신입부원 모집">
+  <sub>GitHub 가입 및 조직 초대가 완료된 멤버부터 순차 등록합니다.</sub>
 </p>
 
-NEXUS는 **혼자 잘하는 사람보다 함께 결과를 만드는 사람**을 중요하게 생각합니다.
+### 2027
 
-개발자뿐만 아니라 기획, 디자인, 행정, 경영, 연구, 발표, 콘텐츠, 사용자 조사 등  
-각자의 전공과 강점을 프로젝트에 연결하고 싶은 학생을 기다립니다.
+> **Continuing · New · Returning · Leadership Transition**
 
-**모집 대상**
+군 복무, 휴학, 복학, 졸업, 신규 모집에 따라  
+**2026과 2027의 로스터는 별도로 관리합니다.**
 
-- 배재대학교 재학생 및 휴학생
-- 전공 무관
-- 프로젝트를 실제 결과물까지 이어가고 싶은 학생
-- 서로 다른 전공의 사람과 협업할 의지가 있는 학생
+[**→ 연도별 멤버 정책 보기**](../docs/MEMBERS.md)
+
+---
+
+## 🧠 우리가 중요하게 보는 것
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### BUILD
+말보다 결과물
+
+</td>
+<td width="33%" align="center">
+
+### VALIDATE
+주장보다 검증
+
+</td>
+<td width="33%" align="center">
+
+### CONNECT
+전공보다 연결
+
+</td>
+</tr>
+</table>
+
+**구상 ≠ 구현 ≠ 시연 ≠ 검증 ≠ 실증**
+
+우리는 각 단계를 구분하고, 한계를 숨기지 않고,  
+다음 사람이 이어갈 수 있도록 기록합니다.
+
+---
+
+## 🌐 Collaboration
+
+<p align="center">
+  <code>교수 · 연구실</code> &nbsp;
+  <code>기업 · 스타트업</code> &nbsp;
+  <code>공공기관</code> &nbsp;
+  <code>타 대학</code> &nbsp;
+  <code>청소년 교육</code>
+</p>
+
+<p align="center">
+  AI · Robotics / UAV · Embedded · Healthcare IT · Bio AI · FoodTech<br>
+  Agriculture · Smart Infrastructure · Public Service · Design · UX · User Research
+</p>
+
+---
+
+## ✨ NEXUS에 합류하고 싶다면
+
+<p align="center">
+  <img src="../assets/nexus-recruitment-2026.png" width="72%" alt="PAICHAI NEXUS 신입부원 모집">
+</p>
+
+<p align="center">
+<b>개발자만 찾지 않습니다.</b><br>
+기획 · 디자인 · 행정 · 경영 · 연구 · 콘텐츠 · 발표 · 사용자 조사까지,<br>
+자신의 전공을 실제 프로젝트에 연결하고 싶은 학생을 기다립니다.
+</p>
 
 ---
 
 <p align="center">
-  <b>배재대학교 NEXUS</b><br>
-  <sub>연결로 시작해, 해결로 완성하라.</sub><br><br>
+  <b>PAICHAI NEXUS</b><br>
+  연결로 시작해, 해결로 완성하라.<br><br>
   <sub>Pai Chai University · Daejeon, Republic of Korea</sub>
 </p>
