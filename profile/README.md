@@ -92,7 +92,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paichai-nexus/.github/main/assets/nexus-field-network.svg" width="100%" alt="NEXUS interdisciplinary network">
+  <img src="https://raw.githubusercontent.com/paichai-nexus/.github/main/assets/nexus-field-network-v7.png" width="100%" alt="NEXUS interdisciplinary network">
 </p>
 
 <br>
@@ -277,7 +277,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paichai-nexus/.github/main/assets/nexus-workflow.svg" width="100%" alt="NEXUS workflow">
+  <img src="https://raw.githubusercontent.com/paichai-nexus/.github/main/assets/nexus-workflow-v7.png" width="100%" alt="NEXUS workflow">
 </p>
 
 <br>
@@ -433,7 +433,7 @@ Competition · Service · Research · Collaboration · Handover
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paichai-nexus/.github/main/assets/nexus-organization.svg" width="100%" alt="NEXUS organization">
+  <img src="https://raw.githubusercontent.com/paichai-nexus/.github/main/assets/nexus-organization-v7.png" width="100%" alt="NEXUS organization">
 </p>
 
 <br>
@@ -880,7 +880,7 @@ NEXUS
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paichai-nexus/.github/main/assets/nexus-join-v6.svg" width="100%" alt="Join PAICHAI NEXUS">
+  <img src="https://raw.githubusercontent.com/paichai-nexus/.github/main/assets/nexus-join-v7.png" width="100%" alt="Join PAICHAI NEXUS">
 </p>
 
 <br>
@@ -1172,5 +1172,6 @@ NEXUS의 장기 목표 중 하나는
 <p align="center">
   <sub>© 2026 PAICHAI NEXUS · Built to be continued.</sub>
 </p>
+
 
 
