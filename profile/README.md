@@ -37,8 +37,7 @@
 
 <p align="center">
   <b>PAICHAI NEXUS</b>는 서로 다른 전공의 학생들이 한 팀이 되어<br>
-문제를 정의하며 구축하고 검증 및 기록하는 학생 주도 융합 프로젝트 조직입니다.
-
+  문제를 정의하고, 구축하고, 검증하고, 기록하는 학생 주도 융합 프로젝트 조직입니다.
 </p>
 
 <p align="center">
@@ -56,12 +55,12 @@
 <table>
 <tr>
 <td align="center" width="20%">
-<h1>51</h1>
+<h1>53</h1>
 <sub>MEMBERS</sub><br>
 <b>활동 구성원</b>
 </td>
 <td align="center" width="20%">
-<h1>20</h1>
+<h1>21</h1>
 <sub>FIELDS</sub><br>
 <b>참여 전공</b>
 </td>
@@ -102,21 +101,22 @@
 
 <p align="center">
 <code>컴퓨터공학</code> ·
-<code>소프트웨어</code> ·
+<code>소프트웨어학</code> ·
 <code>게임공학</code> ·
-<code>드론로봇</code> ·
-<code>전기전자</code> ·
-<code>정보보안</code> ·
-<code>철도건설</code> ·
-<code>행정</code> ·
-<code>경영</code> ·
-<code>IT경영</code> ·
+<code>정보보안학</code> ·
+<code>드론로봇공학</code> ·
+<code>전기전자공학</code> ·
+<code>철도건설공학</code> ·
+<code>행정학</code> ·
+<code>경영학</code> ·
+<code>IT경영정보</code> ·
 <code>경찰법학</code> ·
-<code>스포츠·레저</code> ·
-<code>보의복</code> ·
-<code>식품</code> ·
+<code>보건의료복지</code> ·
+<code>식품영양</code> ·
 <code>간호</code> ·
 <code>외식조리</code> ·
+<code>원예산림</code> ·
+<code>레저스포츠</code> ·
 <code>미디어콘텐츠</code> ·
 <code>건축</code> ·
 <code>커뮤니케이션디자인</code> ·
@@ -139,7 +139,7 @@
 
 **Vision AI × IoT × 원예·산림**
 
-모종 개체별 이미지와 환경 데이터를 축적 및 생육 변화와 시각적 이상징후를 정량적으로 추적하는 연구 플랫폼.
+모종 개체별 이미지와 환경 데이터를 축적하고 생육 변화와 시각적 이상징후를 정량적으로 추적하는 연구 플랫폼.
 
 <br>
 
@@ -168,8 +168,7 @@
 
 **Vision AI × 외식조리 × 식품**
 
-보유 식재료 상태와 소비 우선순위 분석 및 실제 활용 <br>
-가능한 레시피로 연결하는 FoodTech 연구 아이디어.
+보유 식재료 상태와 소비 우선순위를 분석하고 실제 활용 가능한 레시피로 연결하는 FoodTech 연구 아이디어.
 
 <br>
 
@@ -196,8 +195,7 @@
 
 **IT × 간호 × 사용자 경험**
 
-간호 실무 흐름을 중심으로 병원 정보시스템의  
-업무 효율성과 사용자 경험을 함께 검토하는 프로젝트.
+간호 실무 흐름을 중심으로 병원 정보시스템의 업무 효율성과 사용자 경험을 함께 검토하는 프로젝트.
 
 <br>
 
@@ -220,7 +218,7 @@
 
 **철도건설 × 지질 × 데이터 분석**
 
-터널 구간 지질 특성과 구조 안정성 데이터 분석 및 <br> 토목·철도 분야 연구 결과와 연결하는 프로젝트.
+터널 구간 지질 특성과 구조 안정성 데이터를 분석하고 토목·철도 분야 연구 결과와 연결하는 프로젝트.
 
 <br>
 
@@ -289,8 +287,9 @@
 
 **문제를 찾습니다.**
 
-현장의 불편, 연구 질문, 사용자 요구에서
+현장의 불편, 연구 질문, 사용자 요구에서  
 기술적으로 풀 가치가 있는 문제를 발견합니다.
+
 </td>
 <td width="20%" valign="top">
 
@@ -547,132 +546,129 @@ Competition · Service · Research · Collaboration · Handover
 
 <br>
 
-## 2026 · GitHub Members · 19
+## 2026 · Current Members · 53
 
 <p align="center">
-  <sub>2026 배재대학교 단과대 체계를 기준으로 정리합니다. · GitHub 공개 등록 19명</sub>
+  <sub>2026 배재대학교 단과대·학부(과) 체계를 기준으로 정리합니다. · 53명 · 21개 참여 전공/분야 · GitHub 계정 확인 19명</sub>
 </p>
 
-### 🤖 AI·SW창의융합대학
+> **표기 원칙**
+>
+> - GitHub 계정이 확인된 멤버는 이름과 계정을 함께 연결합니다.
+> - GitHub 계정이 아직 확인되지 않은 멤버는 이름으로 기록합니다.
+> - `—` 표시는 현재 NEXUS 등록 멤버가 없는 학과·전공입니다.
+> - 2026 재학생의 소속 명칭을 우선 사용합니다.
+> - 평생교육융합학부와 글로벌융합학부는 본 공개 전공표에서 제외합니다.
 
-<table>
-<tr>
-<td align="center" width="20%">
-<a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=160" width="82"><br><b>@gxmzung</b></a><br>
-<sub><b>이영준</b> · 컴퓨터공학</sub><br>
-<sub><b>Founder · President</b></sub>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/SeongJun08"><img src="https://github.com/SeongJun08.png?size=160" width="82"><br><b>@SeongJun08</b></a><br>
-<sub><b>심승준</b> · 컴퓨터공학</sub>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/h-ng21o"><img src="https://github.com/h-ng21o.png?size=160" width="82"><br><b>@h-ng21o</b></a><br>
-<sub><b>홍정우</b> · 컴퓨터공학</sub>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/seoyul1128"><img src="https://github.com/seoyul1128.png?size=160" width="82"><br><b>@seoyul1128</b></a><br>
-<sub><b>이서율</b> · 소프트웨어</sub>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/shield-761"><img src="https://github.com/shield-761.png?size=160" width="82"><br><b>@shield-761</b></a><br>
-<sub><b>정한빈</b> · 게임공학</sub>
-</td>
-</tr>
+<br>
 
-<tr>
-<td align="center" width="20%">
-<a href="https://github.com/jaeh040817"><img src="https://github.com/jaeh040817.png?size=160" width="82"><br><b>@jaeh040817</b></a><br>
-<sub><b>유재현</b> · 정보보안</sub>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/chan1150"><img src="https://github.com/chan1150.png?size=160" width="82"><br><b>@chan1150</b></a><br>
-<sub><b>김민찬</b> · 전기전자</sub>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/wjddbgks4046-ai"><img src="https://github.com/wjddbgks4046-ai.png?size=160" width="82"><br><b>@wjddbgks4046-ai</b></a><br>
-<sub><b>정유한</b> · 전기전자</sub>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/jack070401"><img src="https://github.com/jack070401.png?size=160" width="82"><br><b>@jack070401</b></a><br>
-<sub><b>장성빈</b> · 전기전자</sub>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/seongjun018"><img src="https://github.com/seongjun018.png?size=160" width="82"><br><b>@seongjun018</b></a><br>
-<sub><b>박성준</b> · 드론로봇</sub>
-</td>
-</tr>
-</table>
+### 🌐 아펜젤러공유대학
+
+| 학부(과) / 전공 | 현재 NEXUS 멤버 |
+| --- | --- |
+| 자율전공학부 | — |
+
+<br>
 
 ### ⚖️ 인문사회대학
 
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/happurity"><img src="https://github.com/happurity.png?size=160" width="82"><br><b>@happurity</b></a><br>
-<sub><b>심주연</b> · 경찰법학</sub>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/overflow-52"><img src="https://github.com/overflow-52.png?size=160" width="82"><br><b>@overflow-52</b></a><br>
-<sub><b>이혜성</b> · 경찰법학</sub>
-</td>
-</tr>
-</table>
+| 학부(과) / 전공 | 현재 NEXUS 멤버 |
+| --- | --- |
+| 유아교육과 | — |
+| 국어국문한국어교육학과 | — |
+| 일본학과 | — |
+| 경찰법학부 · 전공 선택 전 | [**이혜성 · @overflow-52**](https://github.com/overflow-52) (1학년), [**심주연 · @happurity**](https://github.com/happurity) (1학년) |
+| └ 경찰학전공 | — |
+| └ 법학전공 | — |
+| 행정학과 | 정취영 (1학년) |
+| 심리상담학과 | — |
+
+<br>
 
 ### 💼 경영대학
 
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="82"><br><b>@minwoo9</b></a><br>
-<sub><b>구민우</b> · IT경영</sub>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/min020676"><img src="https://github.com/min020676.png?size=160" width="82"><br><b>@min020676</b></a><br>
-<sub><b>최민성</b> · IT경영</sub>
-</td>
-</tr>
-</table>
+| 학부(과) / 전공 | 현재 NEXUS 멤버 |
+| --- | --- |
+| 경영학과 | 문시우 (1학년) |
+| IT경영정보학과 | [**구민우 · @minwoo9**](https://github.com/minwoo9) (1학년), 권재현 (1학년), 신동우 (1학년), [**최민성 · @min020676**](https://github.com/min020676) (1학년) |
+| 글로벌비즈니스학과 | — |
+| 관광경영학과 | — |
+| 호텔항공경영학과 | — |
+| 항공서비스학과 | — |
+
+<br>
 
 ### 🧬 생명보건대학
 
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/jeonghawaii07"><img src="https://github.com/jeonghawaii07.png?size=160" width="82"><br><b>@jeonghawaii07</b></a><br>
-<sub><b>김정환</b> · 보건의료복지</sub>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/guswls0520"><img src="https://github.com/guswls0520.png?size=160" width="82"><br><b>@guswls0520</b></a><br>
-<sub><b>정현진</b> · 식품영양</sub>
-</td>
-</tr>
-</table>
+| 학부(과) / 전공 | 현재 NEXUS 멤버 |
+| --- | --- |
+| 생명공학과 | — |
+| 식품영양학과 | 김규리 (3학년), [**정현진 · @guswls0520**](https://github.com/guswls0520) (1학년) |
+| 외식조리학과 | 이지환 (1학년) |
+| 원예산림학과 | 이금령 (4학년), 김현규 (4학년) |
+| 보건의료복지학과 | [**김정환 · @jeonghawaii07**](https://github.com/jeonghawaii07) (1학년), 신효림 (1학년) |
+| 간호학과 | 김민주 (1학년), 최윤성 (1학년), 조서렴 (1학년) |
+| 운동재활복지학과 | — |
+
+<br>
+
+### 🤖 AI·SW창의융합대학
+
+| 학부(과) / 전공 | 현재 NEXUS 멤버 |
+| --- | --- |
+| 소프트웨어공학부 · 컴퓨터공학전공 | [**이영준 · @gxmzung**](https://github.com/gxmzung) (1학년 · Founder · President), 김동하 (1학년), 이승민 (1학년), 최태현 (1학년), 문강민 (1학년), 임준호 (1학년), 김준민 (1학년), 소지성 (1학년), 최이솔 (1학년), 최수현 (1학년), [**심승준 · @SeongJun08**](https://github.com/SeongJun08) (2학년), [**홍정우 · @h-ng21o**](https://github.com/h-ng21o) (2학년), 김규태 (2학년) |
+| 소프트웨어공학부 · 소프트웨어학전공 | [**이서율 · @seoyul1128**](https://github.com/seoyul1128) (1학년) |
+| 소프트웨어공학부 · 정보보안학전공 | [**유재현 · @jaeh040817**](https://github.com/jaeh040817) (3학년), 이건형 (2학년), 김태하 (1학년), 김지효 (1학년) |
+| 소프트웨어공학부 · 게임공학전공 | 김승조 (1학년), [**정한빈 · @shield-761**](https://github.com/shield-761) (1학년) |
+| 전기전자공학과 | [**김민찬 · @chan1150**](https://github.com/chan1150) (1학년), [**정유한 · @wjddbgks4046-ai**](https://github.com/wjddbgks4046-ai) (1학년), [**장성빈 · @jack070401**](https://github.com/jack070401) (1학년) |
+| 스마트배터리학과 | — |
+| 드론로봇공학과 | [**박성준 · @seongjun018**](https://github.com/seongjun018) (1학년), 주현우 (1학년), 윤경환 (1학년) |
+| 철도건설공학과 | 홍준형 (1학년) |
+
+<br>
 
 ### 🎨 문화예술대학
 
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=160" width="82"><br><b>@haeum8877</b></a><br>
-<sub><b>박하음</b> · 건축</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/minixdbxkyuu"><img src="https://github.com/minixdbxkyuu.png?size=160" width="82"><br><b>@minixdbxkyuu</b></a><br>
-<sub><b>곽민규</b> · 스포츠마케팅</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/sera881"><img src="https://github.com/sera881.png?size=160" width="82"><br><b>@sera881</b></a><br>
-<sub><b>신세라</b> · 조경</sub>
-</td>
-</tr>
-</table>
+| 학부(과) / 전공 | 현재 NEXUS 멤버 |
+| --- | --- |
+| 건축학과(5년제) | [**박하음 · @haeum8877**](https://github.com/haeum8877) (1학년), 장지훈 (1학년) |
+| 실내건축학과 | — |
+| 조경학과 | [**신세라 · @sera881**](https://github.com/sera881) (1학년) |
+| 아트앤웹툰학부 · 아트앤웹툰전공 | — |
+| 아트앤웹툰학부 · 게임애니메이션전공 | — |
+| 디자인학부 · 커뮤니케이션디자인전공 | 이민준 (2학년), 양우진 (1학년), 신유진 (1학년) |
+| 디자인학부 · 산업디자인전공 | — |
+| 광고사진영상학과 | — |
+| 미디어콘텐츠학과 | 손지원 (1학년) |
+| 의류패션학과 | — |
+| 뷰티케어학과 | — |
+| 공연예술학과 | — |
+| 레저스포츠학부 · 스포츠지도·건강재활전공 | — |
+| 레저스포츠학부 · 스포츠마케팅전공 | [**곽민규 · @minixdbxkyuu**](https://github.com/minixdbxkyuu) (1학년) |
+
+<br>
+
+### 📚 주시경교양대학
+
+> 학위 전공 모집 단위가 아닌 교양교육 조직이므로 멤버 전공 로스터에는 별도 인원을 배정하지 않습니다.
+
+<br>
+
+## GitHub Mapping Status
+
+| 구분 | 현황 |
+| --- | ---: |
+| 전체 활동 구성원 | **53명** |
+| 참여 전공/분야 | **21개** |
+| GitHub 계정 확인 | **19명** |
+| GitHub 계정 확인 대기 | **34명** |
 
 <p align="center">
-  <sub>현재 GitHub 공개 등록 19명 · 조직 초대 및 가입 확인 순으로 갱신합니다.</sub>
+  <sub>GitHub 계정이 추가 확인될 때마다 메인 README와 docs/MEMBERS.md를 함께 갱신합니다.</sub>
 </p>
 
 <br>
+
 ## Member Principle
 
 <table>
@@ -693,18 +689,18 @@ Competition · Service · Research · Collaboration · Handover
 
 **모두가 함께<br>합니다.**
 
-단 한명도 소외 <br> 없이 <br> 조직 구성원이
-<br> 모두 함께 <br> 움직입니다.
+단 한 명도 소외되지 않도록  
+조직 구성원이 함께 움직입니다.
 
 </td>
-<td width="45%" align="center">
+<td width="34%" align="center">
 
 ### HANDOVER
 
-**사람과 사람<br>사이를 <br> 이어 아카이브를 <br> 만듭니다.**
+**사람과 사람 사이를<br>이어 아카이브를 만듭니다.**
 
-개인의 기록보다  
-문서와 저장소를 <br> 남깁니다.
+개인의 기억보다  
+문서와 저장소를 남깁니다.
 
 </td>
 </tr>
@@ -736,7 +732,7 @@ Competition · Service · Research · Collaboration · Handover
 새 프로젝트에 연결합니다.
 
 </td>
-<td width="33%" align="center">
+<td width="34%" align="center">
 
 ### Leadership Transition
 
@@ -786,7 +782,7 @@ Competition · Service · Research · Collaboration · Handover
 명확히 구분합니다.
 
 </td>
-<td width="33%" align="center">
+<td width="34%" align="center">
 
 # CONNECT
 
@@ -1056,7 +1052,7 @@ NEXUS의 장기 목표 중 하나는
 사람의 기억이 아닌 기록으로 남깁니다.
 
 </td>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 ### PULL REQUESTS
 
@@ -1087,7 +1083,7 @@ NEXUS의 장기 목표 중 하나는
 주장을 뒷받침하는 근거를 연결합니다.
 
 </td>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 ### HANDOVER
 
@@ -1205,6 +1201,3 @@ NEXUS의 장기 목표 중 하나는
 <p align="center">
   <sub>© 2026 PAICHAI NEXUS · Built to be continued.</sub>
 </p>
-
-
-
