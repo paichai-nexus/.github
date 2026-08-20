@@ -1,4 +1,4 @@
-jqtms# 👥 PAICHAI NEXUS Members & Organization
+# 👥 PAICHAI NEXUS Members & Organization
 
 > **2026 · 53 Members · 21 Fields · Matrix / TF Organization**  
 > Pai Chai University · Student-led Interdisciplinary Project Organization
