@@ -263,122 +263,310 @@ PAICHAI NEXUS
 
 
 
-## 🧭 전략기획부 · 6명
+## Balanced Assignment · 1차 기능부서 배정
+
+> **총 투표 인원: 28명**  
+> 중복 투표자는 한 사람을 여러 부서에 중복 표기하지 않고 **1인 1기능부서**를 기준으로 조정했습니다.  
+> 기존 희망을 우선 반영하되, 중복 지원자는 인원이 적은 부서로 분산하고 `역할 매칭 중` 인원은 전공과 프로젝트 경험을 기준으로 보완 배정했습니다.  
+> 아래 배정은 운영 초기의 **1차 균형 배정안**이며, 실제 활동 후 이동할 수 있습니다.
+
+### Balance Snapshot
+
+| 부서 | 인원 |
+| --- | ---: |
+| 🧭 전략기획부 | **4** |
+| 📋 프로젝트관리부 · PMO | **4** |
+| 🧑‍💻 기술연구개발부 · R&D | **4** |
+| 🎨 디자인브랜딩부 | **3** |
+| 🤝 대외협력부 | **3** |
+| 💼 사업기획·지원부 | **3** |
+| 🎓 교육·커뮤니티부 | **4** |
+| 🔎 사용자·사회연구부 | **3** |
+| **합계** | **28** |
+
+
+## 🧭 전략기획부 · 4명
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="이승민"><br><b>GitHub 준비중</b><br><sub><b>이승민</b></sub><br><sub>1학년 · 컴퓨터공학</sub></td>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="김규태"><br><b>GitHub 준비중</b><br><sub><b>김규태</b></sub><br><sub>2학년 · 컴퓨터공학</sub></td>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="김승조"><br><b>GitHub 준비중</b><br><sub><b>김승조</b></sub><br><sub>1학년 · 게임공학</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/shield-761"><img src="https://github.com/shield-761.png?size=160" width="72" alt="정한빈"><br><b>@shield-761</b></a><br><sub><b>정한빈</b></sub><br><sub>1학년 · 게임공학</sub></td>
-</tr>
-<tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/h-ng21o"><img src="https://github.com/h-ng21o.png?size=160" width="72" alt="홍정우"><br><b>@h-ng21o</b></a><br><sub><b>홍정우</b></sub><br><sub>2학년 · 컴퓨터공학</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="72" alt="구민우"><br><b>@minwoo9</b></a><br><sub><b>구민우</b></sub><br><sub>1학년 · IT경영정보</sub></td>
-<td width="25%"></td>
-<td width="25%"></td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김규태 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김규태</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/shield-761">
+<img src="https://github.com/shield-761.png?size=160" width="82" alt="정한빈">
+<br><b>@shield-761</b>
+</a><br>
+<sub><b>정한빈</b></sub><br>
+<sub>1학년 · 게임공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="정취영 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>정취영</b></sub><br>
+<sub>1학년 · 행정학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/h-ng21o">
+<img src="https://github.com/h-ng21o.png?size=160" width="82" alt="홍정우">
+<br><b>@h-ng21o</b>
+</a><br>
+<sub><b>홍정우</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
 </tr>
 </table>
 
-## 📋 프로젝트관리부 · PMO · 6명
+
+## 📋 프로젝트관리부 · PMO · 4명
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="김승조"><br><b>GitHub 준비중</b><br><sub><b>김승조</b></sub><br><sub>1학년 · 게임공학</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=160" width="72" alt="박하음"><br><b>@haeum8877</b></a><br><sub><b>박하음</b></sub><br><sub>1학년 · 건축</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/happurity"><img src="https://github.com/happurity.png?size=160" width="72" alt="심주연"><br><b>@happurity</b></a><br><sub><b>심주연</b></sub><br><sub>1학년 · 경찰법학</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/shield-761"><img src="https://github.com/shield-761.png?size=160" width="72" alt="정한빈"><br><b>@shield-761</b></a><br><sub><b>정한빈</b></sub><br><sub>1학년 · 게임공학</sub></td>
-</tr>
-<tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="72" alt="구민우"><br><b>@minwoo9</b></a><br><sub><b>구민우</b></sub><br><sub>1학년 · IT경영정보</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/overflow-52"><img src="https://github.com/overflow-52.png?size=160" width="72" alt="이혜성"><br><b>@overflow-52</b></a><br><sub><b>이혜성</b></sub><br><sub>1학년 · 경찰법학</sub></td>
-<td width="25%"></td>
-<td width="25%"></td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/minwoo9">
+<img src="https://github.com/minwoo9.png?size=160" width="82" alt="구민우">
+<br><b>@minwoo9</b>
+</a><br>
+<sub><b>구민우</b></sub><br>
+<sub>1학년 · IT경영정보</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김승조 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김승조</b></sub><br>
+<sub>1학년 · 게임공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/overflow-52">
+<img src="https://github.com/overflow-52.png?size=160" width="82" alt="이혜성">
+<br><b>@overflow-52</b>
+</a><br>
+<sub><b>이혜성</b></sub><br>
+<sub>1학년 · 경찰법학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="주현우 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>주현우</b></sub><br>
+<sub>1학년 · 드론로봇공학</sub>
+</td>
 </tr>
 </table>
 
-## 🧑‍💻 기술연구개발부 · R&D · 8명
+
+## 🧑‍💻 기술연구개발부 · R&D · 4명
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="이승민"><br><b>GitHub 준비중</b><br><sub><b>이승민</b></sub><br><sub>1학년 · 컴퓨터공학</sub></td>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="김동하"><br><b>GitHub 준비중</b><br><sub><b>김동하</b></sub><br><sub>1학년 · 컴퓨터공학</sub></td>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="김승조"><br><b>GitHub 준비중</b><br><sub><b>김승조</b></sub><br><sub>1학년 · 게임공학</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=160" width="72" alt="박하음"><br><b>@haeum8877</b></a><br><sub><b>박하음</b></sub><br><sub>1학년 · 건축</sub></td>
-</tr>
-<tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/seoyul1128"><img src="https://github.com/seoyul1128.png?size=160" width="72" alt="이서율"><br><b>@seoyul1128</b></a><br><sub><b>이서율</b></sub><br><sub>1학년 · 소프트웨어학</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/shield-761"><img src="https://github.com/shield-761.png?size=160" width="72" alt="정한빈"><br><b>@shield-761</b></a><br><sub><b>정한빈</b></sub><br><sub>1학년 · 게임공학</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/h-ng21o"><img src="https://github.com/h-ng21o.png?size=160" width="72" alt="홍정우"><br><b>@h-ng21o</b></a><br><sub><b>홍정우</b></sub><br><sub>2학년 · 컴퓨터공학</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/SeongJun08"><img src="https://github.com/SeongJun08.png?size=160" width="72" alt="심승준"><br><b>@SeongJun08</b></a><br><sub><b>심승준</b></sub><br><sub>2학년 · 컴퓨터공학</sub></td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="류종걸 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>류종걸</b></sub><br>
+<sub>3학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김동하 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김동하</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/seoyul1128">
+<img src="https://github.com/seoyul1128.png?size=160" width="82" alt="이서율">
+<br><b>@seoyul1128</b>
+</a><br>
+<sub><b>이서율</b></sub><br>
+<sub>1학년 · 소프트웨어학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/SeongJun08">
+<img src="https://github.com/SeongJun08.png?size=160" width="82" alt="심승준">
+<br><b>@SeongJun08</b>
+</a><br>
+<sub><b>심승준</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
 </tr>
 </table>
+
 
 ## 🎨 디자인브랜딩부 · 3명
 
+> **팀장: 이민준 · 2학년 · 커뮤니케이션디자인**
+
 <table>
 <tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/wjddbgks4046-ai"><img src="https://github.com/wjddbgks4046-ai.png?size=160" width="72" alt="정유한"><br><b>@wjddbgks4046-ai</b></a><br><sub><b>정유한</b></sub><br><sub>1학년 · 전기전자공학</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/h-ng21o"><img src="https://github.com/h-ng21o.png?size=160" width="72" alt="홍정우"><br><b>@h-ng21o</b></a><br><sub><b>홍정우</b></sub><br><sub>2학년 · 컴퓨터공학</sub></td>
 <td align="center" width="25%" valign="top">
 <img src="https://github.com/ghost.png?size=160" width="82" alt="이민준 GitHub pending">
 <br><b>GitHub 준비중</b><br>
 <sub><b>이민준</b></sub><br>
-<sub>2학년 · 커뮤니케이션디자인</sub>
+<sub>2학년 · 커뮤니케이션디자인</sub><br><sub><b>팀장 · Department Lead</b></sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/wjddbgks4046-ai">
+<img src="https://github.com/wjddbgks4046-ai.png?size=160" width="82" alt="정유한">
+<br><b>@wjddbgks4046-ai</b>
+</a><br>
+<sub><b>정유한</b></sub><br>
+<sub>1학년 · 전기전자공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/sera881">
+<img src="https://github.com/sera881.png?size=160" width="82" alt="신세라">
+<br><b>@sera881</b>
+</a><br>
+<sub><b>신세라</b></sub><br>
+<sub>1학년 · 조경</sub>
 </td>
 <td width="25%"></td>
 </tr>
 </table>
 
-## 🤝 대외협력부 · 5명
+
+## 🤝 대외협력부 · 3명
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="이승민"><br><b>GitHub 준비중</b><br><sub><b>이승민</b></sub><br><sub>1학년 · 컴퓨터공학</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=160" width="72" alt="박하음"><br><b>@haeum8877</b></a><br><sub><b>박하음</b></sub><br><sub>1학년 · 건축</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/jack070401"><img src="https://github.com/jack070401.png?size=160" width="72" alt="장성빈"><br><b>@jack070401</b></a><br><sub><b>장성빈</b></sub><br><sub>1학년 · 전기전자공학</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="72" alt="구민우"><br><b>@minwoo9</b></a><br><sub><b>구민우</b></sub><br><sub>1학년 · IT경영정보</sub></td>
-</tr>
-<tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/overflow-52"><img src="https://github.com/overflow-52.png?size=160" width="72" alt="이혜성"><br><b>@overflow-52</b></a><br><sub><b>이혜성</b></sub><br><sub>1학년 · 경찰법학</sub></td>
-<td width="25%"></td>
-<td width="25%"></td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="이승민 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>이승민</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/haeum8877">
+<img src="https://github.com/haeum8877.png?size=160" width="82" alt="박하음">
+<br><b>@haeum8877</b>
+</a><br>
+<sub><b>박하음</b></sub><br>
+<sub>1학년 · 건축</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/jack070401">
+<img src="https://github.com/jack070401.png?size=160" width="82" alt="장성빈">
+<br><b>@jack070401</b>
+</a><br>
+<sub><b>장성빈</b></sub><br>
+<sub>1학년 · 전기전자공학</sub>
+</td>
 <td width="25%"></td>
 </tr>
 </table>
 
-## 💼 사업기획·지원부 · 1명
+
+## 💼 사업기획·지원부 · 3명
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/jeonghawaii07"><img src="https://github.com/jeonghawaii07.png?size=160" width="72" alt="김정환"><br><b>@jeonghawaii07</b></a><br><sub><b>김정환</b></sub><br><sub>1학년 · 보건의료복지</sub></td>
-<td width="25%"></td>
-<td width="25%"></td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/jeonghawaii07">
+<img src="https://github.com/jeonghawaii07.png?size=160" width="82" alt="김정환">
+<br><b>@jeonghawaii07</b>
+</a><br>
+<sub><b>김정환</b></sub><br>
+<sub>1학년 · 보건의료복지</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="권재현 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>권재현</b></sub><br>
+<sub>1학년 · IT경영정보</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="이지환 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>이지환</b></sub><br>
+<sub>1학년 · 외식조리</sub>
+</td>
 <td width="25%"></td>
 </tr>
 </table>
 
-## 🎓 교육·커뮤니티부 · 3명
+
+## 🎓 교육·커뮤니티부 · 4명
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/happurity"><img src="https://github.com/happurity.png?size=160" width="72" alt="심주연"><br><b>@happurity</b></a><br><sub><b>심주연</b></sub><br><sub>1학년 · 경찰법학</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/h-ng21o"><img src="https://github.com/h-ng21o.png?size=160" width="72" alt="홍정우"><br><b>@h-ng21o</b></a><br><sub><b>홍정우</b></sub><br><sub>2학년 · 컴퓨터공학</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="72" alt="구민우"><br><b>@minwoo9</b></a><br><sub><b>구민우</b></sub><br><sub>1학년 · IT경영정보</sub></td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/happurity">
+<img src="https://github.com/happurity.png?size=160" width="82" alt="심주연">
+<br><b>@happurity</b>
+</a><br>
+<sub><b>심주연</b></sub><br>
+<sub>1학년 · 경찰법학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/guswls0520">
+<img src="https://github.com/guswls0520.png?size=160" width="82" alt="정현진">
+<br><b>@guswls0520</b>
+</a><br>
+<sub><b>정현진</b></sub><br>
+<sub>1학년 · 식품영양</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/seongjun018">
+<img src="https://github.com/seongjun018.png?size=160" width="82" alt="박성준">
+<br><b>@seongjun018</b>
+</a><br>
+<sub><b>박성준</b></sub><br>
+<sub>1학년 · 드론로봇공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="문강민 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>문강민</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+</tr>
+</table>
+
+
+## 🔎 사용자·사회연구부 · 3명
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="신효림 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>신효림</b></sub><br>
+<sub>1학년 · 보건의료복지</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="조서렴 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>조서렴</b></sub><br>
+<sub>1학년 · 간호</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/jaeh040817">
+<img src="https://github.com/jaeh040817.png?size=160" width="82" alt="유재현">
+<br><b>@jaeh040817</b>
+</a><br>
+<sub><b>유재현</b></sub><br>
+<sub>3학년 · 정보보안학</sub>
+</td>
 <td width="25%"></td>
 </tr>
 </table>
 
-## 🔎 사용자·사회연구부 · 1명
+### Assignment Principle
 
-<table>
-<tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/jeonghawaii07"><img src="https://github.com/jeonghawaii07.png?size=160" width="72" alt="김정환"><br><b>@jeonghawaii07</b></a><br><sub><b>김정환</b></sub><br><sub>1학년 · 보건의료복지</sub></td>
-<td width="25%"></td>
-<td width="25%"></td>
-<td width="25%"></td>
-</tr>
-</table>
+```text
+1차 희망 투표
+    ↓
+중복 지원 확인
+    ↓
+희망 부서 우선 유지
+    ↓
+저인원 부서로 중복 인원 분산
+    ↓
+역할 매칭 인원은 전공 / 경험 기반 보완
+    ↓
+28명 · 8개 부서 균형 배정
+```
 
 ---
 
