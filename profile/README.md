@@ -1,4 +1,4 @@
-# 👥 PAICHAI NEXUS Members & Organization
+s# 👥 PAICHAI NEXUS Members & Organization
 
 > **2026 · 53 Members · 21 Fields · Matrix / TF Organization**  
 > Pai Chai University · Student-led Interdisciplinary Project Organization
@@ -285,7 +285,24 @@ PAICHAI NEXUS
 | **합계** | **28** |
 
 
+### Department Leads
+
+| 부서 | 팀장 |
+| --- | --- |
+| 🧭 전략기획부 | **미정** |
+| 📋 프로젝트관리부 · PMO | **구민우** |
+| 🧑‍💻 기술연구개발부 · R&D | **류종걸** |
+| 🎨 디자인브랜딩부 | **미정** |
+| 🤝 대외협력부 | **미정** |
+| 💼 사업기획·지원부 | **미정** |
+| 🎓 교육·커뮤니티부 | **미정** |
+| 🔎 사용자·사회연구부 | **미정** |
+
+
+
 ## 🧭 전략기획부 · 4명
+
+> **팀장: 미정**
 
 <table>
 <tr>
@@ -323,6 +340,8 @@ PAICHAI NEXUS
 
 ## 📋 프로젝트관리부 · PMO · 4명
 
+> **팀장: 구민우 · 1학년 · IT경영정보**
+
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
@@ -331,7 +350,7 @@ PAICHAI NEXUS
 <br><b>@minwoo9</b>
 </a><br>
 <sub><b>구민우</b></sub><br>
-<sub>1학년 · IT경영정보</sub>
+<sub>1학년 · IT경영정보</sub><br><sub><b>팀장 · Department Lead</b></sub>
 </td>
 <td align="center" width="25%" valign="top">
 <img src="https://github.com/ghost.png?size=160" width="82" alt="김승조 GitHub pending">
@@ -359,13 +378,15 @@ PAICHAI NEXUS
 
 ## 🧑‍💻 기술연구개발부 · R&D · 4명
 
+> **팀장: 류종걸 · 3학년 · 컴퓨터공학**
+
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
 <img src="https://github.com/ghost.png?size=160" width="82" alt="류종걸 GitHub pending">
 <br><b>GitHub 준비중</b><br>
 <sub><b>류종걸</b></sub><br>
-<sub>3학년 · 컴퓨터공학</sub>
+<sub>3학년 · 컴퓨터공학</sub><br><sub><b>팀장 · Department Lead</b></sub>
 </td>
 <td align="center" width="25%" valign="top">
 <img src="https://github.com/ghost.png?size=160" width="82" alt="김동하 GitHub pending">
@@ -395,7 +416,7 @@ PAICHAI NEXUS
 
 ## 🎨 디자인브랜딩부 · 3명
 
-> **팀장: 이민준 · 2학년 · 커뮤니케이션디자인**
+> **팀장: 이민준**
 
 <table>
 <tr>
@@ -403,7 +424,7 @@ PAICHAI NEXUS
 <img src="https://github.com/ghost.png?size=160" width="82" alt="이민준 GitHub pending">
 <br><b>GitHub 준비중</b><br>
 <sub><b>이민준</b></sub><br>
-<sub>2학년 · 커뮤니케이션디자인</sub><br><sub><b>팀장 · Department Lead</b></sub>
+<sub>2학년 · 커뮤니케이션디자인</sub>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/wjddbgks4046-ai">
@@ -427,6 +448,8 @@ PAICHAI NEXUS
 
 
 ## 🤝 대외협력부 · 3명
+
+> **팀장: 미정**
 
 <table>
 <tr>
@@ -459,6 +482,8 @@ PAICHAI NEXUS
 
 ## 💼 사업기획·지원부 · 3명
 
+> **팀장: 미정**
+
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
@@ -487,6 +512,8 @@ PAICHAI NEXUS
 
 
 ## 🎓 교육·커뮤니티부 · 4명
+
+> **팀장: 미정**
 
 <table>
 <tr>
@@ -525,6 +552,8 @@ PAICHAI NEXUS
 
 
 ## 🔎 사용자·사회연구부 · 3명
+
+> **팀장: 미정**
 
 <table>
 <tr>
