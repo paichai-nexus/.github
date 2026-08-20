@@ -1,4 +1,4 @@
-# 👥 PAICHAI NEXUS Members & Organization
+jqtms# 👥 PAICHAI NEXUS Members & Organization
 
 > **2026 · 53 Members · 21 Fields · Matrix / TF Organization**  
 > Pai Chai University · Student-led Interdisciplinary Project Organization
@@ -270,7 +270,6 @@ NEXUS는 한 사람이 하나의 팀에만 고정되는 구조가 아니라,
 </tr>
 </table>
 
-> 현재 NEXUS 로스터상 **생명공학과 멤버가 없어 우선 모집·연결이 필요한 TF**입니다.
 
 ---
 
@@ -441,36 +440,6 @@ AI 식재료 인식
 
 향후 학교 생활 데이터, 사용자 조사, 디자인 개선 등의 후속 작업이 필요한 경우  
 관련 전공 멤버를 중심으로 TF를 재구성할 수 있습니다.
-
----
-
-# 💡 New TF Incubator · 신규 TF 제안 풀
-
-아직 프로젝트가 없는 전공도 **“전공 하나 = 프로젝트 하나”**로 고정하지 않고,  
-서로 다른 전공 2~5개가 실제 문제를 중심으로 TF를 만들 수 있도록 운영합니다.
-
-| TF 후보 | 중심 전공 | 연결 전공 | 예시 결과물 |
-| --- | --- | --- | --- |
-| 🚗 Autonomous Mobility TF | 드론로봇 · 전기전자 | 컴퓨터 · SW · 정보보안 · 디자인 | 소형 자율주행차 / ROS2 / Vision |
-| 🔋 Smart Battery Safety TF | 스마트배터리 · 전기전자 | 컴퓨터 · 정보보안 | BMS 데이터 수집 / 이상탐지 |
-| 🛡️ Campus Cyber Range TF | 정보보안 | 컴퓨터 · SW · 행정 | 교내형 보안훈련·CTF 플랫폼 |
-| 🏙️ Smart Campus Digital Twin TF | 건축 · 조경 | 컴퓨터 · 미디어콘텐츠 | 캠퍼스 3D/공간 데이터 플랫폼 |
-| 🧠 Mental Health UX TF | 심리상담 | 간호 · 컴퓨터 · 디자인 | 학생 심리지원 UX / 위험신호 연결 |
-| 👶 Child Safety EdTech TF | 유아교육 | 게임 · 미디어 · 디자인 | 유아 안전·교육 인터랙티브 콘텐츠 |
-| ✈️ Smart Tourism / Airport TF | 관광 · 호텔항공 · 항공서비스 | 경영 · IT경영 · 디자인 | 여행·공항 서비스 플랫폼 |
-| 🌍 Global Campus TF | 글로벌비즈니스 · 일본학 | 미디어 · 경영 · SW | 외국인/교환학생 생활지원 서비스 |
-| 👗 Fashion AI TF | 의류패션 | Vision AI · 커디 · 경영 | 의류 인식 / 코디 추천 / 리세일 |
-| 💄 Beauty Data TF | 뷰티케어 | 디자인 · AI · 경영 | 피부/뷰티 기록·추천 서비스 |
-| 🎬 AI Media Studio TF | 미디어콘텐츠 · 광고사진영상 | AI · 디자인 · SW | 영상 제작 자동화 / 콘텐츠 분석 |
-| 🎨 Interactive Content TF | 아트앤웹툰 · 게임애니메이션 | 게임공학 · SW | 인터랙티브 웹툰 / 게임형 콘텐츠 |
-| 🏛️ Civic Tech TF | 행정 · 경찰법학 | IT경영 · 정보보안 · 디자인 | 공공서비스 / 안전 / 신고 UX |
-| ♿ Welfare Tech TF | 보건의료복지 | 간호 · AI · 디자인 | 접근성·돌봄 지원 서비스 |
-| 🏃 Sports Data TF | 레저스포츠 · 운동재활 | AI · 데이터 · 디자인 | 자세/운동 분석 · 재활 기록 |
-| 🪴 Bio / Lab Data TF | 생명공학 | AI · SW · 정보보안 | BioDockLab / 연구데이터 관리 |
-| 🏠 Spatial UX TF | 실내건축 · 산업디자인 | IoT · 전기전자 · SW | 스마트 공간 / 인터랙션 프로토타입 |
-
-> 신규 TF는 아이디어만으로 확정하지 않습니다.  
-> `문제 정의 → 참여 전공 → 지도교수/외부자문 → 4~8주 PoC → 유지/종료 판단` 순으로 검토합니다.
 
 ---
 
@@ -873,7 +842,6 @@ CONTINUE / PIVOT / CLOSE
 
 # 🏫 College / Major Network · 단과대·전공 네트워크
 
-> **Roster note:** Smart Seedling AI TF의 류종걸은 프로젝트 확정 참여자로 표시했으며, 현재 53명 기준 단과대·전공 로스터 수에는 별도 반영하지 않았습니다. 전체 회원 수 변경 시 함께 갱신합니다.
 
 기능부서와 프로젝트팀이 **어떻게 일할지**를 정한다면, 단과대·전공 네트워크는 **어떤 전문성을 연결할지**를 보여줍니다.
 
