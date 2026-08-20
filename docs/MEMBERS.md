@@ -9,12 +9,19 @@ NEXUS는 한 사람이 하나의 팀에만 고정되는 구조가 아니라,
 ```text
                          PAICHAI NEXUS
                                │
+                       Founder · President
+                           이 영 준
+                               │
+                        Chief of Staff
+                           구 민 우
+                               │
               ┌────────────────┼────────────────┐
               │                │                │
          EXECUTIVE          PROJECT / TF       FUNCTION
            임원팀            프로젝트팀          부서팀
               │                │                │
-       Direction / Ops    Mission-oriented    Capability Pool
+       Strategy / Ops     Mission-oriented    Capability Pool
+              │                │                │
               └────────────────┼────────────────┘
                                │
                      College / Major Network
@@ -34,32 +41,88 @@ NEXUS는 한 사람이 하나의 팀에만 고정되는 구조가 아니라,
 
 <table>
 <tr>
+
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/gxmzung">
 <img src="https://github.com/gxmzung.png?size=160" width="96" alt="이영준">
 <br><b>@gxmzung</b>
 </a><br>
 <sub><b>이영준</b></sub><br>
-<sub>Founder · President</sub><br>
+<sub><b>Founder · President</b></sub><br>
 <sub>컴퓨터공학 · 1학년</sub>
 </td>
-<td width="25%" align="center" valign="top">
+
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/minwoo9">
+<img src="https://github.com/minwoo9.png?size=160" width="96" alt="구민우">
+<br><b>@minwoo9</b>
+</a><br>
+<sub><b>구민우</b></sub><br>
+<sub><b>Chief of Staff</b></sub><br>
+<sub>IT경영정보 · 1학년</sub>
+</td>
+
+<td align="center" width="25%" valign="top">
 <b>Vice President</b><br><br>
 <sub>배정 예정</sub>
 </td>
-<td width="25%" align="center" valign="top">
-<b>Operations Lead</b><br><br>
-<sub>배정 예정</sub>
-</td>
-<td width="25%" align="center" valign="top">
+
+<td align="center" width="25%" valign="top">
 <b>Technical / Research Lead</b><br><br>
 <sub>배정 예정</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+## Executive Roles
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Founder · President
+
+**이영준**
+
+- 조직 비전 및 방향 설정
+- 프로젝트 발굴 및 총괄
+- 교수 · 기업 · 기관 대외 협력
+- 신규 인원 및 파트너 네트워크 구축
+- 핵심 프로젝트 의사결정
+- 조직 전체 최종 책임
+
+</td>
+
+<td width="50%" valign="top">
+
+### Chief of Staff
+
+**구민우**
+
+- 대표 직속 운영 보좌
+- 전체 공지 및 내부 커뮤니케이션 정리
+- 조직 규칙 · 절차 · 운영 체계 정비
+- 임원 및 부서 간 업무 조율
+- 일정 · 전달사항 · 후속 업무 점검
+- President 부재 시 운영 대행
+- 조직 내 의사결정의 실행 및 정착
+
 </td>
 </tr>
 </table>
 
-> 임원팀은 모든 프로젝트를 직접 수행하는 조직이 아니라 **방향, 자원 배분, 대외 의사결정, 충돌 조정, 인수인계**를 책임집니다.
+<br>
 
+> **Executive Team**
+>
+> 임원팀은 모든 업무를 직접 수행하는 부서가 아니라  
+> **조직의 방향 설정, 운영 통제, 자원 배분, 부서 간 조정, 대외 의사결정 및 인수인계**를 책임집니다.
+>
+> President는 조직의 **방향과 외부 연결**을 중심으로 총괄하며,  
+> Chief of Staff는 이를 조직 내부의 **규칙·공지·업무 체계와 실행 구조**로 정착시키는 역할을 담당합니다.
 ---
 
 # 🚀 Project / TF Teams · 프로젝트팀
