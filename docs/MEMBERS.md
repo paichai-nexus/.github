@@ -7,6 +7,7 @@
 
 - 전체 활동 구성원과 GitHub 조직 공개 등록 인원은 구분하여 관리합니다.
 - 이름과 전공은 2026 NEXUS 명단 기준으로 기록합니다.
+- **프로필 사진**은 GitHub 아이디가 연결된 경우 GitHub 아바타를, 연결되지 않은 경우 기본 실루엣을 표시합니다.
 - GitHub 계정은 **이름 ↔ 계정 매핑이 확인된 경우에만** 연결합니다.
 - 나이, 학번, 연락처 등 불필요한 개인정보는 공개 로스터에 기록하지 않습니다.
 - 같은 단과대 안에서는 같은 전공끼리 묶어 정리하며, 멤버가 없는 전공도 학제 구조 보존을 위해 함께 명시합니다.
@@ -30,9 +31,9 @@
 
 ### 자율전공학부
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ---
 
@@ -40,21 +41,21 @@
 
 ### 유아교육과
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 국어국문한국어교육학과
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 일본학과
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 경찰법학부
 
@@ -62,28 +63,28 @@
 
 * **경찰학전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| 심주연 | — |
-| 이혜성 | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/identicons/shim.png" width="25" height="25" alt="심주연"> | 심주연 | — |
+| <img src="https://github.com/identicons/lee.png" width="25" height="25" alt="이혜성"> | 이혜성 | — |
 
 * **법학전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 행정학과
 
-| 이름 | GitHub |
-| --- | --- |
-| 정취영 | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/identicons/jung.png" width="25" height="25" alt="정취영"> | 정취영 | — |
 
 ### 심리상담학과
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ---
 
@@ -91,42 +92,42 @@
 
 ### 경영학과
 
-| 이름 | GitHub |
-| --- | --- |
-| 문시우 | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/identicons/moon.png" width="25" height="25" alt="문시우"> | 문시우 | — |
 
 ### IT경영정보학과
 
-| 이름 | GitHub |
-| --- | --- |
-| **구민우** | [@minwoo9](https://github.com/minwoo9) |
-| 권재현 | — |
-| 신동우 | — |
-| **최민성** | [@min020676](https://github.com/min020676) |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/minwoo9.png" width="25" height="25" alt="구민우"> | **구민우** | [@minwoo9](https://github.com/minwoo9) |
+| <img src="https://github.com/identicons/kwon.png" width="25" height="25" alt="권재현"> | 권재현 | — |
+| <img src="https://github.com/identicons/shin.png" width="25" height="25" alt="신동우"> | 신동우 | — |
+| <img src="https://github.com/min020676.png" width="25" height="25" alt="최민성"> | **최민성** | [@min020676](https://github.com/min020676) |
 
 ### 글로벌비즈니스학과
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 관광경영학과
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 호텔항공경영학과
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 항공서비스학과
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ---
 
@@ -134,49 +135,49 @@
 
 ### 생명공학과
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 식품영양학과
 
-| 이름 | GitHub |
-| --- | --- |
-| 김규리 | — |
-| **정현진** | [@guswls0520](https://github.com/guswls0520) |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김규리"> | 김규리 | — |
+| <img src="https://github.com/guswls0520.png" width="25" height="25" alt="정현진"> | **정현진** | [@guswls0520](https://github.com/guswls0520) |
 
 ### 외식조리학과
 
-| 이름 | GitHub |
-| --- | --- |
-| 이지환 | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/identicons/lee.png" width="25" height="25" alt="이지환"> | 이지환 | — |
 
 ### 원예산림학과
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 보건의료복지학과
 
-| 이름 | GitHub |
-| --- | --- |
-| 김정환 | — |
-| 신효림 | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김정환"> | 김정환 | — |
+| <img src="https://github.com/identicons/shin.png" width="25" height="25" alt="신효림"> | 신효림 | — |
 
 ### 간호학과
 
-| 이름 | GitHub |
-| --- | --- |
-| 김민주 | — |
-| 조서렴 | — |
-| 최윤성 | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김민주"> | 김민주 | — |
+| <img src="https://github.com/identicons/cho.png" width="25" height="25" alt="조서렴"> | 조서렴 | — |
+| <img src="https://github.com/identicons/choi.png" width="25" height="25" alt="최윤성"> | 최윤성 | — |
 
 ### 운동재활복지학과
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ---
 
@@ -186,85 +187,85 @@
 
 * **컴퓨터공학전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| **이영준** | [@gxmzung](https://github.com/gxmzung) · Founder · President |
-| **홍정우** | [@h-ng21o](https://github.com/h-ng21o) |
-| 김준민 | — |
-| 김규태 | — |
-| 김동하 | — |
-| 문강민 | — |
-| 소지성 | — |
-| 이승민 | — |
-| 임준호 | — |
-| 최수현 | — |
-| 최이솔 | — |
-| 최태현 | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/gxmzung.png" width="25" height="25" alt="이영준"> | **이영준** | [@gxmzung](https://github.com/gxmzung) · Founder · President |
+| <img src="https://github.com/h-ng21o.png" width="25" height="25" alt="홍정우"> | **홍정우** | [@h-ng21o](https://github.com/h-ng21o) |
+| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김준민"> | 김준민 | — |
+| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김규태"> | 김규태 | — |
+| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김동하"> | 김동하 | — |
+| <img src="https://github.com/identicons/moon.png" width="25" height="25" alt="문강민"> | 문강민 | — |
+| <img src="https://github.com/identicons/so.png" width="25" height="25" alt="소지성"> | 소지성 | — |
+| <img src="https://github.com/identicons/lee.png" width="25" height="25" alt="이승민"> | 이승민 | — |
+| <img src="https://github.com/identicons/lim.png" width="25" height="25" alt="임준호"> | 임준호 | — |
+| <img src="https://github.com/identicons/choi.png" width="25" height="25" alt="최수현"> | 최수현 | — |
+| <img src="https://github.com/identicons/choi.png" width="25" height="25" alt="최이솔"> | 최이솔 | — |
+| <img src="https://github.com/identicons/choi.png" width="25" height="25" alt="최태현"> | 최태현 | — |
 
 * **소프트웨어학전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| **심승준** | [@SeongJun08](https://github.com/SeongJun08) |
-| **이서율** | [@seoyul1128](https://github.com/seoyul1128) |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/SeongJun08.png" width="25" height="25" alt="심승준"> | **심승준** | [@SeongJun08](https://github.com/SeongJun08) |
+| <img src="https://github.com/seoyul1128.png" width="25" height="25" alt="이서율"> | **이서율** | [@seoyul1128](https://github.com/seoyul1128) |
 
 * **정보보안학전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| **유재현** | [@jaeh040817](https://github.com/jaeh040817) |
-| 이건형 | — |
-| 김지효 | — |
-| 김태하 | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/jaeh040817.png" width="25" height="25" alt="유재현"> | **유재현** | [@jaeh040817](https://github.com/jaeh040817) |
+| <img src="https://github.com/identicons/lee.png" width="25" height="25" alt="이건형"> | 이건형 | — |
+| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김지효"> | 김지효 | — |
+| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김태하"> | 김태하 | — |
 
 * **게임공학전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| 김승조 | — |
-| **정한빈** | [@shield-761](https://github.com/shield-761) |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김승조"> | 김승조 | — |
+| <img src="https://github.com/shield-761.png" width="25" height="25" alt="정한빈"> | **정한빈** | [@shield-761](https://github.com/shield-761) |
 
 * **인공지능전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 피지컬AI공학부
 
 * **드론로봇공학전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| 박성준 | — |
-| 윤경환 | — |
-| 주현우 | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/identicons/park.png" width="25" height="25" alt="박성준"> | 박성준 | — |
+| <img src="https://github.com/identicons/yoon.png" width="25" height="25" alt="윤경환"> | 윤경환 | — |
+| <img src="https://github.com/identicons/joo.png" width="25" height="25" alt="주현우"> | 주현우 | — |
 
 * **AI융합전자전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| **김민찬** | [@chan1150](https://github.com/chan1150) |
-| 장성빈 | — |
-| 정유한 | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/chan1150.png" width="25" height="25" alt="김민찬"> | **김민찬** | [@chan1150](https://github.com/chan1150) |
+| <img src="https://github.com/identicons/jang.png" width="25" height="25" alt="장성빈"> | 장성빈 | — |
+| <img src="https://github.com/identicons/jung.png" width="25" height="25" alt="정유한"> | 정유한 | — |
 
-### 전기공학과
+### 전기공학과 
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 스마트배터리학과
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
-### 철도건설공학과
+### 철도건설공학과 
 
-| 이름 | GitHub |
-| --- | --- |
-| 홍준형 | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/identicons/hong.png" width="25" height="25" alt="홍준형"> | 홍준형 | — |
 
 ---
 
@@ -272,104 +273,104 @@
 
 ### 건축학과
 
-| 이름 | GitHub |
-| --- | --- |
-| **박하음** | [@haeum8877](https://github.com/haeum8877) |
-| 장지훈 | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/haeum8877.png" width="25" height="25" alt="박하음"> | **박하음** | [@haeum8877](https://github.com/haeum8877) |
+| <img src="https://github.com/identicons/jang.png" width="25" height="25" alt="장지훈"> | 장지훈 | — |
 
 ### 실내건축학과
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 조경학과
 
-| 이름 | GitHub |
-| --- | --- |
-| **신세라** | [@sera881](https://github.com/sera881) |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/sera881.png" width="25" height="25" alt="신세라"> | **신세라** | [@sera881](https://github.com/sera881) |
 
 ### 아트앤웹툰학부
 
 * **아트앤웹툰전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 * **게임애니메이션전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 디자인학부
 
 * **커뮤니케이션디자인전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| 이민준 | — |
-| 신유진 | — |
-| 양우진 | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/identicons/lee.png" width="25" height="25" alt="이민준"> | 이민준 | — |
+| <img src="https://github.com/identicons/shin.png" width="25" height="25" alt="신유진"> | 신유진 | — |
+| <img src="https://github.com/identicons/yang.png" width="25" height="25" alt="양우진"> | 양우진 | — |
 
 * **산업디자인전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 광고사진영상학과
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 미디어콘텐츠학과
 
-| 이름 | GitHub |
-| --- | --- |
-| 손지원 | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/identicons/son.png" width="25" height="25" alt="손지원"> | 손지원 | — |
 
-### 의류패션학과
+### 의류패션학과 
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
-### 뷰티케어학과
+### 뷰티케어학과 
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 공연예술학부
 
 * **실용음악전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 * **영화영상학전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ### 레저스포츠학부
 
 * **스포츠지도·건강재활전공** (스포츠·레저)
 
-| 이름 | GitHub |
-| --- | --- |
-| 곽민규 | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| <img src="https://github.com/identicons/kwak.png" width="25" height="25" alt="곽민규"> | 곽민규 | — |
 
 * **스포츠마케팅전공**
 
-| 이름 | GitHub |
-| --- | --- |
-| — | — |
+| | 이름 | GitHub |
+| --- | --- | --- |
+| | — | — |
 
 ---
 
