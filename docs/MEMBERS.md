@@ -152,42 +152,26 @@ NEXUS는 한 사람이 하나의 팀에만 고정되는 구조가 아니라,
 <img src="https://img.shields.io/badge/STATUS-CONFIRMED-16A34A?style=flat-square">
 <img src="https://img.shields.io/badge/TYPE-RESEARCH_TF-0F6CBD?style=flat-square">
 
-### Confirmed Members · 5명
+### Confirmed Members · 11명
 
 <table>
 <tr>
 
-<td align="center" width="20%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="이금령 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>이금령</b></sub><br>
-<sub>4학년 · 원예산림</sub>
-</td>
-
-<td align="center" width="20%" valign="top">
+<td align="center" width="25%" valign="top">
 <img src="https://github.com/ghost.png?size=160" width="82" alt="김현규 GitHub pending">
 <br><b>GitHub 준비중</b><br>
 <sub><b>김현규</b></sub><br>
 <sub>4학년 · 원예산림</sub>
 </td>
 
-<td align="center" width="20%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="류종걸 GitHub pending">
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="이금령 GitHub pending">
 <br><b>GitHub 준비중</b><br>
-<sub><b>류종걸</b></sub><br>
-<sub>3학년 · 컴퓨터공학</sub>
+<sub><b>이금령</b></sub><br>
+<sub>4학년 · 원예산림</sub>
 </td>
 
-<td align="center" width="20%" valign="top">
-<a href="https://github.com/SeongJun08">
-<img src="https://github.com/SeongJun08.png?size=160" width="82" alt="심승준">
-<br><b>@SeongJun08</b>
-</a><br>
-<sub><b>심승준</b></sub><br>
-<sub>2학년 · 컴퓨터공학</sub>
-</td>
-
-<td align="center" width="20%" valign="top">
+<td align="center" width="25%" valign="top">
 <a href="https://github.com/gxmzung">
 <img src="https://github.com/gxmzung.png?size=160" width="82" alt="이영준">
 <br><b>@gxmzung</b>
@@ -196,12 +180,88 @@ NEXUS는 한 사람이 하나의 팀에만 고정되는 구조가 아니라,
 <sub>1학년 · 컴퓨터공학</sub>
 </td>
 
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="류종걸 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>류종걸</b></sub><br>
+<sub>3학년 · 컴퓨터공학</sub>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/SeongJun08">
+<img src="https://github.com/SeongJun08.png?size=160" width="82" alt="심승준">
+<br><b>@SeongJun08</b>
+</a><br>
+<sub><b>심승준</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
+
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/h-ng21o">
+<img src="https://github.com/h-ng21o.png?size=160" width="82" alt="홍정우">
+<br><b>@h-ng21o</b>
+</a><br>
+<sub><b>홍정우</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
+
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/seongjun018">
+<img src="https://github.com/seongjun018.png?size=160" width="82" alt="박성준">
+<br><b>@seongjun018</b>
+</a><br>
+<sub><b>박성준</b></sub><br>
+<sub>1학년 · 드론로봇공학</sub>
+</td>
+
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/minwoo9">
+<img src="https://github.com/minwoo9.png?size=160" width="82" alt="구민우">
+<br><b>@minwoo9</b>
+</a><br>
+<sub><b>구민우</b></sub><br>
+<sub>1학년 · IT경영정보</sub>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/haeum8877">
+<img src="https://github.com/haeum8877.png?size=160" width="82" alt="박하음">
+<br><b>@haeum8877</b>
+</a><br>
+<sub><b>박하음</b></sub><br>
+<sub>1학년 · 건축</sub>
+</td>
+
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="신동우 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>신동우</b></sub><br>
+<sub>1학년 · IT경영정보</sub>
+</td>
+
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/wjddbgks4046-ai">
+<img src="https://github.com/wjddbgks4046-ai.png?size=160" width="82" alt="정유한">
+<br><b>@wjddbgks4046-ai</b>
+</a><br>
+<sub><b>정유한</b></sub><br>
+<sub>1학년 · 전기전자공학</sub>
+</td>
+
+<td width="25%"></td>
+
 </tr>
 </table>
 
 **Core Domains**
 
-`Vision AI` · `Edge Computing` · `Environmental Sensor` · `Plant Growth Analysis` · `Expert Validation`
+`Vision AI` · `Edge Computing` · `Environmental Sensor` · `Plant Growth Analysis` · `Expert Validation` · `Robotics / UAV` · `IoT / Electronics` · `Project Operations`
 
 ---
 
