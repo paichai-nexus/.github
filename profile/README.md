@@ -109,6 +109,8 @@ Responsibility / Continuity
 
 # 🚀 Project / TF Teams · 프로젝트팀
 
+> **멤버 표시:** 프로젝트별 참여자는 **고학년 → 저학년**, 같은 학년에서는 **같은 학과·전공끼리 묶어서** 표시합니다.
+
 ## 01. 🌱 Smart Seedling AI TF
 **원예산림 × Vision AI × ROS 2 × IoT × Drone × Smart Agriculture**
 
@@ -122,24 +124,24 @@ Responsibility / Continuity
 <tr>
 <td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="김현규"><br><b>GitHub 준비중</b><br><sub><b>김현규</b></sub><br><sub>4학년 · 원예산림</sub><br><sub><b>Farm Lead</b></sub></td>
 <td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="이금령"><br><b>GitHub 준비중</b><br><sub><b>이금령</b></sub><br><sub>4학년 · 원예산림</sub><br><sub><b>Smart Farm · Horticulture</b></sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=160" width="72" alt="이영준"><br><b>@gxmzung</b></a><br><sub><b>이영준</b></sub><br><sub>1학년 · 컴퓨터공학</sub><br><sub><b>Project · System Integration</b></sub></td>
 <td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="류종걸"><br><b>GitHub 준비중</b><br><sub><b>류종걸</b></sub><br><sub>3학년 · 컴퓨터공학</sub><br><sub><b>ROS 2 · C++ · AI Integration</b></sub></td>
-</tr>
-<tr>
 <td align="center" width="25%" valign="top"><a href="https://github.com/SeongJun08"><img src="https://github.com/SeongJun08.png?size=160" width="72" alt="심승준"><br><b>@SeongJun08</b></a><br><sub><b>심승준</b></sub><br><sub>2학년 · 컴퓨터공학</sub><br><sub><b>Hardware · Software</b></sub></td>
+</tr>
+<tr>
 <td align="center" width="25%" valign="top"><a href="https://github.com/h-ng21o"><img src="https://github.com/h-ng21o.png?size=160" width="72" alt="홍정우"><br><b>@h-ng21o</b></a><br><sub><b>홍정우</b></sub><br><sub>2학년 · 컴퓨터공학</sub><br><sub><b>Embedded · Software</b></sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/seongjun018"><img src="https://github.com/seongjun018.png?size=160" width="72" alt="박성준"><br><b>@seongjun018</b></a><br><sub><b>박성준</b></sub><br><sub>1학년 · 드론로봇공학</sub><br><sub><b>Drone Operations</b></sub></td>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="임준호"><br><b>GitHub 준비중</b><br><sub><b>임준호</b></sub><br><sub>1학년 · 컴퓨터공학</sub><br><sub><b>AI Junior · Data & Vision</b></sub></td>
-</tr>
-<tr>
 <td align="center" width="25%" valign="top"><a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="72" alt="구민우"><br><b>@minwoo9</b></a><br><sub><b>구민우</b></sub><br><sub>1학년 · IT경영정보</sub><br><sub><b>Documentation · Operations</b></sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=160" width="72" alt="박하음"><br><b>@haeum8877</b></a><br><sub><b>박하음</b></sub><br><sub>1학년 · 건축</sub><br><sub><b>Farm Structure · Spatial Design</b></sub></td>
 <td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="신동우"><br><b>GitHub 준비중</b><br><sub><b>신동우</b></sub><br><sub>1학년 · IT경영정보</sub><br><sub><b>Operations Support</b></sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/wjddbgks4046-ai"><img src="https://github.com/wjddbgks4046-ai.png?size=160" width="72" alt="정유한"><br><b>@wjddbgks4046-ai</b></a><br><sub><b>정유한</b></sub><br><sub>1학년 · 전기전자공학</sub><br><sub><b>Electronics · IoT</b></sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=160" width="72" alt="박하음"><br><b>@haeum8877</b></a><br><sub><b>박하음</b></sub><br><sub>1학년 · 건축</sub><br><sub><b>Farm Structure · Spatial Design</b></sub></td>
 </tr>
 <tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/sera881"><img src="https://github.com/sera881.png?size=160" width="72" alt="신세라"><br><b>@sera881</b></a><br><sub><b>신세라</b></sub><br><sub>1학년 · 조경</sub><br><sub><b>Landscape · Planting Environment</b></sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/seongjun018"><img src="https://github.com/seongjun018.png?size=160" width="72" alt="박성준"><br><b>@seongjun018</b></a><br><sub><b>박성준</b></sub><br><sub>1학년 · 드론로봇공학</sub><br><sub><b>Drone Operations</b></sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/wjddbgks4046-ai"><img src="https://github.com/wjddbgks4046-ai.png?size=160" width="72" alt="정유한"><br><b>@wjddbgks4046-ai</b></a><br><sub><b>정유한</b></sub><br><sub>1학년 · 전기전자공학</sub><br><sub><b>Electronics · IoT</b></sub></td>
 <td align="center" width="25%" valign="top"><a href="https://github.com/chan1150"><img src="https://github.com/chan1150.png?size=160" width="72" alt="김민찬"><br><b>@chan1150</b></a><br><sub><b>김민찬</b></sub><br><sub>1학년 · 전기전자공학</sub><br><sub><b>Electronics · Field Build</b></sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/sera881"><img src="https://github.com/sera881.png?size=160" width="72" alt="신세라"><br><b>@sera881</b></a><br><sub><b>신세라</b></sub><br><sub>1학년 · 조경</sub><br><sub><b>Landscape · Planting Environment</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top"><a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=160" width="72" alt="이영준"><br><b>@gxmzung</b></a><br><sub><b>이영준</b></sub><br><sub>1학년 · 컴퓨터공학</sub><br><sub><b>Project · System Integration</b></sub></td>
+<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="임준호"><br><b>GitHub 준비중</b><br><sub><b>임준호</b></sub><br><sub>1학년 · 컴퓨터공학</sub><br><sub><b>AI Junior · Data & Vision</b></sub></td>
 <td width="25%"></td>
 <td width="25%"></td>
 </tr>
@@ -190,9 +192,9 @@ Responsibility / Continuity
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=160" width="72" alt="이영준"><br><b>@gxmzung</b></a><br><sub><b>이영준</b></sub><br><sub>1학년 · 컴퓨터공학</sub></td>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="홍준형"><br><b>GitHub 준비중</b><br><sub><b>홍준형</b></sub><br><sub>1학년 · 철도건설공학</sub></td>
 <td align="center" width="25%" valign="top"><a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="72" alt="구민우"><br><b>@minwoo9</b></a><br><sub><b>구민우</b></sub><br><sub>1학년 · IT경영정보</sub><br><sub><b>Documentation · Research Ops</b></sub></td>
+<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="홍준형"><br><b>GitHub 준비중</b><br><sub><b>홍준형</b></sub><br><sub>1학년 · 철도건설공학</sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=160" width="72" alt="이영준"><br><b>@gxmzung</b></a><br><sub><b>이영준</b></sub><br><sub>1학년 · 컴퓨터공학</sub></td>
 <td width="25%"></td>
 </tr>
 </table>
@@ -233,6 +235,162 @@ Responsibility / Continuity
 
 ---
 
+
+
+## 08. 🌐 NEXUS Web Platform TF
+
+**Computer / Software × Design × IT Management × Project Operations**
+
+### PAICHAI NEXUS 공식 웹사이트 구축
+
+NEXUS의 조직·멤버·프로젝트/TF·교수/기관 협력·성과·모집 정보를 한 곳에서 보여주는  
+**공식 웹 플랫폼**을 구축하는 내부 인프라 프로젝트입니다.
+
+GitHub README에 길게 쌓여 있는 정보를 웹사이트로 분리하여, 방문자가 조직 구조와 프로젝트 진행 상황을  
+더 쉽고 직관적으로 탐색할 수 있도록 하는 것을 목표로 합니다.
+
+**Core Features**
+
+`Home` · `About NEXUS` · `Organization` · `Members` · `Projects / TF` · `Partners / Advisors` · `Achievements` · `Join NEXUS`
+
+**1차 PoC**
+
+```text
+Information Architecture
+        ↓
+Member / Project Data Model
+        ↓
+Organization Page
+        ↓
+Project / TF Page
+        ↓
+Responsive UI
+        ↓
+Deploy
+```
+
+**Suggested Stack**
+
+`Next.js / React` · `TypeScript` · `GitHub Data` · `Responsive Web`
+
+<img src="https://img.shields.io/badge/STATUS-PLANNING-0EA5E9?style=flat-square">
+
+---
+
+## 09. ✈️ Smart Travel & Airport Experience TF
+
+**관광경영 × 호텔항공경영 × 항공서비스 × 글로벌비즈니스 × 일본학 × 산업디자인 × 광고사진영상**
+
+### AI 기반 여행·공항 Passenger Journey 설계 플랫폼
+
+여행자가 출발 전부터 공항, 이동, 숙박, 관광지까지 경험하는 전체 여정을 분석하고,  
+**AI 기반 일정 추천과 서비스 UX를 결합하여 더 편리한 여행 경험을 설계하는 프로젝트**입니다.
+
+단순 여행 추천 앱이 아니라 관광·호텔·항공서비스 전공의 도메인 지식을 기반으로  
+Passenger Journey의 불편 요소를 발견하고 실제 서비스 개선안으로 연결하는 것을 목표로 합니다.
+
+**Project Flow**
+
+```text
+Traveler Persona 정의
+        ↓
+여행 목적 / 일정 / 예산 입력
+        ↓
+AI 기반 이동·관광 동선 생성
+        ↓
+공항 / 호텔 / 관광지 Touch Point 분석
+        ↓
+언어·문화·서비스 불편 요소 탐색
+        ↓
+UX 개선안 및 서비스 프로토타입
+        ↓
+User Test
+```
+
+**Major Roles**
+
+| 분야 | 역할 |
+| --- | --- |
+| 관광경영 | 관광 동선, 관광객 행동, 목적지 경험 설계 |
+| 호텔항공경영 | 숙박·관광 서비스 운영, 고객 경험 |
+| 항공서비스 | 공항·탑승 Passenger Journey, 서비스 Touch Point |
+| 글로벌비즈니스 | 글로벌 서비스 모델, 시장·사업성 분석 |
+| 일본학 | 일본어·문화·지역 정보 검증 |
+| 산업디자인 | 키오스크·모바일 서비스·HMI UX |
+| 광고사진영상 | 관광 콘텐츠, 영상·브랜드 콘텐츠 |
+
+**1차 PoC**
+
+`Traveler Persona` · `Journey Map` · `AI Itinerary` · `Airport UX Prototype` · `User Test`
+
+<img src="https://img.shields.io/badge/STATUS-VOTING-8B5CF6?style=flat-square">
+
+---
+
+## 10. 🎭 Interactive Culture Tech Studio TF
+
+**공연예술 × 아트앤웹툰 × 게임애니메이션 × 의류패션 × 광고사진영상 × 산업디자인 × 뷰티케어**
+
+### AI·인터랙션 기술 기반 참여형 문화예술 콘텐츠 제작
+
+공연·웹툰·애니메이션·패션·영상·디자인을 하나의 경험으로 연결하여,  
+관람객의 움직임이나 선택에 따라 **영상·캐릭터·조명·연출이 실시간으로 변화하는 인터랙티브 콘텐츠**를 제작합니다.
+
+기술 자체가 중심이 아니라 **문화예술 전공자가 콘텐츠와 연출을 주도하고, 기술 전공자가 구현을 지원하는 구조**를 지향합니다.
+
+**Project Flow**
+
+```text
+Theme / Story 기획
+        ↓
+캐릭터·무대·의상 콘셉트 제작
+        ↓
+Camera / Motion Tracking
+        ↓
+사용자 움직임·선택 인식
+        ↓
+AI Visual / Animation
+        ↓
+영상·조명·사운드 변화
+        ↓
+Interactive Exhibition / Performance
+```
+
+**Major Roles**
+
+| 분야 | 역할 |
+| --- | --- |
+| 공연예술 | 공연 구성, 퍼포먼스, 무대 연출 |
+| 아트앤웹툰 | 세계관, 스토리, 캐릭터·비주얼 |
+| 게임애니메이션 | 캐릭터 애니메이션, 인터랙션 |
+| 의류패션 | 의상·스타일 콘셉트 |
+| 광고사진영상 | 촬영, 영상 연출, 홍보 콘텐츠 |
+| 산업디자인 | 전시 공간, 인터페이스, 체험 구조 |
+| 뷰티케어 | 메이크업·스타일링·비주얼 연출 |
+
+**1차 PoC**
+
+`Story` · `Character` · `Motion Tracking` · `Interactive Visual` · `Mini Exhibition`
+
+**Final Output**
+
+`Interactive Exhibition` · `Performance Demo` · `Short Film` · `Making Film` · `Portfolio`
+
+<img src="https://img.shields.io/badge/STATUS-VOTING-8B5CF6?style=flat-square">
+
+---
+
+### 🗳️ New TF Vote · 신규 프로젝트 투표
+
+| 번호 | 프로젝트 | 목적 |
+| ---: | --- | --- |
+| **09** | ✈️ Smart Travel & Airport Experience | 관광·항공·호텔·글로벌 계열 신규 참여 확대 |
+| **10** | 🎭 Interactive Culture Tech Studio | 공연·패션·웹툰·영상·디자인 계열 신규 참여 확대 |
+
+> **08번 NEXUS Web Platform은 내부 인프라 프로젝트로 추진**하고,  
+> 09·10번은 신규 학과 참여 수요를 확인하기 위한 **투표 후보 TF**로 운영합니다.
+
+---
 
 # 🧩 Functional Departments · 부서팀
 
@@ -281,6 +439,8 @@ Responsibility / Continuity
 
 
 ## Major-Aligned Assignment · 1차 기능부서 배정
+
+> **멤버 표시:** 각 부서 역시 **고학년 → 저학년**, 같은 학년에서는 **같은 학과·전공끼리 묶어서** 표시합니다.
 
 > **총 배정 인원: 31명**  
 > 중복 희망자는 1인 1기능부서를 기준으로 정리하되, **본인 희망을 우선하고 전공 적합성·인접 전공·단과대 연계성을 다음 기준으로 반영**했습니다.  
@@ -367,6 +527,14 @@ Responsibility / Continuity
 <sub>1학년 · IT경영정보</sub><br><sub><b>팀장 · Department Lead</b></sub>
 </td>
 <td align="center" width="25%" valign="top">
+<a href="https://github.com/min020676">
+<img src="https://github.com/min020676.png?size=160" width="82" alt="최민성">
+<br><b>@min020676</b>
+</a><br>
+<sub><b>최민성</b></sub><br>
+<sub>1학년 · IT경영정보</sub>
+</td>
+<td align="center" width="25%" valign="top">
 <img src="https://github.com/ghost.png?size=160" width="82" alt="김승조 GitHub pending">
 <br><b>GitHub 준비중</b><br>
 <sub><b>김승조</b></sub><br>
@@ -380,14 +548,6 @@ Responsibility / Continuity
 <sub><b>이혜성</b></sub><br>
 <sub>1학년 · 경찰법학</sub>
 </td>
-<td align="center" width="25%" valign="top">
-<a href="https://github.com/min020676">
-<img src="https://github.com/min020676.png?size=160" width="82" alt="최민성">
-<br><b>@min020676</b>
-</a><br>
-<sub><b>최민성</b></sub><br>
-<sub>1학년 · IT경영정보</sub>
-</td>
 </tr>
 </table>
 
@@ -399,16 +559,42 @@ Responsibility / Continuity
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
+<a href="https://github.com/jaeh040817">
+<img src="https://github.com/jaeh040817.png?size=160" width="82" alt="유재현">
+<br><b>@jaeh040817</b>
+</a><br>
+<sub><b>유재현</b></sub><br>
+<sub>3학년 · 정보보안학</sub>
+</td>
+<td align="center" width="25%" valign="top">
 <img src="https://github.com/ghost.png?size=160" width="82" alt="류종걸 GitHub pending">
 <br><b>GitHub 준비중</b><br>
 <sub><b>류종걸</b></sub><br>
 <sub>3학년 · 컴퓨터공학</sub><br><sub><b>팀장 · Department Lead</b></sub>
 </td>
 <td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="김동하 GitHub pending">
+<a href="https://github.com/SeongJun08">
+<img src="https://github.com/SeongJun08.png?size=160" width="82" alt="심승준">
+<br><b>@SeongJun08</b>
+</a><br>
+<sub><b>심승준</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/seongjun018">
+<img src="https://github.com/seongjun018.png?size=160" width="82" alt="박성준">
+<br><b>@seongjun018</b>
+</a><br>
+<sub><b>박성준</b></sub><br>
+<sub>1학년 · 드론로봇공학</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="주현우 GitHub pending">
 <br><b>GitHub 준비중</b><br>
-<sub><b>김동하</b></sub><br>
-<sub>1학년 · 컴퓨터공학</sub>
+<sub><b>주현우</b></sub><br>
+<sub>1학년 · 드론로봇공학</sub>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/seoyul1128">
@@ -419,16 +605,6 @@ Responsibility / Continuity
 <sub>1학년 · 소프트웨어학</sub>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://github.com/SeongJun08">
-<img src="https://github.com/SeongJun08.png?size=160" width="82" alt="심승준">
-<br><b>@SeongJun08</b>
-</a><br>
-<sub><b>심승준</b></sub><br>
-<sub>2학년 · 컴퓨터공학</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%" valign="top">
 <a href="https://github.com/wjddbgks4046-ai">
 <img src="https://github.com/wjddbgks4046-ai.png?size=160" width="82" alt="정유한">
 <br><b>@wjddbgks4046-ai</b>
@@ -437,26 +613,10 @@ Responsibility / Continuity
 <sub>1학년 · 전기전자공학</sub>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://github.com/seongjun018">
-<img src="https://github.com/seongjun018.png?size=160" width="82" alt="박성준">
-<br><b>@seongjun018</b>
-</a><br>
-<sub><b>박성준</b></sub><br>
-<sub>1학년 · 드론로봇공학</sub>
-</td>
-<td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="주현우 GitHub pending">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김동하 GitHub pending">
 <br><b>GitHub 준비중</b><br>
-<sub><b>주현우</b></sub><br>
-<sub>1학년 · 드론로봇공학</sub>
-</td>
-<td align="center" width="25%" valign="top">
-<a href="https://github.com/jaeh040817">
-<img src="https://github.com/jaeh040817.png?size=160" width="82" alt="유재현">
-<br><b>@jaeh040817</b>
-</a><br>
-<sub><b>유재현</b></sub><br>
-<sub>3학년 · 정보보안학</sub>
+<sub><b>김동하</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
 </td>
 </tr>
 <tr>
@@ -593,6 +753,18 @@ Responsibility / Continuity
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="조서렴 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>조서렴</b></sub><br>
+<sub>1학년 · 간호</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김민주 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김민주</b></sub><br>
+<sub>1학년 · 간호</sub>
+</td>
+<td align="center" width="25%" valign="top">
 <a href="https://github.com/jeonghawaii07">
 <img src="https://github.com/jeonghawaii07.png?size=160" width="82" alt="김정환">
 <br><b>@jeonghawaii07</b>
@@ -606,29 +778,6 @@ Responsibility / Continuity
 <sub><b>신효림</b></sub><br>
 <sub>1학년 · 보건의료복지</sub>
 </td>
-<td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="조서렴 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>조서렴</b></sub><br>
-<sub>1학년 · 간호</sub>
-</td>
-<td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="김민주 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>김민주</b></sub><br>
-<sub>1학년 · 간호</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="박윤성 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>박윤성</b></sub><br>
-<sub>간호 · 학년 확인중</sub>
-</td>
-<td width="25%"></td>
-<td width="25%"></td>
-<td width="25%"></td>
 </tr>
 </table>
 
