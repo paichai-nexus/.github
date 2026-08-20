@@ -152,11 +152,10 @@ NEXUS는 한 사람이 하나의 팀에만 고정되는 구조가 아니라,
 <img src="https://img.shields.io/badge/STATUS-CONFIRMED-16A34A?style=flat-square">
 <img src="https://img.shields.io/badge/TYPE-RESEARCH_TF-0F6CBD?style=flat-square">
 
-### Confirmed Members · 11명
+### Confirmed Members · 14명
 
 <table>
 <tr>
-
 <td align="center" width="25%" valign="top">
 <img src="https://github.com/ghost.png?size=160" width="82" alt="김현규 GitHub pending">
 <br><b>GitHub 준비중</b><br>
@@ -186,10 +185,8 @@ NEXUS는 한 사람이 하나의 팀에만 고정되는 구조가 아니라,
 <sub><b>류종걸</b></sub><br>
 <sub>3학년 · 컴퓨터공학</sub>
 </td>
-
 </tr>
 <tr>
-
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/SeongJun08">
 <img src="https://github.com/SeongJun08.png?size=160" width="82" alt="심승준">
@@ -218,6 +215,14 @@ NEXUS는 한 사람이 하나의 팀에만 고정되는 구조가 아니라,
 </td>
 
 <td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="임준호 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>임준호</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top">
 <a href="https://github.com/minwoo9">
 <img src="https://github.com/minwoo9.png?size=160" width="82" alt="구민우">
 <br><b>@minwoo9</b>
@@ -225,9 +230,6 @@ NEXUS는 한 사람이 하나의 팀에만 고정되는 구조가 아니라,
 <sub><b>구민우</b></sub><br>
 <sub>1학년 · IT경영정보</sub>
 </td>
-
-</tr>
-<tr>
 
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/haeum8877">
@@ -253,9 +255,28 @@ NEXUS는 한 사람이 하나의 팀에만 고정되는 구조가 아니라,
 <sub><b>정유한</b></sub><br>
 <sub>1학년 · 전기전자공학</sub>
 </td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/sera881">
+<img src="https://github.com/sera881.png?size=160" width="82" alt="신세라">
+<br><b>@sera881</b>
+</a><br>
+<sub><b>신세라</b></sub><br>
+<sub>1학년 · 조경</sub>
+</td>
+
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/chan1150">
+<img src="https://github.com/chan1150.png?size=160" width="82" alt="김민찬">
+<br><b>@chan1150</b>
+</a><br>
+<sub><b>김민찬</b></sub><br>
+<sub>1학년 · 전기전자공학</sub>
+</td>
 
 <td width="25%"></td>
-
+<td width="25%"></td>
 </tr>
 </table>
 
