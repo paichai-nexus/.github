@@ -1,4 +1,4 @@
-s# 👥 PAICHAI NEXUS Members & Organization
+# 👥 PAICHAI NEXUS Members & Organization
 
 > **2026 · 53 Members · 21 Fields · Matrix / TF Organization**  
 > Pai Chai University · Student-led Interdisciplinary Project Organization
@@ -87,6 +87,23 @@ PAICHAI NEXUS
 | **Chief of Staff** | **구민우** | 대표 직속 운영 보좌, 공지·문서·규칙·절차, 임원·부서 간 조율, 후속업무 점검, 대표 부재 시 운영 대행 |
 | **Vice President** | TBD | 조직 확장에 따라 선임 |
 | **Technical / Research Lead** | TBD | 연구·기술 TF 증가 시 선임 |
+
+---
+
+## Executive Recruitment & Succession · 임원 영입 원칙
+
+> 임원진은 단순 학번순으로 배정하지 않고, **학생회·학과 임원·고등학교 학생자치/조직운영 경험, 리더십, 책임감, 대외 커뮤니케이션 능력**을 우선적으로 봅니다.  
+> 조직 안정성과 후배 멘토링을 위해 **고학년·선배 구성원**도 적극적으로 임원 후보로 영입하며, 연령 자체보다는 실제 운영 경험과 역할 수행 가능성을 기준으로 선임합니다.
+
+```text
+Leadership / Student Council Experience
+                +
+Organization Operations / Communication
+                +
+Responsibility / Continuity
+                ↓
+        Executive Candidate Pool
+```
 
 ---
 
@@ -263,41 +280,40 @@ PAICHAI NEXUS
 
 
 
-## Balanced Assignment · 1차 기능부서 배정
+## Major-Aligned Assignment · 1차 기능부서 배정
 
-> **총 투표 인원: 28명**  
-> 중복 투표자는 한 사람을 여러 부서에 중복 표기하지 않고 **1인 1기능부서**를 기준으로 조정했습니다.  
-> 기존 희망을 우선 반영하되, 중복 지원자는 인원이 적은 부서로 분산하고 `역할 매칭 중` 인원은 전공과 프로젝트 경험을 기준으로 보완 배정했습니다.  
-> 아래 배정은 운영 초기의 **1차 균형 배정안**이며, 실제 활동 후 이동할 수 있습니다.
+> **총 배정 인원: 28명**  
+> 중복 희망자는 1인 1기능부서를 기준으로 정리하되, **본인 희망을 우선하고 전공 적합성·인접 전공·단과대 연계성을 다음 기준으로 반영**했습니다.  
+> `상담 필요 / 역할 매칭 중` 인원은 인원수 균등 배정보다 **전공과 실제 역량이 가장 자연스럽게 연결되는 부서**를 우선했습니다.  
+> 따라서 부서별 인원은 동일하지 않으며, 기술계열 인원이 많은 현재 구성상 R&D가 가장 큰 부서가 되는 것을 허용합니다.
 
-### Balance Snapshot
+### Assignment Priority
 
-| 부서 | 인원 |
-| --- | ---: |
-| 🧭 전략기획부 | **4** |
-| 📋 프로젝트관리부 · PMO | **4** |
-| 🧑‍💻 기술연구개발부 · R&D | **4** |
-| 🎨 디자인브랜딩부 | **3** |
-| 🤝 대외협력부 | **3** |
-| 💼 사업기획·지원부 | **3** |
-| 🎓 교육·커뮤니티부 | **4** |
-| 🔎 사용자·사회연구부 | **3** |
-| **합계** | **28** |
+```text
+본인 희망
+   ↓
+전공 적합성
+   ↓
+인접 전공 / 단과대 연계성
+   ↓
+프로젝트 경험 · 개인 역량
+   ↓
+부서 최소 운영인원 보완
+```
 
+### Department Snapshot
 
-### Department Leads
-
-| 부서 | 팀장 |
-| --- | --- |
-| 🧭 전략기획부 | **미정** |
-| 📋 프로젝트관리부 · PMO | **구민우** |
-| 🧑‍💻 기술연구개발부 · R&D | **류종걸** |
-| 🎨 디자인브랜딩부 | **미정** |
-| 🤝 대외협력부 | **미정** |
-| 💼 사업기획·지원부 | **미정** |
-| 🎓 교육·커뮤니티부 | **미정** |
-| 🔎 사용자·사회연구부 | **미정** |
-
+| 부서 | 인원 | 팀장 |
+| --- | ---: | --- |
+| 🧭 전략기획부 | **4** | 미정 |
+| 📋 프로젝트관리부 · PMO | **3** | **구민우** |
+| 🧑‍💻 기술연구개발부 · R&D | **9** | **류종걸** |
+| 🎨 디자인브랜딩부 | **3** | 미정 |
+| 🤝 대외협력부 | **2** | 미정 |
+| 💼 사업기획·지원부 | **2** | 미정 |
+| 🎓 교육·커뮤니티부 | **2** | 미정 |
+| 🔎 사용자·사회연구부 | **3** | 미정 |
+| **합계** | **28** |  |
 
 
 ## 🧭 전략기획부 · 4명
@@ -321,24 +337,22 @@ PAICHAI NEXUS
 <sub>1학년 · 게임공학</sub>
 </td>
 <td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="이승민 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>이승민</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
 <img src="https://github.com/ghost.png?size=160" width="82" alt="정취영 GitHub pending">
 <br><b>GitHub 준비중</b><br>
 <sub><b>정취영</b></sub><br>
 <sub>1학년 · 행정학</sub>
 </td>
-<td align="center" width="25%" valign="top">
-<a href="https://github.com/h-ng21o">
-<img src="https://github.com/h-ng21o.png?size=160" width="82" alt="홍정우">
-<br><b>@h-ng21o</b>
-</a><br>
-<sub><b>홍정우</b></sub><br>
-<sub>2학년 · 컴퓨터공학</sub>
-</td>
 </tr>
 </table>
 
 
-## 📋 프로젝트관리부 · PMO · 4명
+## 📋 프로젝트관리부 · PMO · 3명
 
 > **팀장: 구민우 · 1학년 · IT경영정보**
 
@@ -366,17 +380,12 @@ PAICHAI NEXUS
 <sub><b>이혜성</b></sub><br>
 <sub>1학년 · 경찰법학</sub>
 </td>
-<td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="주현우 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>주현우</b></sub><br>
-<sub>1학년 · 드론로봇공학</sub>
-</td>
+<td width="25%"></td>
 </tr>
 </table>
 
 
-## 🧑‍💻 기술연구개발부 · R&D · 4명
+## 🧑‍💻 기술연구개발부 · R&D · 9명
 
 > **팀장: 류종걸 · 3학년 · 컴퓨터공학**
 
@@ -411,12 +420,55 @@ PAICHAI NEXUS
 <sub>2학년 · 컴퓨터공학</sub>
 </td>
 </tr>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/wjddbgks4046-ai">
+<img src="https://github.com/wjddbgks4046-ai.png?size=160" width="82" alt="정유한">
+<br><b>@wjddbgks4046-ai</b>
+</a><br>
+<sub><b>정유한</b></sub><br>
+<sub>1학년 · 전기전자공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/seongjun018">
+<img src="https://github.com/seongjun018.png?size=160" width="82" alt="박성준">
+<br><b>@seongjun018</b>
+</a><br>
+<sub><b>박성준</b></sub><br>
+<sub>1학년 · 드론로봇공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="주현우 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>주현우</b></sub><br>
+<sub>1학년 · 드론로봇공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/jaeh040817">
+<img src="https://github.com/jaeh040817.png?size=160" width="82" alt="유재현">
+<br><b>@jaeh040817</b>
+</a><br>
+<sub><b>유재현</b></sub><br>
+<sub>3학년 · 정보보안학</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="문강민 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>문강민</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
 </table>
 
 
 ## 🎨 디자인브랜딩부 · 3명
 
-> **팀장: 이민준**
+> **팀장: 미정**
 
 <table>
 <tr>
@@ -427,12 +479,12 @@ PAICHAI NEXUS
 <sub>2학년 · 커뮤니케이션디자인</sub>
 </td>
 <td align="center" width="25%" valign="top">
-<a href="https://github.com/wjddbgks4046-ai">
-<img src="https://github.com/wjddbgks4046-ai.png?size=160" width="82" alt="정유한">
-<br><b>@wjddbgks4046-ai</b>
+<a href="https://github.com/h-ng21o">
+<img src="https://github.com/h-ng21o.png?size=160" width="82" alt="홍정우">
+<br><b>@h-ng21o</b>
 </a><br>
-<sub><b>정유한</b></sub><br>
-<sub>1학년 · 전기전자공학</sub>
+<sub><b>홍정우</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/sera881">
@@ -447,18 +499,12 @@ PAICHAI NEXUS
 </table>
 
 
-## 🤝 대외협력부 · 3명
+## 🤝 대외협력부 · 2명
 
 > **팀장: 미정**
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="이승민 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>이승민</b></sub><br>
-<sub>1학년 · 컴퓨터공학</sub>
-</td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/haeum8877">
 <img src="https://github.com/haeum8877.png?size=160" width="82" alt="박하음">
@@ -476,24 +522,17 @@ PAICHAI NEXUS
 <sub>1학년 · 전기전자공학</sub>
 </td>
 <td width="25%"></td>
+<td width="25%"></td>
 </tr>
 </table>
 
 
-## 💼 사업기획·지원부 · 3명
+## 💼 사업기획·지원부 · 2명
 
 > **팀장: 미정**
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top">
-<a href="https://github.com/jeonghawaii07">
-<img src="https://github.com/jeonghawaii07.png?size=160" width="82" alt="김정환">
-<br><b>@jeonghawaii07</b>
-</a><br>
-<sub><b>김정환</b></sub><br>
-<sub>1학년 · 보건의료복지</sub>
-</td>
 <td align="center" width="25%" valign="top">
 <img src="https://github.com/ghost.png?size=160" width="82" alt="권재현 GitHub pending">
 <br><b>GitHub 준비중</b><br>
@@ -507,11 +546,12 @@ PAICHAI NEXUS
 <sub>1학년 · 외식조리</sub>
 </td>
 <td width="25%"></td>
+<td width="25%"></td>
 </tr>
 </table>
 
 
-## 🎓 교육·커뮤니티부 · 4명
+## 🎓 교육·커뮤니티부 · 2명
 
 > **팀장: 미정**
 
@@ -533,20 +573,8 @@ PAICHAI NEXUS
 <sub><b>정현진</b></sub><br>
 <sub>1학년 · 식품영양</sub>
 </td>
-<td align="center" width="25%" valign="top">
-<a href="https://github.com/seongjun018">
-<img src="https://github.com/seongjun018.png?size=160" width="82" alt="박성준">
-<br><b>@seongjun018</b>
-</a><br>
-<sub><b>박성준</b></sub><br>
-<sub>1학년 · 드론로봇공학</sub>
-</td>
-<td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="문강민 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>문강민</b></sub><br>
-<sub>1학년 · 컴퓨터공학</sub>
-</td>
+<td width="25%"></td>
+<td width="25%"></td>
 </tr>
 </table>
 
@@ -557,6 +585,14 @@ PAICHAI NEXUS
 
 <table>
 <tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/jeonghawaii07">
+<img src="https://github.com/jeonghawaii07.png?size=160" width="82" alt="김정환">
+<br><b>@jeonghawaii07</b>
+</a><br>
+<sub><b>김정환</b></sub><br>
+<sub>1학년 · 보건의료복지</sub>
+</td>
 <td align="center" width="25%" valign="top">
 <img src="https://github.com/ghost.png?size=160" width="82" alt="신효림 GitHub pending">
 <br><b>GitHub 준비중</b><br>
@@ -569,33 +605,17 @@ PAICHAI NEXUS
 <sub><b>조서렴</b></sub><br>
 <sub>1학년 · 간호</sub>
 </td>
-<td align="center" width="25%" valign="top">
-<a href="https://github.com/jaeh040817">
-<img src="https://github.com/jaeh040817.png?size=160" width="82" alt="유재현">
-<br><b>@jaeh040817</b>
-</a><br>
-<sub><b>유재현</b></sub><br>
-<sub>3학년 · 정보보안학</sub>
-</td>
 <td width="25%"></td>
 </tr>
 </table>
 
-### Assignment Principle
+### Assignment Notes
 
-```text
-1차 희망 투표
-    ↓
-중복 지원 확인
-    ↓
-희망 부서 우선 유지
-    ↓
-저인원 부서로 중복 인원 분산
-    ↓
-역할 매칭 인원은 전공 / 경험 기반 보완
-    ↓
-28명 · 8개 부서 균형 배정
-```
+- **전기전자 · 드론로봇 · 정보보안 · 컴퓨터/SW 계열**은 기본적으로 기술연구개발부 R&D와의 적합성을 우선했습니다.
+- **디자인브랜딩부**는 커뮤니케이션디자인을 중심으로, 디자인 희망자와 조경 등 인접 시각·공간 전공을 배치했습니다.
+- **사용자·사회연구부**는 보건의료복지·간호 등 사용자·현장 관찰과 검증에 강한 전공을 우선 배치했습니다.
+- 중복 희망자는 최초 희망을 무시하지 않고, 다른 부서의 적합도와 비교하여 최종 1개 부서로 정리했습니다.
+- 기능부서는 고정 신분이 아니라 활동 결과와 본인 희망에 따라 이동할 수 있습니다.
 
 ---
 
