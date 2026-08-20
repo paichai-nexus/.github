@@ -1,380 +1,1315 @@
-# 👥 PAICHAI NEXUS Members
+# 👥 PAICHAI NEXUS Members & Organization
 
-> **2026 · 53 Members · 21 Fields**  
+> **2026 · 53 Members · 21 Fields · Matrix / TF Organization**  
 > Pai Chai University · Student-led Interdisciplinary Project Organization
 
-이 문서는 PAICHAI NEXUS의 **연도별 공개 멤버 로스터**입니다.
+NEXUS는 한 사람이 하나의 팀에만 고정되는 구조가 아니라,  
+**임원팀(Executive) · 프로젝트/TF팀(Project) · 기능부서팀(Function)** 을 교차하여 운영하는 매트릭스 조직을 지향합니다.
 
-- 전체 활동 구성원과 GitHub 조직 공개 등록 인원은 구분하여 관리합니다.
-- 이름, 학년, 전공은 2026 NEXUS 명단 기준으로 기록합니다.
-- GitHub 계정은 **이름 ↔ 계정 매핑이 확인된 경우에만** 연결합니다.
-- 나이, 학번, 연락처 등 불필요한 개인정보는 공개 로스터에 기록하지 않습니다.
-- 같은 단과대 안에서는 같은 전공끼리 묶어 정리합니다.
-- 각 전공 내부에서는 **고학년 → 저학년 순**으로 정리합니다.
-- 평생교육융합학부와 글로벌융합학부는 본 공개 로스터에서 제외합니다.
+```text
+                         PAICHAI NEXUS
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+         EXECUTIVE          PROJECT / TF       FUNCTION
+           임원팀            프로젝트팀          부서팀
+              │                │                │
+       Direction / Ops    Mission-oriented    Capability Pool
+              └────────────────┼────────────────┘
+                               │
+                     College / Major Network
+```
+
+> **운영 원칙**
+>
+> - 한 멤버는 **기본 소속 전공 + 기능부서 1개 + 프로젝트/TF 0~2개** 형태로 참여할 수 있습니다.
+> - 프로젝트/TF는 과업이 끝나면 종료·재편될 수 있습니다.
+> - 기능부서는 기술·기획·디자인·대외협력 등 역량 풀을 유지합니다.
+> - 현재 부서 배치는 첨부된 **1차 희망 투표 현황**을 반영한 초안이며, 최종 배정 전 변경될 수 있습니다.
+> - GitHub 계정이 확인된 멤버는 실제 프로필 이미지를 표시하고, 미확인 멤버는 기본 이미지를 표시합니다.
 
 ---
 
-# 2026
+# 👑 Executive Team · 임원팀
 
-## Summary
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/gxmzung">
+<img src="https://github.com/gxmzung.png?size=160" width="96" alt="이영준">
+<br><b>@gxmzung</b>
+</a><br>
+<sub><b>이영준</b></sub><br>
+<sub>Founder · President</sub><br>
+<sub>컴퓨터공학 · 1학년</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<b>Vice President</b><br><br>
+<sub>배정 예정</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<b>Operations Lead</b><br><br>
+<sub>배정 예정</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<b>Technical / Research Lead</b><br><br>
+<sub>배정 예정</sub>
+</td>
+</tr>
+</table>
 
-| 항목 | 현황 |
+> 임원팀은 모든 프로젝트를 직접 수행하는 조직이 아니라 **방향, 자원 배분, 대외 의사결정, 충돌 조정, 인수인계**를 책임집니다.
+
+---
+
+# 🚀 Project / TF Teams · 프로젝트팀
+
+프로젝트팀은 전공과 부서를 넘어서 **문제 중심으로 구성되는 임시 TF**입니다.  
+프로젝트마다 `PM / Tech / Research / Domain / Design / External` 역할을 필요에 따라 조합합니다.
+
+
+## 🌱 Smart Seedling AI TF
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="이금령 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>이금령</b></sub><br>
+<sub>4학년 · 원예산림</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김현규 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김현규</b></sub><br>
+<sub>4학년 · 원예산림</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/gxmzung">
+<img src="https://github.com/gxmzung.png?size=160" width="82" alt="이영준">
+<br><b>@gxmzung</b>
+</a><br>
+<sub><b>이영준</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/sera881">
+<img src="https://github.com/sera881.png?size=160" width="82" alt="신세라">
+<br><b>@sera881</b>
+</a><br>
+<sub><b>신세라</b></sub><br>
+<sub>1학년 · 조경</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/guswls0520">
+<img src="https://github.com/guswls0520.png?size=160" width="82" alt="정현진">
+<br><b>@guswls0520</b>
+</a><br>
+<sub><b>정현진</b></sub><br>
+<sub>1학년 · 식품영양</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+> **Status:** Core pool / 초기 구성안 · 세부 역할과 최종 참여자는 프로젝트 킥오프 시 확정
+
+
+## 🍽️ Zero-Waste FoodTech TF
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김규리 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김규리</b></sub><br>
+<sub>3학년 · 식품영양</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/gxmzung">
+<img src="https://github.com/gxmzung.png?size=160" width="82" alt="이영준">
+<br><b>@gxmzung</b>
+</a><br>
+<sub><b>이영준</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="이지환 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>이지환</b></sub><br>
+<sub>1학년 · 외식조리</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/guswls0520">
+<img src="https://github.com/guswls0520.png?size=160" width="82" alt="정현진">
+<br><b>@guswls0520</b>
+</a><br>
+<sub><b>정현진</b></sub><br>
+<sub>1학년 · 식품영양</sub>
+</td>
+</tr>
+</table>
+
+
+> **Status:** Core pool / 초기 구성안 · 세부 역할과 최종 참여자는 프로젝트 킥오프 시 확정
+
+
+## 🏥 Healthcare HIS TF
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/gxmzung">
+<img src="https://github.com/gxmzung.png?size=160" width="82" alt="이영준">
+<br><b>@gxmzung</b>
+</a><br>
+<sub><b>이영준</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김민주 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김민주</b></sub><br>
+<sub>1학년 · 간호</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="최윤성 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>최윤성</b></sub><br>
+<sub>1학년 · 간호</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="조서렴 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>조서렴</b></sub><br>
+<sub>1학년 · 간호</sub>
+</td>
+</tr>
+</table>
+
+
+> **Status:** Core pool / 초기 구성안 · 세부 역할과 최종 참여자는 프로젝트 킥오프 시 확정
+
+
+## 🏗️ Tunnel Stability Research TF
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/gxmzung">
+<img src="https://github.com/gxmzung.png?size=160" width="82" alt="이영준">
+<br><b>@gxmzung</b>
+</a><br>
+<sub><b>이영준</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="홍준형 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>홍준형</b></sub><br>
+<sub>1학년 · 철도건설공학</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+> **Status:** Core pool / 초기 구성안 · 세부 역할과 최종 참여자는 프로젝트 킥오프 시 확정
+
+
+### TF Operating Model
+
+```text
+Project / TF
+│
+├─ PM / Project Owner
+├─ Technical
+│   ├─ AI / Software
+│   ├─ Hardware / Embedded
+│   └─ Data / Security
+├─ Domain
+│   ├─ Agriculture / Bio / Health
+│   ├─ Business / Public / Law
+│   └─ Architecture / Design / Sports
+├─ Research & Validation
+├─ Design & Communication
+└─ External / Faculty / Company
+```
+
+---
+
+# 🧩 Functional Departments · 부서팀
+
+> 아래 명단은 **현재 부서 희망 투표를 기반으로 한 1차 배정 후보**입니다.  
+> 중복 지원이 가능하며, 최종 부서는 운영 회의를 통해 확정합니다.
+
+
+## 🧭 기획전략부 · 6명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김규태 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김규태</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/h-ng21o">
+<img src="https://github.com/h-ng21o.png?size=160" width="82" alt="홍정우">
+<br><b>@h-ng21o</b>
+</a><br>
+<sub><b>홍정우</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="이승민 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>이승민</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김승조 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김승조</b></sub><br>
+<sub>1학년 · 게임공학</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/shield-761">
+<img src="https://github.com/shield-761.png?size=160" width="82" alt="정한빈">
+<br><b>@shield-761</b>
+</a><br>
+<sub><b>정한빈</b></sub><br>
+<sub>1학년 · 게임공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/minwoo9">
+<img src="https://github.com/minwoo9.png?size=160" width="82" alt="구민우">
+<br><b>@minwoo9</b>
+</a><br>
+<sub><b>구민우</b></sub><br>
+<sub>1학년 · IT경영정보</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+## 📋 프로젝트운영부 · 6명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김승조 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김승조</b></sub><br>
+<sub>1학년 · 게임공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/haeum8877">
+<img src="https://github.com/haeum8877.png?size=160" width="82" alt="박하음">
+<br><b>@haeum8877</b>
+</a><br>
+<sub><b>박하음</b></sub><br>
+<sub>1학년 · 건축</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/happurity">
+<img src="https://github.com/happurity.png?size=160" width="82" alt="심주연">
+<br><b>@happurity</b>
+</a><br>
+<sub><b>심주연</b></sub><br>
+<sub>1학년 · 경찰법학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/shield-761">
+<img src="https://github.com/shield-761.png?size=160" width="82" alt="정한빈">
+<br><b>@shield-761</b>
+</a><br>
+<sub><b>정한빈</b></sub><br>
+<sub>1학년 · 게임공학</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/minwoo9">
+<img src="https://github.com/minwoo9.png?size=160" width="82" alt="구민우">
+<br><b>@minwoo9</b>
+</a><br>
+<sub><b>구민우</b></sub><br>
+<sub>1학년 · IT경영정보</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/overflow-52">
+<img src="https://github.com/overflow-52.png?size=160" width="82" alt="이혜성">
+<br><b>@overflow-52</b>
+</a><br>
+<sub><b>이혜성</b></sub><br>
+<sub>1학년 · 경찰법학</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+## 🧑‍💻 연구개발부 · 8명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/h-ng21o">
+<img src="https://github.com/h-ng21o.png?size=160" width="82" alt="홍정우">
+<br><b>@h-ng21o</b>
+</a><br>
+<sub><b>홍정우</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/SeongJun08">
+<img src="https://github.com/SeongJun08.png?size=160" width="82" alt="심승준">
+<br><b>@SeongJun08</b>
+</a><br>
+<sub><b>심승준</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="이승민 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>이승민</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김동하 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김동하</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김승조 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김승조</b></sub><br>
+<sub>1학년 · 게임공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/haeum8877">
+<img src="https://github.com/haeum8877.png?size=160" width="82" alt="박하음">
+<br><b>@haeum8877</b>
+</a><br>
+<sub><b>박하음</b></sub><br>
+<sub>1학년 · 건축</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/seoyul1128">
+<img src="https://github.com/seoyul1128.png?size=160" width="82" alt="이서율">
+<br><b>@seoyul1128</b>
+</a><br>
+<sub><b>이서율</b></sub><br>
+<sub>1학년 · 소프트웨어학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/shield-761">
+<img src="https://github.com/shield-761.png?size=160" width="82" alt="정한빈">
+<br><b>@shield-761</b>
+</a><br>
+<sub><b>정한빈</b></sub><br>
+<sub>1학년 · 게임공학</sub>
+</td>
+</tr>
+</table>
+
+
+
+## 🎨 디자인·커뮤니케이션부 · 2명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/h-ng21o">
+<img src="https://github.com/h-ng21o.png?size=160" width="82" alt="홍정우">
+<br><b>@h-ng21o</b>
+</a><br>
+<sub><b>홍정우</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/wjddbgks4046-ai">
+<img src="https://github.com/wjddbgks4046-ai.png?size=160" width="82" alt="정유한">
+<br><b>@wjddbgks4046-ai</b>
+</a><br>
+<sub><b>정유한</b></sub><br>
+<sub>1학년 · 전기전자공학</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+## 🤝 대외협력부 · 5명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="이승민 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>이승민</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/haeum8877">
+<img src="https://github.com/haeum8877.png?size=160" width="82" alt="박하음">
+<br><b>@haeum8877</b>
+</a><br>
+<sub><b>박하음</b></sub><br>
+<sub>1학년 · 건축</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/jack070401">
+<img src="https://github.com/jack070401.png?size=160" width="82" alt="장성빈">
+<br><b>@jack070401</b>
+</a><br>
+<sub><b>장성빈</b></sub><br>
+<sub>1학년 · 전기전자공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/minwoo9">
+<img src="https://github.com/minwoo9.png?size=160" width="82" alt="구민우">
+<br><b>@minwoo9</b>
+</a><br>
+<sub><b>구민우</b></sub><br>
+<sub>1학년 · IT경영정보</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/overflow-52">
+<img src="https://github.com/overflow-52.png?size=160" width="82" alt="이혜성">
+<br><b>@overflow-52</b>
+</a><br>
+<sub><b>이혜성</b></sub><br>
+<sub>1학년 · 경찰법학</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+## 💼 경영지원부 · 1명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/jeonghawaii07">
+<img src="https://github.com/jeonghawaii07.png?size=160" width="82" alt="김정환">
+<br><b>@jeonghawaii07</b>
+</a><br>
+<sub><b>김정환</b></sub><br>
+<sub>1학년 · 보건의료복지</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+## 🎓 교육·행사부 · 3명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/h-ng21o">
+<img src="https://github.com/h-ng21o.png?size=160" width="82" alt="홍정우">
+<br><b>@h-ng21o</b>
+</a><br>
+<sub><b>홍정우</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/happurity">
+<img src="https://github.com/happurity.png?size=160" width="82" alt="심주연">
+<br><b>@happurity</b>
+</a><br>
+<sub><b>심주연</b></sub><br>
+<sub>1학년 · 경찰법학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/minwoo9">
+<img src="https://github.com/minwoo9.png?size=160" width="82" alt="구민우">
+<br><b>@minwoo9</b>
+</a><br>
+<sub><b>구민우</b></sub><br>
+<sub>1학년 · IT경영정보</sub>
+</td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+## 🔎 인문사회·사용자연구부 · 1명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/jeonghawaii07">
+<img src="https://github.com/jeonghawaii07.png?size=160" width="82" alt="김정환">
+<br><b>@jeonghawaii07</b>
+</a><br>
+<sub><b>김정환</b></sub><br>
+<sub>1학년 · 보건의료복지</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+## 🟡 미배정 / 상담 필요
+
+부서 희망이 아직 없거나 추가 상담이 필요한 멤버는 **미배정 풀**에서 프로젝트 참여 경험과 전공을 보고 배치합니다.
+
+> GitHub README에는 미배정 상태를 낙인처럼 보이지 않도록 `Unassigned` 대신 **Role Matching / 역할 매칭 중**으로 표시하는 것을 권장합니다.
+
+---
+
+# 🏫 College / Major Network · 단과대·전공 네트워크
+
+기능부서와 프로젝트팀이 **어떻게 일할지**를 정한다면, 단과대·전공 네트워크는 **어떤 전문성을 연결할지**를 보여줍니다.
+
+```text
+Member
+│
+├─ College / Major        ← 전공 기반 전문성
+├─ Functional Department ← 지속 역량 / 운영 역할
+└─ Project / TF          ← 실제 문제 해결
+```
+
+
+## 인문사회대학 · 3명
+
+
+### 행정학 · 1명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="정취영 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>정취영</b></sub><br>
+<sub>1학년 · 행정학</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### 경찰법학 · 2명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/overflow-52">
+<img src="https://github.com/overflow-52.png?size=160" width="82" alt="이혜성">
+<br><b>@overflow-52</b>
+</a><br>
+<sub><b>이혜성</b></sub><br>
+<sub>1학년 · 경찰법학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/happurity">
+<img src="https://github.com/happurity.png?size=160" width="82" alt="심주연">
+<br><b>@happurity</b>
+</a><br>
+<sub><b>심주연</b></sub><br>
+<sub>1학년 · 경찰법학</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+## 경영대학 · 5명
+
+
+### 경영학 · 1명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="문시우 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>문시우</b></sub><br>
+<sub>1학년 · 경영학</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### IT경영정보 · 4명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/minwoo9">
+<img src="https://github.com/minwoo9.png?size=160" width="82" alt="구민우">
+<br><b>@minwoo9</b>
+</a><br>
+<sub><b>구민우</b></sub><br>
+<sub>1학년 · IT경영정보</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="권재현 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>권재현</b></sub><br>
+<sub>1학년 · IT경영정보</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="신동우 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>신동우</b></sub><br>
+<sub>1학년 · IT경영정보</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/min020676">
+<img src="https://github.com/min020676.png?size=160" width="82" alt="최민성">
+<br><b>@min020676</b>
+</a><br>
+<sub><b>최민성</b></sub><br>
+<sub>1학년 · IT경영정보</sub>
+</td>
+</tr>
+</table>
+
+
+
+## 생명보건대학 · 10명
+
+
+### 보건의료복지 · 2명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/jeonghawaii07">
+<img src="https://github.com/jeonghawaii07.png?size=160" width="82" alt="김정환">
+<br><b>@jeonghawaii07</b>
+</a><br>
+<sub><b>김정환</b></sub><br>
+<sub>1학년 · 보건의료복지</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="신효림 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>신효림</b></sub><br>
+<sub>1학년 · 보건의료복지</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### 식품영양 · 2명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김규리 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김규리</b></sub><br>
+<sub>3학년 · 식품영양</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/guswls0520">
+<img src="https://github.com/guswls0520.png?size=160" width="82" alt="정현진">
+<br><b>@guswls0520</b>
+</a><br>
+<sub><b>정현진</b></sub><br>
+<sub>1학년 · 식품영양</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### 간호 · 3명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김민주 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김민주</b></sub><br>
+<sub>1학년 · 간호</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="최윤성 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>최윤성</b></sub><br>
+<sub>1학년 · 간호</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="조서렴 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>조서렴</b></sub><br>
+<sub>1학년 · 간호</sub>
+</td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### 외식조리 · 1명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="이지환 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>이지환</b></sub><br>
+<sub>1학년 · 외식조리</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### 원예산림 · 2명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="이금령 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>이금령</b></sub><br>
+<sub>4학년 · 원예산림</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김현규 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김현규</b></sub><br>
+<sub>4학년 · 원예산림</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+## AI·SW창의융합대학 · 27명
+
+
+### 컴퓨터공학 · 13명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/SeongJun08">
+<img src="https://github.com/SeongJun08.png?size=160" width="82" alt="심승준">
+<br><b>@SeongJun08</b>
+</a><br>
+<sub><b>심승준</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/h-ng21o">
+<img src="https://github.com/h-ng21o.png?size=160" width="82" alt="홍정우">
+<br><b>@h-ng21o</b>
+</a><br>
+<sub><b>홍정우</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김규태 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김규태</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/gxmzung">
+<img src="https://github.com/gxmzung.png?size=160" width="82" alt="이영준">
+<br><b>@gxmzung</b>
+</a><br>
+<sub><b>이영준</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김동하 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김동하</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="이승민 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>이승민</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="최태현 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>최태현</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="문강민 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>문강민</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="임준호 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>임준호</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김준민 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김준민</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="소지성 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>소지성</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="최이솔 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>최이솔</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="최수현 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>최수현</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### 소프트웨어학 · 1명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/seoyul1128">
+<img src="https://github.com/seoyul1128.png?size=160" width="82" alt="이서율">
+<br><b>@seoyul1128</b>
+</a><br>
+<sub><b>이서율</b></sub><br>
+<sub>1학년 · 소프트웨어학</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### 게임공학 · 2명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김승조 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김승조</b></sub><br>
+<sub>1학년 · 게임공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/shield-761">
+<img src="https://github.com/shield-761.png?size=160" width="82" alt="정한빈">
+<br><b>@shield-761</b>
+</a><br>
+<sub><b>정한빈</b></sub><br>
+<sub>1학년 · 게임공학</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### 드론로봇공학 · 3명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/seongjun018">
+<img src="https://github.com/seongjun018.png?size=160" width="82" alt="박성준">
+<br><b>@seongjun018</b>
+</a><br>
+<sub><b>박성준</b></sub><br>
+<sub>1학년 · 드론로봇공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="주현우 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>주현우</b></sub><br>
+<sub>1학년 · 드론로봇공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="윤경환 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>윤경환</b></sub><br>
+<sub>1학년 · 드론로봇공학</sub>
+</td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### 전기전자공학 · 3명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/chan1150">
+<img src="https://github.com/chan1150.png?size=160" width="82" alt="김민찬">
+<br><b>@chan1150</b>
+</a><br>
+<sub><b>김민찬</b></sub><br>
+<sub>1학년 · 전기전자공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/wjddbgks4046-ai">
+<img src="https://github.com/wjddbgks4046-ai.png?size=160" width="82" alt="정유한">
+<br><b>@wjddbgks4046-ai</b>
+</a><br>
+<sub><b>정유한</b></sub><br>
+<sub>1학년 · 전기전자공학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/jack070401">
+<img src="https://github.com/jack070401.png?size=160" width="82" alt="장성빈">
+<br><b>@jack070401</b>
+</a><br>
+<sub><b>장성빈</b></sub><br>
+<sub>1학년 · 전기전자공학</sub>
+</td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### 철도건설공학 · 1명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="홍준형 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>홍준형</b></sub><br>
+<sub>1학년 · 철도건설공학</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### 정보보안학 · 4명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/jaeh040817">
+<img src="https://github.com/jaeh040817.png?size=160" width="82" alt="유재현">
+<br><b>@jaeh040817</b>
+</a><br>
+<sub><b>유재현</b></sub><br>
+<sub>3학년 · 정보보안학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="이건형 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>이건형</b></sub><br>
+<sub>2학년 · 정보보안학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김태하 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김태하</b></sub><br>
+<sub>1학년 · 정보보안학</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김지효 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김지효</b></sub><br>
+<sub>1학년 · 정보보안학</sub>
+</td>
+</tr>
+</table>
+
+
+
+## 문화예술대학 · 8명
+
+
+### 레저스포츠 · 1명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/minixdbxkyuu">
+<img src="https://github.com/minixdbxkyuu.png?size=160" width="82" alt="곽민규">
+<br><b>@minixdbxkyuu</b>
+</a><br>
+<sub><b>곽민규</b></sub><br>
+<sub>1학년 · 레저스포츠</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### 미디어콘텐츠 · 1명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="손지원 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>손지원</b></sub><br>
+<sub>1학년 · 미디어콘텐츠</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### 건축 · 2명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/haeum8877">
+<img src="https://github.com/haeum8877.png?size=160" width="82" alt="박하음">
+<br><b>@haeum8877</b>
+</a><br>
+<sub><b>박하음</b></sub><br>
+<sub>1학년 · 건축</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="장지훈 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>장지훈</b></sub><br>
+<sub>1학년 · 건축</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### 커뮤니케이션디자인 · 3명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="이민준 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>이민준</b></sub><br>
+<sub>2학년 · 커뮤니케이션디자인</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="양우진 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>양우진</b></sub><br>
+<sub>1학년 · 커뮤니케이션디자인</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="신유진 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>신유진</b></sub><br>
+<sub>1학년 · 커뮤니케이션디자인</sub>
+</td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+### 조경 · 1명
+
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/sera881">
+<img src="https://github.com/sera881.png?size=160" width="82" alt="신세라">
+<br><b>@sera881</b>
+</a><br>
+<sub><b>신세라</b></sub><br>
+<sub>1학년 · 조경</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+
+
+---
+
+# 📊 Organization Snapshot
+
+| 구분 | 현황 |
 | --- | ---: |
 | 전체 활동 구성원 | **53명** |
 | 참여 전공 / 분야 | **21개** |
-| GitHub 계정 확인 | **19명** |
-| GitHub 계정 확인 대기 | **34명** |
-| 운영 부서 | **8개** |
+| 기능부서 | **8개** |
+| 공개 GitHub 계정 확인 | **19명** |
+| Project / TF | **과업별 탄력 운영** |
+| 조직 구조 | **Matrix + TF** |
 
 ---
 
-## 🌐 아펜젤러공유대학
+# 🔄 Membership & Role Policy
 
-### 자율전공학부
-
-현재 멤버 없음.
-
----
-
-## ⚖️ 인문사회대학
-
-### 유아교육과
-
-현재 멤버 없음.
-
-### 국어국문한국어교육학과
-
-현재 멤버 없음.
-
-### 일본학과
-
-현재 멤버 없음.
-
-### 경찰법학부 · 전공 선택 전
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | **이혜성** | [@overflow-52](https://github.com/overflow-52) |
-| 1 | **심주연** | [@happurity](https://github.com/happurity) |
-
-### 경찰학전공
-
-현재 멤버 없음.
-
-### 법학전공
-
-현재 멤버 없음.
-
-### 행정학과
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | 정취영 | — |
-
-### 심리상담학과
-
-현재 멤버 없음.
-
----
-
-## 💼 경영대학
-
-### 경영학과
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | 문시우 | — |
-
-### IT경영정보학과
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | **구민우** | [@minwoo9](https://github.com/minwoo9) |
-| 1 | 권재현 | — |
-| 1 | 신동우 | — |
-| 1 | **최민성** | [@min020676](https://github.com/min020676) |
-
-### 글로벌비즈니스학과
-
-현재 멤버 없음.
-
-### 관광경영학과
-
-현재 멤버 없음.
-
-### 호텔항공경영학과
-
-현재 멤버 없음.
-
-### 항공서비스학과
-
-현재 멤버 없음.
-
----
-
-## 🧬 생명보건대학
-
-### 생명공학과
-
-현재 멤버 없음.
-
-### 식품영양학과
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 3 | 김규리 | — |
-| 1 | **정현진** | [@guswls0520](https://github.com/guswls0520) |
-
-### 외식조리학과
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | 이지환 | — |
-
-### 원예산림학과
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 4 | 이금령 | — |
-| 4 | 김현규 | — |
-
-### 보건의료복지학과
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | **김정환** | [@jeonghawaii07](https://github.com/jeonghawaii07) |
-| 1 | 신효림 | — |
-
-### 간호학과
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | 김민주 | — |
-| 1 | 최윤성 | — |
-| 1 | 조서렴 | — |
-
-### 운동재활복지학과
-
-현재 멤버 없음.
-
----
-
-## 🤖 AI·SW창의융합대학
-
-### 소프트웨어공학부 · 컴퓨터공학전공
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 2 | **심승준** | [@SeongJun08](https://github.com/SeongJun08) |
-| 2 | **홍정우** | [@h-ng21o](https://github.com/h-ng21o) |
-| 2 | 김규태 | — |
-| 1 | **이영준** | [@gxmzung](https://github.com/gxmzung) · Founder · President |
-| 1 | 김동하 | — |
-| 1 | 이승민 | — |
-| 1 | 최태현 | — |
-| 1 | 문강민 | — |
-| 1 | 임준호 | — |
-| 1 | 김준민 | — |
-| 1 | 소지성 | — |
-| 1 | 최이솔 | — |
-| 1 | 최수현 | — |
-
-### 소프트웨어공학부 · 소프트웨어학전공
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | **이서율** | [@seoyul1128](https://github.com/seoyul1128) |
-
-### 소프트웨어공학부 · 정보보안학전공
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 3 | **유재현** | [@jaeh040817](https://github.com/jaeh040817) |
-| 2 | 이건형 | — |
-| 1 | 김태하 | — |
-| 1 | 김지효 | — |
-
-### 소프트웨어공학부 · 게임공학전공
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | 김승조 | — |
-| 1 | **정한빈** | [@shield-761](https://github.com/shield-761) |
-
-### 전기전자공학과
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | **김민찬** | [@chan1150](https://github.com/chan1150) |
-| 1 | **정유한** | [@wjddbgks4046-ai](https://github.com/wjddbgks4046-ai) |
-| 1 | **장성빈** | [@jack070401](https://github.com/jack070401) |
-
-### 스마트배터리학과
-
-현재 멤버 없음.
-
-### 드론로봇공학과
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | **박성준** | [@seongjun018](https://github.com/seongjun018) |
-| 1 | 주현우 | — |
-| 1 | 윤경환 | — |
-
-### 철도건설공학과
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | 홍준형 | — |
-
----
-
-## 🎨 문화예술대학
-
-### 건축학과(5년제)
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | **박하음** | [@haeum8877](https://github.com/haeum8877) |
-| 1 | 장지훈 | — |
-
-### 실내건축학과
-
-현재 멤버 없음.
-
-### 조경학과
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | **신세라** | [@sera881](https://github.com/sera881) |
-
-### 아트앤웹툰학부 · 아트앤웹툰전공
-
-현재 멤버 없음.
-
-### 아트앤웹툰학부 · 게임애니메이션전공
-
-현재 멤버 없음.
-
-### 디자인학부 · 커뮤니케이션디자인전공
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 2 | 이민준 | — |
-| 1 | 양우진 | — |
-| 1 | 신유진 | — |
-
-### 디자인학부 · 산업디자인전공
-
-현재 멤버 없음.
-
-### 광고사진영상학과
-
-현재 멤버 없음.
-
-### 미디어콘텐츠학과
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | 손지원 | — |
-
-### 의류패션학과
-
-현재 멤버 없음.
-
-### 뷰티케어학과
-
-현재 멤버 없음.
-
-### 공연예술학과
-
-현재 멤버 없음.
-
-### 레저스포츠학부 · 스포츠지도·건강재활전공
-
-현재 멤버 없음.
-
-### 레저스포츠학부 · 스포츠마케팅전공
-
-| 학년 | 이름 | GitHub |
-| ---: | --- | --- |
-| 1 | **곽민규** | [@minixdbxkyuu](https://github.com/minixdbxkyuu) |
-
----
-
-## 📚 주시경교양대학
-
-학위 전공 모집 단위가 아닌 교양교육 조직이므로 멤버 전공 로스터에는 별도 인원을 배정하지 않습니다.
-
----
-
-# 🔗 GitHub Mapping Status
-
-✅ **현재 GitHub 계정 확인 19명**
-
-GitHub 계정이 추가 확인될 때마다 이 문서와 메인 `profile/README.md`를 함께 갱신합니다.
-
-| 상태 | 인원 |
-| --- | ---: |
-| GitHub linked | **19명** |
-| GitHub pending | **34명** |
-| Total | **53명** |
-
----
-
-# 📘 Roster Policy
-
-## Annual Record
-
-로스터는 연도별로 분리합니다.
+## One Member, Multiple Contexts
 
 ```text
-2026
-├─ Founding members
-├─ Continuing members
-└─ Project participants
-
-2027
-├─ Continuing
-├─ New / Returning
-├─ Leave / Military Service
-└─ Leadership Transition
+예시
+이름
+├─ 전공: 컴퓨터공학
+├─ 기능부서: 연구개발부
+└─ 프로젝트: Smart Seedling AI TF
 ```
 
-## Status Principle
+같은 멤버가 여러 프로젝트에 참여할 수 있지만, **동시에 너무 많은 TF에 배정하지 않는 것**을 원칙으로 합니다.
 
-- **Continuing** — 다음 연도에도 계속 활동
-- **New** — 신규 가입
-- **Returning** — 휴학·군복무 등 이후 복귀
-- **Leave** — 일정 기간 활동 중단
-- **Graduated / Alumni** — 졸업 후 기록 보존
+- Primary Department: 1개 권장
+- Active Project / TF: 0~2개 권장
+- Executive role: 필요 시 겸임
+- College / Major: 학생의 실제 소속을 그대로 기록
 
-기존 활동 기록은 삭제하기보다 **연도별 기록으로 남기는 것을 원칙**으로 합니다.
-
-## GitHub Principle
-
-GitHub 조직 가입 여부는 NEXUS 전체 회원 자격과 동일하지 않습니다.
+## Project Lifecycle
 
 ```text
-NEXUS Member
-    │
-    ├─ GitHub linked
-    │    └─ 공개 저장소 · 프로젝트 협업
-    │
-    └─ GitHub not linked yet
-         └─ 전공 · 연구 · 기획 · 디자인 · 운영 등으로 참여
+IDEA
+  ↓
+TF FORMATION
+  ↓
+DEFINE
+  ↓
+BUILD
+  ↓
+VALIDATE
+  ↓
+EVIDENCE
+  ↓
+CLOSE / CONTINUE / SPIN-OFF
 ```
 
-개발자가 아닌 멤버에게 GitHub 사용을 강제하지 않되, 프로젝트 기록과 협업에 필요한 경우 단계적으로 연결합니다.
+TF가 종료되어도 산출물, 역할, 의사결정 기록은 저장소에 남깁니다.
 
 ---
 
 <p align="center">
   <b>PAICHAI NEXUS</b><br>
-  CONNECT DISCIPLINES · BUILD SYSTEMS · VALIDATE RESULTS
+  EXECUTIVE · PROJECT / TF · FUNCTION · MAJOR NETWORK
 </p>
 
 <p align="center">
-  <sub>2026 roster · Built to be continued.</sub>
+  <sub>사람을 잇고, 가능성을 열다.</sub>
 </p>
