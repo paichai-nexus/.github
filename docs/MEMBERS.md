@@ -3,14 +3,12 @@
 > **2026 · 53 Members · 38 Fields**  
 > Pai Chai University · Student-led Interdisciplinary Project Organization
 
-이 문서는 PAICHAI NEXUS의 **연도별 공개 멤버 로스터**입니다.
+이 문서는 PAICHAI NEXUS의 **연도별 공개 멤버 로스터 및 부서/프로젝트 배정표**입니다.
 
 - 전체 활동 구성원과 GitHub 조직 공개 등록 인원은 구분하여 관리합니다.
-- 이름과 전공은 2026 NEXUS 명단 기준으로 기록합니다.
-- **프로필 사진**은 GitHub 아이디가 연결된 경우 GitHub 아바타를, 연결되지 않은 경우 기본 실루엣을 표시합니다.
-- GitHub 계정은 **이름 ↔ 계정 매핑이 확인된 경우에만** 연결합니다.
-- 나이, 학번, 연락처 등 불필요한 개인정보는 공개 로스터에 기록하지 않습니다.
-- 같은 단과대 안에서는 같은 전공끼리 묶어 정리하며, 멤버가 없는 전공도 학제 구조 보존을 위해 함께 명시합니다.
+- 희망 부서 조사 결과와 프로젝트 단위의 구성을 함께 반영합니다.
+- 각 팀/부서 내 배정 순서는 **팀장/부팀장 → 고학년(4학년~1학년)** 순으로 정렬합니다.
+- GitHub 계정은 이름 ↔ 계정 매핑이 확인된 경우에만 연결합니다.
 
 ---
 
@@ -27,157 +25,259 @@
 
 ---
 
+# 🏢 Department & Project Roster
+
+## 🌾 스마트팜 프로젝트 (Smart Farm Project)
+
+| 직책 | 이름 | 전공 | 학년 | GitHub |
+| --- | --- | --- | --- | --- |
+| **팀장** | **원예산림 4학년** | 원예산림학과 | 4학년 | — |
+| **부팀장** | **원예산림 4학년** | 원예산림학과 | 4학년 | — |
+| 팀원 | **이영준** | 컴퓨터공학전공 | 4학년 | [@gxmzung](https://github.com/gxmzung) |
+| 팀원 | **정현진** | 식품영양학과 | 2학년 | [@guswls0520](https://github.com/guswls0520) |
+
+---
+
+## 🎯 기획전략부 (Strategic Planning)
+
+| 직책 | 이름 | 전공 | 학년 | GitHub |
+| --- | --- | --- | --- | --- |
+| 부서장 | **홍정우** | 컴퓨터공학전공 | 4학년 | [@h-ng21o](https://github.com/h-ng21o) |
+| 부원 | **구민우** | IT경영정보학과 | 3학년 | [@minwoo9](https://github.com/minwoo9) |
+| 부원 | **김승조** | 게임공학전공 | 2학년 | — |
+| 부원 | **김규태** | 컴퓨터공학전공 | 2학년 | — |
+| 부원 | **이승민** | 컴퓨터공학전공 | 1학년 | — |
+| 부원 | **정한빈** | 게임공학전공 | 1학년 | [@shield-761](https://github.com/shield-761) |
+
+---
+
+## 💻 연구개발부 (R&D)
+
+| 직책 | 이름 | 전공 | 학년 | GitHub |
+| --- | --- | --- | --- | --- |
+| 부서장 | **홍정우** | 컴퓨터공학전공 | 4학년 | [@h-ng21o](https://github.com/h-ng21o) |
+| 부원 | **심승준** | 소프트웨어학전공 | 3학년 | [@SeongJun08](https://github.com/SeongJun08) |
+| 부원 | **이서율** | 소프트웨어학전공 | 2학년 | [@seoyul1128](https://github.com/seoyul1128) |
+| 부원 | **김승조** | 게임공학전공 | 2학년 | — |
+| 부원 | **김동하** | 컴퓨터공학전공 | 2학년 | — |
+| 부원 | **박하음** | 건축학과 | 2학년 | [@haeum8877](https://github.com/haeum8877) |
+| 부원 | **이승민** | 컴퓨터공학전공 | 1학년 | — |
+| 부원 | **정한빈** | 게임공학전공 | 1학년 | [@shield-761](https://github.com/shield-761) |
+
+---
+
+## 🚀 프로젝트운영부 (Project Operations)
+
+| 직책 | 이름 | 전공 | 학년 | GitHub |
+| --- | --- | --- | --- | --- |
+| 부서장 | **구민우** | IT경영정보학과 | 3학년 | [@minwoo9](https://github.com/minwoo9) |
+| 부원 | **심주연** | 경찰학전공 | 2학년 | — |
+| 부원 | **이혜성** | 경찰학전공 | 2학년 | — |
+| 부원 | **김승조** | 게임공학전공 | 2학년 | — |
+| 부원 | **박하음** | 건축학과 | 2학년 | [@haeum8877](https://github.com/haeum8877) |
+| 부원 | **정한빈** | 게임공학전공 | 1학년 | [@shield-761](https://github.com/shield-761) |
+
+---
+
+## 🎨 디자인·커뮤니케이션부 (Design & Communication)
+
+| 직책 | 이름 | 전공 | 학년 | GitHub |
+| --- | --- | --- | --- | --- |
+| 부서장 | **홍정우** | 컴퓨터공학전공 | 4학년 | [@h-ng21o](https://github.com/h-ng21o) |
+| 부원 | **정유한** | AI융합전자전공 | 2학년 | — |
+
+---
+
+## 🤝 대외협력부 (External Relations)
+
+| 직책 | 이름 | 전공 | 학년 | GitHub |
+| --- | --- | --- | --- | --- |
+| 부서장 | **구민우** | IT경영정보학과 | 3학년 | [@minwoo9](https://github.com/minwoo9) |
+| 부원 | **이혜성** | 경찰학전공 | 2학년 | — |
+| 부원 | **장성빈** | AI융합전자전공 | 2학년 | — |
+| 부원 | **박하음** | 건축학과 | 2학년 | [@haeum8877](https://github.com/haeum8877) |
+| 부원 | **이승민** | 컴퓨터공학전공 | 1학년 | — |
+
+---
+
+## 💼 경영지원부 (Management Support)
+
+| 직책 | 이름 | 전공 | 학년 | GitHub |
+| --- | --- | --- | --- | --- |
+| 부서장 | **김정환** | 보건의료복지학과 | 3학년 | — |
+| 부원 | **배재학당융합혁신** | 융합전공 | — | — |
+
+---
+
+## 📚 교육·행사부 (Education & Events)
+
+| 직책 | 이름 | 전공 | 학년 | GitHub |
+| --- | --- | --- | --- | --- |
+| 부서장 | **홍정우** | 컴퓨터공학전공 | 4학년 | [@h-ng21o](https://github.com/h-ng21o) |
+| 부원 | **구민우** | IT경영정보학과 | 3학년 | [@minwoo9](https://github.com/minwoo9) |
+| 부원 | **심주연** | 경찰학전공 | 2학년 | — |
+
+---
+
+## 🌐 사회·사용자연구부 (Social & User Research)
+
+| 직책 | 이름 | 전공 | 학년 | GitHub |
+| --- | --- | --- | --- | --- |
+| 부서장 | **김정환** | 보건의료복지학과 | 3학년 | — |
+
+---
+
+## ❓ 상담 및 배정 대기 (Consultation Needed)
+
+| 이름 | 전공 | 학년 | GitHub |
+| --- | --- | --- | --- |
+| **권재현** | IT경영정보학과 | 3학년 | — |
+| **류종걸** | 전공 미확인 | — | — |
+| **박성준** | 드론로봇공학전공 | 2학년 | — |
+| **신세라** | 조경학과 | 2학년 | [@sera881](https://github.com/sera881) |
+| **신효림** | 보건의료복지학과 | 2학년 | — |
+| **유재현** | 정보보안학전공 | 2학년 | [@jaeh040817](https://github.com/jaeh040817) |
+| **이지환** | 외식조리학과 | 2학년 | — |
+| **정취영** | 행정학과 | 2학년 | — |
+| **정현진** | 식품영양학과 | 2학년 | [@guswls0520](https://github.com/guswls0520) |
+| **조서렴** | 간호학과 | 2학년 | — |
+| **주현우** | 드론로봇공학전공 | 2학년 | — |
+| **문강민** | 컴퓨터공학전공 | 1학년 | — |
+
+---
+
+# 🎓 Academic Faculty Roster
+
 ## 🏛️ 아펜젤러공유대학
 
 ### 자율전공학부
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ---
 
 ## ⚖️ 인문사회대학
 
 ### 유아교육과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 국어국문한국어교육학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 일본학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 경찰법학부
-
 > ※ 경찰학·법학전공은 2학년 선택 구조입니다.
 
 * **경찰학전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/identicons/shim.png" width="25" height="25" alt="심주연"> | 심주연 | — |
-| <img src="https://github.com/identicons/lee.png" width="25" height="25" alt="이혜성"> | 이혜성 | — |
+| **심주연** | 2학년 | — |
+| **이혜성** | 2학년 | — |
 
 * **법학전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 행정학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/identicons/jung.png" width="25" height="25" alt="정취영"> | 정취영 | — |
+| **정취영** | 2학년 | — |
 
 ### 심리상담학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ---
 
 ## 💼 경영대학
 
 ### 경영학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/identicons/moon.png" width="25" height="25" alt="문시우"> | 문시우 | — |
+| **문시우** | 2학년 | — |
 
 ### IT경영정보학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/minwoo9.png" width="25" height="25" alt="구민우"> | **구민우** | [@minwoo9](https://github.com/minwoo9) |
-| <img src="https://github.com/identicons/kwon.png" width="25" height="25" alt="권재현"> | 권재현 | — |
-| <img src="https://github.com/identicons/shin.png" width="25" height="25" alt="신동우"> | 신동우 | — |
-| <img src="https://github.com/min020676.png" width="25" height="25" alt="최민성"> | **최민성** | [@min020676](https://github.com/min020676) |
+| **구민우** | 3학년 | [@minwoo9](https://github.com/minwoo9) |
+| **최민성** | 3학년 | [@min020676](https://github.com/min020676) |
+| **권재현** | 3학년 | — |
+| **신동우** | 2학년 | — |
 
 ### 글로벌비즈니스학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 관광경영학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 호텔항공경영학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 항공서비스학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ---
 
 ## 🧬 생명보건대학
 
 ### 생명공학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 식품영양학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김규리"> | 김규리 | — |
-| <img src="https://github.com/guswls0520.png" width="25" height="25" alt="정현진"> | **정현진** | [@guswls0520](https://github.com/guswls0520) |
+| **김규리** | 2학년 | — |
+| **정현진** | 2학년 | [@guswls0520](https://github.com/guswls0520) |
 
 ### 외식조리학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/identicons/lee.png" width="25" height="25" alt="이지환"> | 이지환 | — |
+| **이지환** | 2학년 | — |
 
 ### 원예산림학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| **원예산림 4학년 (스마트팜 팀장)** | 4학년 | — |
+| **원예산림 4학년 (스마트팜 부팀장)** | 4학년 | — |
 
 ### 보건의료복지학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김정환"> | 김정환 | — |
-| <img src="https://github.com/identicons/shin.png" width="25" height="25" alt="신효림"> | 신효림 | — |
+| **김정환** | 3학년 | — |
+| **신효림** | 2학년 | — |
 
 ### 간호학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김민주"> | 김민주 | — |
-| <img src="https://github.com/identicons/cho.png" width="25" height="25" alt="조서렴"> | 조서렴 | — |
-| <img src="https://github.com/identicons/choi.png" width="25" height="25" alt="최윤성"> | 최윤성 | — |
+| **최윤성** | 3학년 | — |
+| **김민주** | 2학년 | — |
+| **조서렴** | 2학년 | — |
 
 ### 운동재활복지학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ---
 
@@ -186,191 +286,166 @@
 ### AI소프트웨어공학부
 
 * **컴퓨터공학전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/gxmzung.png" width="25" height="25" alt="이영준"> | **이영준** | [@gxmzung](https://github.com/gxmzung) · Founder · President |
-| <img src="https://github.com/h-ng21o.png" width="25" height="25" alt="홍정우"> | **홍정우** | [@h-ng21o](https://github.com/h-ng21o) |
-| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김준민"> | 김준민 | — |
-| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김규태"> | 김규태 | — |
-| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김동하"> | 김동하 | — |
-| <img src="https://github.com/identicons/moon.png" width="25" height="25" alt="문강민"> | 문강민 | — |
-| <img src="https://github.com/identicons/so.png" width="25" height="25" alt="소지성"> | 소지성 | — |
-| <img src="https://github.com/identicons/lee.png" width="25" height="25" alt="이승민"> | 이승민 | — |
-| <img src="https://github.com/identicons/lim.png" width="25" height="25" alt="임준호"> | 임준호 | — |
-| <img src="https://github.com/identicons/choi.png" width="25" height="25" alt="최수현"> | 최수현 | — |
-| <img src="https://github.com/identicons/choi.png" width="25" height="25" alt="최이솔"> | 최이솔 | — |
-| <img src="https://github.com/identicons/choi.png" width="25" height="25" alt="최태현"> | 최태현 | — |
+| **이영준** | 4학년 | [@gxmzung](https://github.com/gxmzung) · Founder · President |
+| **홍정우** | 4학년 | [@h-ng21o](https://github.com/h-ng21o) |
+| **김규태** | 2학년 | — |
+| **김동하** | 2학년 | — |
+| **소지성** | 2학년 | — |
+| **임준호** | 2학년 | — |
+| **최수현** | 2학년 | — |
+| **최이솔** | 2학년 | — |
+| **최태현** | 2학년 | — |
+| **김준민** | 1학년 | — |
+| **문강민** | 1학년 | — |
+| **이승민** | 1학년 | — |
 
 * **소프트웨어학전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/SeongJun08.png" width="25" height="25" alt="심승준"> | **심승준** | [@SeongJun08](https://github.com/SeongJun08) |
-| <img src="https://github.com/seoyul1128.png" width="25" height="25" alt="이서율"> | **이서율** | [@seoyul1128](https://github.com/seoyul1128) |
+| **심승준** | 3학년 | [@SeongJun08](https://github.com/SeongJun08) |
+| **이서율** | 2학년 | [@seoyul1128](https://github.com/seoyul1128) |
 
 * **정보보안학전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/jaeh040817.png" width="25" height="25" alt="유재현"> | **유재현** | [@jaeh040817](https://github.com/jaeh040817) |
-| <img src="https://github.com/identicons/lee.png" width="25" height="25" alt="이건형"> | 이건형 | — |
-| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김지효"> | 김지효 | — |
-| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김태하"> | 김태하 | — |
+| **유재현** | 2학년 | [@jaeh040817](https://github.com/jaeh040817) |
+| **이건형** | 2학년 | — |
+| **김지효** | 2학년 | — |
+| **김태하** | 2학년 | — |
 
 * **게임공학전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/identicons/kim.png" width="25" height="25" alt="김승조"> | 김승조 | — |
-| <img src="https://github.com/shield-761.png" width="25" height="25" alt="정한빈"> | **정한빈** | [@shield-761](https://github.com/shield-761) |
+| **김승조** | 2학년 | — |
+| **정한빈** | 1학년 | [@shield-761](https://github.com/shield-761) |
 
 * **인공지능전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 피지컬AI공학부
 
 * **드론로봇공학전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/identicons/park.png" width="25" height="25" alt="박성준"> | 박성준 | — |
-| <img src="https://github.com/identicons/yoon.png" width="25" height="25" alt="윤경환"> | 윤경환 | — |
-| <img src="https://github.com/identicons/joo.png" width="25" height="25" alt="주현우"> | 주현우 | — |
+| **박성준** | 2학년 | — |
+| **윤경환** | 2학년 | — |
+| **주현우** | 2학년 | — |
 
 * **AI융합전자전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/chan1150.png" width="25" height="25" alt="김민찬"> | **김민찬** | [@chan1150](https://github.com/chan1150) |
-| <img src="https://github.com/identicons/jang.png" width="25" height="25" alt="장성빈"> | 장성빈 | — |
-| <img src="https://github.com/identicons/jung.png" width="25" height="25" alt="정유한"> | 정유한 | — |
+| **김민찬** | 3학년 | [@chan1150](https://github.com/chan1150) |
+| **장성빈** | 2학년 | — |
+| **정유한** | 2학년 | — |
 
-### 전기공학과 
-
-| | 이름 | GitHub |
+### 전기공학과
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 스마트배터리학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
-### 철도건설공학과 
-
-| | 이름 | GitHub |
+### 철도건설공학과
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/identicons/hong.png" width="25" height="25" alt="홍준형"> | 홍준형 | — |
+| **홍준형** | 2학년 | — |
 
 ---
 
 ## 🎨 문화예술대학
 
 ### 건축학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/haeum8877.png" width="25" height="25" alt="박하음"> | **박하음** | [@haeum8877](https://github.com/haeum8877) |
-| <img src="https://github.com/identicons/jang.png" width="25" height="25" alt="장지훈"> | 장지훈 | — |
+| **박하음** | 2학년 | [@haeum8877](https://github.com/haeum8877) |
+| **장지훈** | 2학년 | — |
 
 ### 실내건축학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 조경학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/sera881.png" width="25" height="25" alt="신세라"> | **신세라** | [@sera881](https://github.com/sera881) |
+| **신세라** | 2학년 | [@sera881](https://github.com/sera881) |
 
 ### 아트앤웹툰학부
 
 * **아트앤웹툰전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 * **게임애니메이션전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 디자인학부
 
 * **커뮤니케이션디자인전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/identicons/lee.png" width="25" height="25" alt="이민준"> | 이민준 | — |
-| <img src="https://github.com/identicons/shin.png" width="25" height="25" alt="신유진"> | 신유진 | — |
-| <img src="https://github.com/identicons/yang.png" width="25" height="25" alt="양우진"> | 양우진 | — |
+| **이민준** | 2학년 | — |
+| **신유진** | 2학년 | — |
+| **양우진** | 2학년 | — |
 
 * **산업디자인전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 광고사진영상학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 미디어콘텐츠학과
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/identicons/son.png" width="25" height="25" alt="손지원"> | 손지원 | — |
+| **손지원** | 2학년 | — |
 
-### 의류패션학과 
-
-| | 이름 | GitHub |
+### 의류패션학과
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
-### 뷰티케어학과 
-
-| | 이름 | GitHub |
+### 뷰티케어학과
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 공연예술학부
 
 * **실용음악전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 * **영화영상학전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ### 레저스포츠학부
 
-* **스포츠지도·건강재활전공** (스포츠·레저)
-
-| | 이름 | GitHub |
+* **스포츠지도·건강재활전공**
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| <img src="https://github.com/identicons/kwak.png" width="25" height="25" alt="곽민규"> | 곽민규 | — |
+| **곽민규** | 2학년 | — |
 
 * **스포츠마케팅전공**
-
-| | 이름 | GitHub |
+| 이름 | 학년 | GitHub |
 | --- | --- | --- |
-| | — | — |
+| — | — | — |
 
 ---
 
@@ -378,7 +453,7 @@
 
 ✅ **현재 GitHub 공개 등록 19명 실명 매핑 완료**
 
-GitHub 공개 등록 인원이 늘어날 때마다 이 문서와 메인 People 섹션을 함께 갱신합니다. 계정이 확인되지 않은 구성원은 추후 요청 시 추가 연결됩니다.
+GitHub 공개 등록 인원이 늘어날 때마다 이 문서와 메인 People 섹션을 함께 갱신합니다.
 
 ---
 
