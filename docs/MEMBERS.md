@@ -130,25 +130,64 @@ NEXUS는 한 사람이 하나의 팀에만 고정되는 구조가 아니라,
 프로젝트팀은 전공과 부서를 넘어서 **문제 중심으로 구성되는 임시 TF**입니다.  
 프로젝트마다 `PM / Tech / Research / Domain / Design / External` 역할을 필요에 따라 조합합니다.
 
+> **표기 기준**
+>
+> - `CONFIRMED`는 현재 참여가 확정된 인원입니다.
+> - `FORMING`은 TF를 구성 중인 프로젝트입니다.
+> - `PLANNING`은 아이디어·연구 범위를 정리하는 단계입니다.
+> - 멤버가 없는 전공도 프로젝트 주제에 따라 신규 TF를 만들 수 있습니다.
+> - 한 멤버는 여러 TF에 참여할 수 있으나, 핵심 참여 프로젝트는 `0~2개`를 권장합니다.
 
-## 🌱 Smart Seedling AI TF
+---
 
+## 01. 🌱 Smart Seedling AI TF
+
+**원예산림 × Vision AI × IoT × Smart Agriculture**
+
+### Vision AI 기반 작물 생육 진단 및 맞춤형 방제/시비 솔루션
+
+작물·모종의 이미지와 환경 데이터를 지속적으로 수집하고,  
+생육 상태와 시각적 이상징후를 분석하여 전문가 검토 기반의 방제·시비 의사결정을 지원하는 연구 프로젝트입니다.
+
+<img src="https://img.shields.io/badge/STATUS-CONFIRMED-16A34A?style=flat-square">
+<img src="https://img.shields.io/badge/TYPE-RESEARCH_TF-0F6CBD?style=flat-square">
+
+### Confirmed Members · 5명
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top">
+
+<td align="center" width="20%" valign="top">
 <img src="https://github.com/ghost.png?size=160" width="82" alt="이금령 GitHub pending">
 <br><b>GitHub 준비중</b><br>
 <sub><b>이금령</b></sub><br>
 <sub>4학년 · 원예산림</sub>
 </td>
-<td align="center" width="25%" valign="top">
+
+<td align="center" width="20%" valign="top">
 <img src="https://github.com/ghost.png?size=160" width="82" alt="김현규 GitHub pending">
 <br><b>GitHub 준비중</b><br>
 <sub><b>김현규</b></sub><br>
 <sub>4학년 · 원예산림</sub>
 </td>
-<td align="center" width="25%" valign="top">
+
+<td align="center" width="20%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="류종걸 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>류종걸</b></sub><br>
+<sub>3학년 · 컴퓨터공학</sub>
+</td>
+
+<td align="center" width="20%" valign="top">
+<a href="https://github.com/SeongJun08">
+<img src="https://github.com/SeongJun08.png?size=160" width="82" alt="심승준">
+<br><b>@SeongJun08</b>
+</a><br>
+<sub><b>심승준</b></sub><br>
+<sub>2학년 · 컴퓨터공학</sub>
+</td>
+
+<td align="center" width="20%" valign="top">
 <a href="https://github.com/gxmzung">
 <img src="https://github.com/gxmzung.png?size=160" width="82" alt="이영준">
 <br><b>@gxmzung</b>
@@ -156,87 +195,31 @@ NEXUS는 한 사람이 하나의 팀에만 고정되는 구조가 아니라,
 <sub><b>이영준</b></sub><br>
 <sub>1학년 · 컴퓨터공학</sub>
 </td>
-<td align="center" width="25%" valign="top">
-<a href="https://github.com/sera881">
-<img src="https://github.com/sera881.png?size=160" width="82" alt="신세라">
-<br><b>@sera881</b>
-</a><br>
-<sub><b>신세라</b></sub><br>
-<sub>1학년 · 조경</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%" valign="top">
-<a href="https://github.com/guswls0520">
-<img src="https://github.com/guswls0520.png?size=160" width="82" alt="정현진">
-<br><b>@guswls0520</b>
-</a><br>
-<sub><b>정현진</b></sub><br>
-<sub>1학년 · 식품영양</sub>
-</td>
-<td width="25%"></td>
-<td width="25%"></td>
-<td width="25%"></td>
+
 </tr>
 </table>
 
+**Core Domains**
 
-> **Status:** Core pool / 초기 구성안 · 세부 역할과 최종 참여자는 프로젝트 킥오프 시 확정
+`Vision AI` · `Edge Computing` · `Environmental Sensor` · `Plant Growth Analysis` · `Expert Validation`
 
+---
 
-## 🍽️ Zero-Waste FoodTech TF
+## 02. 🏥 Healthcare HIS TF
 
+**간호 × Healthcare IT × UX × Information System**
 
-<table>
-<tr>
-<td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="김규리 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>김규리</b></sub><br>
-<sub>3학년 · 식품영양</sub>
-</td>
-<td align="center" width="25%" valign="top">
-<a href="https://github.com/gxmzung">
-<img src="https://github.com/gxmzung.png?size=160" width="82" alt="이영준">
-<br><b>@gxmzung</b>
-</a><br>
-<sub><b>이영준</b></sub><br>
-<sub>1학년 · 컴퓨터공학</sub>
-</td>
-<td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="이지환 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>이지환</b></sub><br>
-<sub>1학년 · 외식조리</sub>
-</td>
-<td align="center" width="25%" valign="top">
-<a href="https://github.com/guswls0520">
-<img src="https://github.com/guswls0520.png?size=160" width="82" alt="정현진">
-<br><b>@guswls0520</b>
-</a><br>
-<sub><b>정현진</b></sub><br>
-<sub>1학년 · 식품영양</sub>
-</td>
-</tr>
-</table>
+### 대학병원향 통합 의료 정보 시스템(HIS) 구축 및 간호 실무 최적화
 
+간호 실무 흐름을 중심으로 정보 접근, 기록, 인계, 반복 입력 등의 과정을 분석하고  
+대학병원 환경에서 활용 가능한 HIS 개선안을 연구하는 프로젝트입니다.
 
-> **Status:** Core pool / 초기 구성안 · 세부 역할과 최종 참여자는 프로젝트 킥오프 시 확정
+<img src="https://img.shields.io/badge/STATUS-FORMING-F59E0B?style=flat-square">
 
-
-## 🏥 Healthcare HIS TF
-
+### Domain Pool
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top">
-<a href="https://github.com/gxmzung">
-<img src="https://github.com/gxmzung.png?size=160" width="82" alt="이영준">
-<br><b>@gxmzung</b>
-</a><br>
-<sub><b>이영준</b></sub><br>
-<sub>1학년 · 컴퓨터공학</sub>
-</td>
 <td align="center" width="25%" valign="top">
 <img src="https://github.com/ghost.png?size=160" width="82" alt="김민주 GitHub pending">
 <br><b>GitHub 준비중</b><br>
@@ -255,18 +238,159 @@ NEXUS는 한 사람이 하나의 팀에만 고정되는 구조가 아니라,
 <sub><b>조서렴</b></sub><br>
 <sub>1학년 · 간호</sub>
 </td>
+<td width="25%"></td>
 </tr>
 </table>
 
+**Needed Roles**
 
-> **Status:** Core pool / 초기 구성안 · 세부 역할과 최종 참여자는 프로젝트 킥오프 시 확정
+`PM` · `Backend / Data` · `Frontend / UX` · `Nursing Domain` · `User Research`
 
+---
 
-## 🏗️ Tunnel Stability Research TF
+## 03. 🧬 BioDockLab TF
 
+**생명공학 × Bioinformatics × Clinical Data × Platform**
+
+### 글로벌 임상시험 데이터 관리 및 바이오 뱅킹 플랫폼 구축
+
+글로벌 임상시험 데이터와 바이오 샘플·연구 기록을 구조화하고,  
+연구자가 추적·관리할 수 있는 데이터 플랫폼을 설계하는 프로젝트입니다.
+
+<img src="https://img.shields.io/badge/STATUS-FORMING-F59E0B?style=flat-square">
+
+### Target Composition
 
 <table>
 <tr>
+<td align="center" width="25%" valign="top"><b>생명공학</b><br><sub>Domain / Validation</sub></td>
+<td align="center" width="25%" valign="top"><b>컴퓨터·소프트웨어</b><br><sub>Platform / Backend</sub></td>
+<td align="center" width="25%" valign="top"><b>정보보안</b><br><sub>Data Security / Access</sub></td>
+<td align="center" width="25%" valign="top"><b>디자인</b><br><sub>Research UX / Dashboard</sub></td>
+</tr>
+</table>
+
+> 현재 NEXUS 로스터상 **생명공학과 멤버가 없어 우선 모집·연결이 필요한 TF**입니다.
+
+---
+
+## 04. 🏗️ Tunnel Stability Research TF
+
+**철도건설 × IT경영 × 데이터분석 × Research**
+
+### 도마·도안 터널 구간의 지질 특성 분석 기반 토목 구조 안정성 연구 논문 투고
+
+도마·도안 터널 구간의 지질·구조 자료를 정리하고 데이터 분석을 통해  
+토목 구조 안정성 연구와 논문 투고로 연결하는 연구형 TF입니다.
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-16A34A?style=flat-square">
+<img src="https://img.shields.io/badge/TARGET-PAPER-7C3AED?style=flat-square">
+
+### Current Team · 3명
+
+<table>
+<tr>
+
+<td align="center" width="33%" valign="top">
+<a href="https://github.com/minwoo9">
+<img src="https://github.com/minwoo9.png?size=160" width="82" alt="구민우">
+<br><b>@minwoo9</b>
+</a><br>
+<sub><b>구민우</b></sub><br>
+<sub>1학년 · IT경영정보</sub>
+</td>
+
+<td align="center" width="33%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="홍준형 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>홍준형</b></sub><br>
+<sub>1학년 · 철도건설공학</sub>
+</td>
+
+<td align="center" width="34%" valign="top">
+<a href="https://github.com/gxmzung">
+<img src="https://github.com/gxmzung.png?size=160" width="82" alt="이영준">
+<br><b>@gxmzung</b>
+</a><br>
+<sub><b>이영준</b></sub><br>
+<sub>1학년 · 컴퓨터공학</sub>
+</td>
+
+</tr>
+</table>
+
+**Output Target**
+
+`Dataset` · `Analysis Report` · `Research Paper` · `Journal / Conference Submission`
+
+---
+
+## 05. ⚽ Elite Youth Sports O2O TF
+
+**레저스포츠 × Platform × Career Data × O2O**
+
+### 엘리트 유소년 선수 매칭 및 경력 관리 O2O 플랫폼
+
+엘리트 유소년 선수의 경기·경력 데이터를 관리하고  
+선수, 지도자, 팀, 훈련기관을 연결하는 O2O 플랫폼을 기획합니다.
+
+<img src="https://img.shields.io/badge/STATUS-FORMING-F59E0B?style=flat-square">
+
+### Domain Pool
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/minixdbxkyuu">
+<img src="https://github.com/minixdbxkyuu.png?size=160" width="82" alt="곽민규">
+<br><b>@minixdbxkyuu</b>
+</a><br>
+<sub><b>곽민규</b></sub><br>
+<sub>1학년 · 레저스포츠</sub>
+</td>
+<td align="center" width="25%" valign="top"><b>경영 / IT경영</b><br><sub>Business Model</sub></td>
+<td align="center" width="25%" valign="top"><b>컴퓨터 / SW</b><br><sub>Platform</sub></td>
+<td align="center" width="25%" valign="top"><b>디자인</b><br><sub>UX / Branding</sub></td>
+</tr>
+</table>
+
+---
+
+## 06. 🍽️ Zero-Waste FoodTech TF
+
+**Vision AI × 외식조리 × 식품영양 × FoodTech**
+
+### Vision AI 기반 식재료 인식 및 Zero-Waste 맞춤 레시피 추천 플랫폼
+
+식재료를 촬영하여 종류와 상태를 인식하고,  
+소비 우선순위를 판단한 뒤 실제 조리 가능한 레시피와 연결하는 FoodTech 프로젝트입니다.
+
+<img src="https://img.shields.io/badge/STATUS-PLANNING-0EA5E9?style=flat-square">
+
+### Candidate Domain Pool
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김규리 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김규리</b></sub><br>
+<sub>3학년 · 식품영양</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/guswls0520">
+<img src="https://github.com/guswls0520.png?size=160" width="82" alt="정현진">
+<br><b>@guswls0520</b>
+</a><br>
+<sub><b>정현진</b></sub><br>
+<sub>1학년 · 식품영양</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="이지환 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>이지환</b></sub><br>
+<sub>1학년 · 외식조리</sub>
+</td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/gxmzung">
 <img src="https://github.com/gxmzung.png?size=160" width="82" alt="이영준">
@@ -275,22 +399,82 @@ NEXUS는 한 사람이 하나의 팀에만 고정되는 구조가 아니라,
 <sub><b>이영준</b></sub><br>
 <sub>1학년 · 컴퓨터공학</sub>
 </td>
-<td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="홍준형 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>홍준형</b></sub><br>
-<sub>1학년 · 철도건설공학</sub>
-</td>
-<td width="25%"></td>
-<td width="25%"></td>
 </tr>
 </table>
 
+### Project Flow
 
-> **Status:** Core pool / 초기 구성안 · 세부 역할과 최종 참여자는 프로젝트 킥오프 시 확정
+```text
+식재료 촬영
+    ↓
+AI 식재료 인식
+    ↓
+상태 / 소비 우선순위 분석
+    ↓
+레시피 후보 생성
+    ↓
+외식조리 실조리 검증
+    ↓
+식품영양 영양·안전 검토
+    ↓
+사용자 평가
+```
 
+---
 
-### TF Operating Model
+## 07. 🎓 Paejae Pick TF
+
+**Campus Platform × Software × UX × Student Life**
+
+### 배재대학교 학생 생활 통합 플랫폼
+
+배재대학교 학생들이 학교생활에 필요한 정보를 쉽게 찾고 이용할 수 있도록  
+교내 생활 정보와 학생 서비스를 하나의 플랫폼 경험으로 연결하는 프로젝트입니다.
+
+<img src="https://img.shields.io/badge/STATUS-PROJECT_%2F_ARCHIVE-64748B?style=flat-square">
+
+**Core Domains**
+
+`Campus Service` · `Web / App` · `UX / UI` · `Student Information` · `Community`
+
+**TF Expansion**
+
+향후 학교 생활 데이터, 사용자 조사, 디자인 개선 등의 후속 작업이 필요한 경우  
+관련 전공 멤버를 중심으로 TF를 재구성할 수 있습니다.
+
+---
+
+# 💡 New TF Incubator · 신규 TF 제안 풀
+
+아직 프로젝트가 없는 전공도 **“전공 하나 = 프로젝트 하나”**로 고정하지 않고,  
+서로 다른 전공 2~5개가 실제 문제를 중심으로 TF를 만들 수 있도록 운영합니다.
+
+| TF 후보 | 중심 전공 | 연결 전공 | 예시 결과물 |
+| --- | --- | --- | --- |
+| 🚗 Autonomous Mobility TF | 드론로봇 · 전기전자 | 컴퓨터 · SW · 정보보안 · 디자인 | 소형 자율주행차 / ROS2 / Vision |
+| 🔋 Smart Battery Safety TF | 스마트배터리 · 전기전자 | 컴퓨터 · 정보보안 | BMS 데이터 수집 / 이상탐지 |
+| 🛡️ Campus Cyber Range TF | 정보보안 | 컴퓨터 · SW · 행정 | 교내형 보안훈련·CTF 플랫폼 |
+| 🏙️ Smart Campus Digital Twin TF | 건축 · 조경 | 컴퓨터 · 미디어콘텐츠 | 캠퍼스 3D/공간 데이터 플랫폼 |
+| 🧠 Mental Health UX TF | 심리상담 | 간호 · 컴퓨터 · 디자인 | 학생 심리지원 UX / 위험신호 연결 |
+| 👶 Child Safety EdTech TF | 유아교육 | 게임 · 미디어 · 디자인 | 유아 안전·교육 인터랙티브 콘텐츠 |
+| ✈️ Smart Tourism / Airport TF | 관광 · 호텔항공 · 항공서비스 | 경영 · IT경영 · 디자인 | 여행·공항 서비스 플랫폼 |
+| 🌍 Global Campus TF | 글로벌비즈니스 · 일본학 | 미디어 · 경영 · SW | 외국인/교환학생 생활지원 서비스 |
+| 👗 Fashion AI TF | 의류패션 | Vision AI · 커디 · 경영 | 의류 인식 / 코디 추천 / 리세일 |
+| 💄 Beauty Data TF | 뷰티케어 | 디자인 · AI · 경영 | 피부/뷰티 기록·추천 서비스 |
+| 🎬 AI Media Studio TF | 미디어콘텐츠 · 광고사진영상 | AI · 디자인 · SW | 영상 제작 자동화 / 콘텐츠 분석 |
+| 🎨 Interactive Content TF | 아트앤웹툰 · 게임애니메이션 | 게임공학 · SW | 인터랙티브 웹툰 / 게임형 콘텐츠 |
+| 🏛️ Civic Tech TF | 행정 · 경찰법학 | IT경영 · 정보보안 · 디자인 | 공공서비스 / 안전 / 신고 UX |
+| ♿ Welfare Tech TF | 보건의료복지 | 간호 · AI · 디자인 | 접근성·돌봄 지원 서비스 |
+| 🏃 Sports Data TF | 레저스포츠 · 운동재활 | AI · 데이터 · 디자인 | 자세/운동 분석 · 재활 기록 |
+| 🪴 Bio / Lab Data TF | 생명공학 | AI · SW · 정보보안 | BioDockLab / 연구데이터 관리 |
+| 🏠 Spatial UX TF | 실내건축 · 산업디자인 | IoT · 전기전자 · SW | 스마트 공간 / 인터랙션 프로토타입 |
+
+> 신규 TF는 아이디어만으로 확정하지 않습니다.  
+> `문제 정의 → 참여 전공 → 지도교수/외부자문 → 4~8주 PoC → 유지/종료 판단` 순으로 검토합니다.
+
+---
+
+## TF Operating Model
 
 ```text
 Project / TF
@@ -307,6 +491,24 @@ Project / TF
 ├─ Research & Validation
 ├─ Design & Communication
 └─ External / Faculty / Company
+```
+
+## TF Formation Rule
+
+```text
+IDEA
+  ↓
+PROBLEM DEFINITION
+  ↓
+MAJOR MATCHING
+  ↓
+TF FORMATION
+  ↓
+PROFESSOR / EXPERT REVIEW
+  ↓
+4~8 WEEK PoC
+  ↓
+CONTINUE / PIVOT / CLOSE
 ```
 
 ---
@@ -670,6 +872,8 @@ Project / TF
 ---
 
 # 🏫 College / Major Network · 단과대·전공 네트워크
+
+> **Roster note:** Smart Seedling AI TF의 류종걸은 프로젝트 확정 참여자로 표시했으며, 현재 53명 기준 단과대·전공 로스터 수에는 별도 반영하지 않았습니다. 전체 회원 수 변경 시 함께 갱신합니다.
 
 기능부서와 프로젝트팀이 **어떻게 일할지**를 정한다면, 단과대·전공 네트워크는 **어떤 전문성을 연결할지**를 보여줍니다.
 
