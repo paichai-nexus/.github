@@ -282,7 +282,7 @@ Responsibility / Continuity
 
 ## Major-Aligned Assignment · 1차 기능부서 배정
 
-> **총 배정 인원: 28명**  
+> **총 배정 인원: 31명**  
 > 중복 희망자는 1인 1기능부서를 기준으로 정리하되, **본인 희망을 우선하고 전공 적합성·인접 전공·단과대 연계성을 다음 기준으로 반영**했습니다.  
 > `상담 필요 / 역할 매칭 중` 인원은 인원수 균등 배정보다 **전공과 실제 역량이 가장 자연스럽게 연결되는 부서**를 우선했습니다.  
 > 따라서 부서별 인원은 동일하지 않으며, 기술계열 인원이 많은 현재 구성상 R&D가 가장 큰 부서가 되는 것을 허용합니다.
@@ -306,14 +306,14 @@ Responsibility / Continuity
 | 부서 | 인원 | 팀장 |
 | --- | ---: | --- |
 | 🧭 전략기획부 | **4** | 미정 |
-| 📋 프로젝트관리부 · PMO | **3** | **구민우** |
+| 📋 프로젝트관리부 · PMO | **4** | **구민우** |
 | 🧑‍💻 기술연구개발부 · R&D | **9** | **류종걸** |
 | 🎨 디자인브랜딩부 | **3** | 미정 |
 | 🤝 대외협력부 | **2** | 미정 |
 | 💼 사업기획·지원부 | **2** | 미정 |
 | 🎓 교육·커뮤니티부 | **2** | 미정 |
-| 🔎 사용자·사회연구부 | **3** | 미정 |
-| **합계** | **28** |  |
+| 🔎 사용자·사회연구부 | **5** | 미정 |
+| **합계** | **31** |  |
 
 
 ## 🧭 전략기획부 · 4명
@@ -352,7 +352,7 @@ Responsibility / Continuity
 </table>
 
 
-## 📋 프로젝트관리부 · PMO · 3명
+## 📋 프로젝트관리부 · PMO · 4명
 
 > **팀장: 구민우 · 1학년 · IT경영정보**
 
@@ -380,7 +380,14 @@ Responsibility / Continuity
 <sub><b>이혜성</b></sub><br>
 <sub>1학년 · 경찰법학</sub>
 </td>
-<td width="25%"></td>
+<td align="center" width="25%" valign="top">
+<a href="https://github.com/min020676">
+<img src="https://github.com/min020676.png?size=160" width="82" alt="최민성">
+<br><b>@min020676</b>
+</a><br>
+<sub><b>최민성</b></sub><br>
+<sub>1학년 · IT경영정보</sub>
+</td>
 </tr>
 </table>
 
@@ -579,7 +586,7 @@ Responsibility / Continuity
 </table>
 
 
-## 🔎 사용자·사회연구부 · 3명
+## 🔎 사용자·사회연구부 · 5명
 
 > **팀장: 미정**
 
@@ -605,6 +612,22 @@ Responsibility / Continuity
 <sub><b>조서렴</b></sub><br>
 <sub>1학년 · 간호</sub>
 </td>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="김민주 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>김민주</b></sub><br>
+<sub>1학년 · 간호</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://github.com/ghost.png?size=160" width="82" alt="박윤성 GitHub pending">
+<br><b>GitHub 준비중</b><br>
+<sub><b>박윤성</b></sub><br>
+<sub>간호 · 학년 확인중</sub>
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
 <td width="25%"></td>
 </tr>
 </table>
@@ -616,6 +639,7 @@ Responsibility / Continuity
 - **사용자·사회연구부**는 보건의료복지·간호 등 사용자·현장 관찰과 검증에 강한 전공을 우선 배치했습니다.
 - 중복 희망자는 최초 희망을 무시하지 않고, 다른 부서의 적합도와 비교하여 최종 1개 부서로 정리했습니다.
 - 기능부서는 고정 신분이 아니라 활동 결과와 본인 희망에 따라 이동할 수 있습니다.
+- **박윤성**은 간호 전공으로 사용자·사회연구부에 우선 배정했으며, 학년·GitHub 정보는 확인 후 갱신합니다.
 
 ---
 
