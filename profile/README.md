@@ -227,11 +227,26 @@ Responsibility / Continuity
 **Status:** `PLANNING / RESEARCH`
 
 ## 07. 🎓 Paejae Pick
-**Campus Platform × Software × UX**
+**Campus Platform × Software × UX × Smart Mobility**
 
-배재대학교 학생 생활 정보를 연결하는 학생 중심 캠퍼스 플랫폼.
+배재대학교 학생 생활 정보와 캠퍼스 이동 서비스를 연결하는 학생 중심 스마트 캠퍼스 플랫폼입니다.
 
-**Status:** `PROJECT / ARCHIVE`
+### Project Organization · 프로젝트 조직도
+
+```text
+Paejae Pick 2.0
+├── 개발팀장: 이영준 (@gxmzung)
+└── 유지보수: 이서율 (@seoyul1128)
+```
+
+| 역할 | 담당 | 책임 범위 |
+| --- | --- | --- |
+| **개발팀장** | [**이영준 · @gxmzung**](https://github.com/gxmzung) | 제품 방향, 아키텍처, 핵심 개발, 스마트 모빌리티 연동, 개발팀 조율 |
+| **유지보수** | [**이서율 · @seoyul1128**](https://github.com/seoyul1128) | QA, 버그 수정, 릴리스 점검, 문서 갱신, 운영 유지보수 |
+
+**Repository:** [`paichai-nexus/paejae-pick-2-app`](https://github.com/paichai-nexus/paejae-pick-2-app)
+
+**Status:** `ACTIVE / UI DEVELOPMENT`
 
 ---
 
