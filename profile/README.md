@@ -3,11 +3,11 @@
 > **2026 · 53 Members · 21 Fields · Matrix / TF Organization**  
 > Pai Chai University · Student-led Interdisciplinary Project Organization
 
-NEXUS는 **임원팀(Executive) · 프로젝트/TF팀(Project) · 기능부서팀(Function) · 전공 네트워크(Major Network)** 를 교차 운영합니다.
+NEXUS는 **수평 임원진(Horizontal Executive Council) · 프로젝트/TF팀(Project) · 기능부서팀(Function) · 전공 네트워크(Major Network)** 를 교차 운영합니다.
 
 ```text
 PAICHAI NEXUS
-├─ Executive Team
+├─ Lab Lead ↔ Horizontal Executive Council
 ├─ Project / TF Teams
 ├─ Functional Departments
 └─ College / Major Network
@@ -19,90 +19,71 @@ PAICHAI NEXUS
 ---
 
 
-# 👑 Executive Team · 임원팀
+# 🧭 Horizontal Executive Council · 수평 임원진
 
-## Executive Organization · 임원 조직도
+## Lab Council Organization · 랩 운영 구조
 
 ```text
-                         PAICHAI NEXUS
-                               │
-                       Founder · President
-                           이 영 준
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-      Chief of Staff      Vice President   Technical / Research
-          구 민 우             TBD              Lead · TBD
-             │
-     Organization Operations
-             │
-   Notice · Rules · Coordination
-   Follow-up · Acting Leadership
+                              PAICHAI NEXUS
+                                     │
+       ┌──────── Lab Lead · 랩장 ────────┐ ↔ ┌──── Horizontal Executive Council ────┐
+       │            이 영 준              │   │ 구민우 · 심승준 · 박하음 · 이서율 │
+       └──── 통합 · 대외 조정 ────────────┘   │       김민찬 · 최민성              │
+                                                └─────────────────────────────────────┘
+                                     ↕
+                            Project / TF Leaders
+                  랩장 · 담당 임원과 주요 일정 동행
 ```
 
-> 임원팀은 프로젝트 실무팀이 아니라 **조직 방향 설정 · 운영 통제 · 자원 배분 · 부서 간 조정 · 대외 의사결정 · 인수인계**를 담당합니다.
-
+> 이영준은 **랩장(Lab Lead)** 으로서 프로젝트 포트폴리오 통합과 대외 창구를 담당합니다. 랩장은 임원진의 상급자가 아니라 **조정자이자 연결 책임자**입니다.
+> 임원 6명은 모두 동등한 의사결정 참여자이며, 아래 책임 영역은 서열이 아니라 각자의 강점을 바탕으로 한 **주 책임 분야**입니다.
 
 <table>
 <tr>
-
-<td align="center" width="25%" valign="top">
-<a href="https://github.com/gxmzung">
-<img src="https://github.com/gxmzung.png?size=160" width="96" alt="이영준">
-<br><b>@gxmzung</b>
-</a><br>
-<sub><b>이영준</b></sub><br>
-<sub><b>Founder · President</b></sub><br>
-<sub>컴퓨터공학 · 1학년</sub>
-</td>
-
-<td align="center" width="25%" valign="top">
-<a href="https://github.com/minwoo9">
-<img src="https://github.com/minwoo9.png?size=160" width="96" alt="구민우">
-<br><b>@minwoo9</b>
-</a><br>
-<sub><b>구민우</b></sub><br>
-<sub><b>Chief of Staff</b></sub><br>
-<sub>IT경영정보 · 1학년</sub>
-</td>
-
-<td align="center" width="25%" valign="top">
-<b>Vice President</b><br><br>
-<sub>배정 예정</sub>
-</td>
-
-<td align="center" width="25%" valign="top">
-<b>Technical / Research Lead</b><br><br>
-<sub>배정 예정</sub>
-</td>
-
+<td align="center" width="25%" valign="top"><a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=160" width="96" alt="이영준"><br><b>@gxmzung</b></a><br><sub><b>이영준</b></sub><br><sub><b>Lab Lead · Integration</b></sub><br><sub>통합 · 대외협력 · 프로젝트 연결</sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="96" alt="구민우"><br><b>@minwoo9</b></a><br><sub><b>구민우</b></sub><br><sub><b>Executive · PMO</b></sub><br><sub>문서 · 일정 · 운영 기록</sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/SeongJun08"><img src="https://github.com/SeongJun08.png?size=160" width="96" alt="심승준"><br><b>@SeongJun08</b></a><br><sub><b>심승준</b></sub><br><sub><b>Executive · Internal Review</b></sub><br><sub>내부 문제 · 리스크 · 품질 검토</sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=160" width="96" alt="박하음"><br><b>@haeum8877</b></a><br><sub><b>박하음</b></sub><br><sub><b>Executive · Design</b></sub><br><sub>비주얼 · 공간 · UX 디자인</sub></td>
+</tr>
+<tr>
+<td align="center" width="25%" valign="top"><a href="https://github.com/seoyul1128"><img src="https://github.com/seoyul1128.png?size=160" width="96" alt="이서율"><br><b>@seoyul1128</b></a><br><sub><b>이서율</b></sub><br><sub><b>Executive · Development</b></sub><br><sub>개발 · 코드 품질 · 유지보수</sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/chan1150"><img src="https://github.com/chan1150.png?size=160" width="96" alt="김민찬"><br><b>@chan1150</b></a><br><sub><b>김민찬</b></sub><br><sub><b>Executive · Execution</b></sub><br><sub>실행 · 현장 지원 · 후속 조치</sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/min020676"><img src="https://github.com/min020676.png?size=160" width="96" alt="최민성"><br><b>@min020676</b></a><br><sub><b>최민성</b></sub><br><sub><b>Executive · Research</b></sub><br><sub>자료 조사 · 근거 검증 · 사례 분석</sub></td>
+<td width="25%"></td>
 </tr>
 </table>
 
-### Executive Roles
+### Council Roles · 책임 영역
 
-| Position | Member | Core Responsibility |
+| Role | Member | Primary Responsibility |
 | --- | --- | --- |
-| **Founder · President** | **이영준** | 조직 비전·방향, 프로젝트 발굴·총괄, 교수·기업·기관 대외협력, 핵심 의사결정 |
-| **Chief of Staff** | **구민우** | 대표 직속 운영 보좌, 공지·문서·규칙·절차, 임원·부서 간 조율, 후속업무 점검, 대표 부재 시 운영 대행 |
-| **Vice President** | TBD | 조직 확장에 따라 선임 |
-| **Technical / Research Lead** | TBD | 연구·기술 TF 증가 시 선임 |
+| **Lab Lead · Integration** | **이영준** | 프로젝트 포트폴리오 통합, 대외 창구, 프로젝트 간 자원·의사결정 연결 |
+| **Executive · PMO** | **구민우** | 문서·일정·회의·WBS·운영 기록 및 인수인계 관리 |
+| **Executive · Internal Review** | **심승준** | 내부 문제 발견, 요구사항 누락·리스크·품질 검토 및 개선 제안 |
+| **Executive · Design** | **박하음** | 비주얼·공간·UX, 발표자료·홍보물 디자인 기준 관리 |
+| **Executive · Development** | **이서율** | 개발 지원, 코드 리뷰·QA·유지보수·기술 인수인계 체계 |
+| **Executive · Execution** | **김민찬** | 실행 항목 추진, 현장 제작·테스트 지원, 후속 조치 완료 확인 |
+| **Executive · Research** | **최민성** | 자료 조사, 사례·시장·정책 분석, 출처와 근거 검증 |
+
+### Decision & Project Leadership · 의사결정과 프로젝트 동행
+
+- 모든 임원은 수평하게 의견을 제시하고, **안건별 책임자(DRI)** 가 제안·조율·후속 기록을 맡습니다.
+- 프로젝트 내부의 기술·일정·업무분장은 **프로젝트 팀장**이 책임지고, 담당 임원은 필요한 전문 영역을 지원합니다.
+- 교수·기업·기관 미팅, 발표, 주요 실증에는 **프로젝트 팀장 + 담당 임원 + 랩장**이 함께 동행합니다.
+- 조직 전체 자원, 공식 대외 입장, 예산, 안전·법적 쟁점은 임원진이 공동 검토하고 결정 근거를 기록합니다.
+- 수평 구조는 책임 부재를 뜻하지 않습니다. 모든 안건은 담당자·기한·결과물을 명확히 남깁니다.
 
 ---
 
 ## Executive Recruitment & Succession · 임원 영입 원칙
 
-> 임원진은 단순 학번순으로 배정하지 않고, **학생회·학과 임원·고등학교 학생자치/조직운영 경험, 리더십, 책임감, 대외 커뮤니케이션 능력**을 우선적으로 봅니다.  
-> 조직 안정성과 후배 멘토링을 위해 **고학년·선배 구성원**도 적극적으로 임원 후보로 영입하며, 연령 자체보다는 실제 운영 경험과 역할 수행 가능성을 기준으로 선임합니다.
+> 임원은 학번·나이·직함이 아니라 **검증된 강점, 책임감, 협업 태도, 기록과 인수인계 능력**을 기준으로 선임합니다.
+> 특정 개인을 보좌하기 위한 직책은 두지 않으며, 필요한 역할은 임원진이 수평적으로 분담합니다.
 
 ```text
-Leadership / Student Council Experience
-                +
-Organization Operations / Communication
-                +
-Responsibility / Continuity
-                ↓
-        Executive Candidate Pool
+Verified Strengths + Ownership + Collaboration + Handover
+                              ↓
+                    Executive Candidate Pool
 ```
 
 ---
@@ -409,14 +390,10 @@ Interactive Exhibition / Performance
 
 # 🧩 Functional Departments · 부서팀
 
-## Functional Organization · 부서 조직도
+## Functional Organization · 부서 운영 구조
 
 ```text
-                         Founder · President
-                             이 영 준
-                                │
-                         Chief of Staff
-                             구 민 우
+        Lab Lead ↔ Horizontal Executive Council ↔ Project / TF Leaders
                                 │
                       FUNCTIONAL DEPARTMENTS
                                 │
@@ -430,7 +407,7 @@ Interactive Exhibition / Performance
      대외협력부      사업기획·지원부     교육·커뮤니티부     사용자·사회연구부
 ```
 
-> 기능부서는 **상시 역량 풀**입니다. 프로젝트/TF가 만들어지면 필요한 인원이 각 부서에서 TF로 교차 참여합니다.  
+> 기능부서는 임원진의 하위 조직이 아니라 **상시 역량 풀**입니다. 프로젝트/TF가 만들어지면 필요한 인원이 각 부서에서 TF로 교차 참여합니다.
 > 현재 명단은 **1차 희망 투표 기반 배정 후보**이며, 부서장 및 최종 소속은 운영 회의 후 확정합니다.
 
 ### Department Mission
@@ -447,8 +424,8 @@ Interactive Exhibition / Performance
 | 🔎 **사용자·사회연구부** | 사용자 조사, UX Research, 정책·법·윤리·사회적 타당성, Human Review |
 
 
-> **역할 구분:** President는 조직의 방향과 최종 의사결정을, Chief of Staff는 조직 운영 체계를,  
-> 전략기획부는 방향을 실행 가능한 프로젝트로 구조화하고, PMO는 실제 프로젝트 실행과 완료를 관리합니다.
+> **역할 구분:** 랩장은 프로젝트 통합·대외 창구, 수평 임원진은 각 책임 영역의 지원·검토, 프로젝트 팀장은 해당 TF의 실행 의사결정을 담당합니다.
+> 외부 일정과 중요 실증은 **랩장 · 담당 임원 · 프로젝트 팀장**이 함께 수행합니다. 전략기획부는 의제를 실행 가능한 프로젝트로 구조화하고, PMO는 실행과 완료 기록을 관리합니다.
 
 
 
@@ -916,5 +893,5 @@ IDEA → TF FORMATION → DEFINE → BUILD → VALIDATE → EVIDENCE → CONTINU
 
 ---
 
-<p align="center"><b>PAICHAI NEXUS</b><br>EXECUTIVE · PROJECT / TF · FUNCTION · MAJOR NETWORK</p>
+<p align="center"><b>PAICHAI NEXUS</b><br>LAB COUNCIL · PROJECT / TF · FUNCTION · MAJOR NETWORK</p>
 <p align="center"><sub>사람을 잇고, 가능성을 열다.</sub></p>
