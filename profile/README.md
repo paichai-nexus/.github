@@ -1,128 +1,105 @@
-# 👥 PAICHAI NEXUS Members & Organization
+# ?뫁 PAICHAI NEXUS Members & Organization
 
-> **2026 · 53 Members · 21 Fields · Matrix / TF Organization**  
-> Pai Chai University · Student-led Interdisciplinary Project Organization
+> **2026 쨌 53 Members 쨌 21 Fields 쨌 Matrix / TF Organization**
+> Pai Chai University 쨌 Student-led Interdisciplinary Project Organization
 
-NEXUS는 **수평 임원진(Horizontal Executive Council) · 프로젝트/TF팀(Project) · 기능부서팀(Function) · 전공 네트워크(Major Network)** 를 교차 운영합니다.
+NEXUS??**?섑룊 ?꾩썝吏?Horizontal Executive Council) 쨌 ?꾨줈?앺듃/TF?(Project) 쨌 湲곕뒫遺?쒗?(Function) 쨌 ?꾧났 ?ㅽ듃?뚰겕(Major Network)** 瑜?援먯감 ?댁쁺?⑸땲??
 
 ```text
 PAICHAI NEXUS
-├─ Lab Lead ↔ Horizontal Executive Council
-├─ Project / TF Teams
-├─ Functional Departments
-└─ College / Major Network
+?쒋? Lab Lead ??Horizontal Executive Council
+?쒋? Project / TF Teams
+?쒋? Functional Departments
+?붴? College / Major Network
 ```
 
-> 한 멤버는 `전공 + 기능부서 1개 + 프로젝트/TF 0~2개` 형태로 참여할 수 있습니다.  
-> 프로젝트 TF는 과업 중심으로 구성되며 종료·재편될 수 있습니다.
+> ??硫ㅻ쾭??`?꾧났 + 湲곕뒫遺??1媛?+ ?꾨줈?앺듃/TF 0~2媛? ?뺥깭濡?李몄뿬?????덉뒿?덈떎.
+> ?꾨줈?앺듃 TF??怨쇱뾽 以묒떖?쇰줈 援ъ꽦?섎ŉ 醫낅즺쨌?ы렪?????덉뒿?덈떎.
 
 ---
 
 
-# 🧭 Horizontal Executive Council · 수평 임원진
+# ?㎛ Horizontal Executive Council 쨌 ?섑룊 ?꾩썝吏?
+## 2026 Executive Organization 쨌 ?댁쁺 議곗쭅??
+<p align="center">
+  <img src="./assets/nexus-executive-council-2026.png" width="760" alt="PAICHAI NEXUS 2026 ?댁쁺 議곗쭅??>
+</p>
 
-## Lab Council Organization · 랩 운영 구조
+> ?댁쁺以? **?⑹옣(Lab Lead)** ?쇰줈??議곗쭅 ?꾨왂, ?꾨줈?앺듃 ?뱀씤, R&D ?듯빀怨?援먯닔쨌湲곌? ?묐젰???대떦?⑸땲??
+> ?대떦 ?꾩썝 9紐낆? ?쒖뿴???꾨땶 **遺꾩빞蹂?梨낆엫??DRI)** 濡쒖꽌 ?숇벑???꾩튂?먯꽌 ?묒뾽?⑸땲??
 
-```text
-                              PAICHAI NEXUS
-                                     │
-       ┌──────── Lab Lead · 랩장 ────────┐ ↔ ┌──── Horizontal Executive Council ────┐
-       │            이 영 준              │   │ 구민우 · 심승준 · 박하음 · 이서율 │
-       └──── 통합 · 대외 조정 ────────────┘   │       김민찬 · 최민성              │
-                                                └─────────────────────────────────────┘
-                                     ↕
-                            Project / TF Leaders
-                  랩장 · 담당 임원과 주요 일정 동행
-```
+### Council Roles 쨌 梨낆엫 ?곸뿭
 
-> 이영준은 **랩장(Lab Lead)** 으로서 프로젝트 포트폴리오 통합과 대외 창구를 담당합니다. 랩장은 임원진의 상급자가 아니라 **조정자이자 연결 책임자**입니다.
-> 임원 6명은 모두 동등한 의사결정 참여자이며, 아래 책임 영역은 서열이 아니라 각자의 강점을 바탕으로 한 **주 책임 분야**입니다.
-
-<table>
-<tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=160" width="96" alt="이영준"><br><b>@gxmzung</b></a><br><sub><b>이영준</b></sub><br><sub><b>Lab Lead · Integration</b></sub><br><sub>통합 · 대외협력 · 프로젝트 연결</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="96" alt="구민우"><br><b>@minwoo9</b></a><br><sub><b>구민우</b></sub><br><sub><b>Executive · PMO</b></sub><br><sub>문서 · 일정 · 운영 기록</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/SeongJun08"><img src="https://github.com/SeongJun08.png?size=160" width="96" alt="심승준"><br><b>@SeongJun08</b></a><br><sub><b>심승준</b></sub><br><sub><b>Executive · Internal Review</b></sub><br><sub>내부 문제 · 리스크 · 품질 검토</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=160" width="96" alt="박하음"><br><b>@haeum8877</b></a><br><sub><b>박하음</b></sub><br><sub><b>Executive · Design</b></sub><br><sub>비주얼 · 공간 · UX 디자인</sub></td>
-</tr>
-<tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/seoyul1128"><img src="https://github.com/seoyul1128.png?size=160" width="96" alt="이서율"><br><b>@seoyul1128</b></a><br><sub><b>이서율</b></sub><br><sub><b>Executive · Development</b></sub><br><sub>개발 · 코드 품질 · 유지보수</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/chan1150"><img src="https://github.com/chan1150.png?size=160" width="96" alt="김민찬"><br><b>@chan1150</b></a><br><sub><b>김민찬</b></sub><br><sub><b>Executive · Execution</b></sub><br><sub>실행 · 현장 지원 · 후속 조치</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/min020676"><img src="https://github.com/min020676.png?size=160" width="96" alt="최민성"><br><b>@min020676</b></a><br><sub><b>최민성</b></sub><br><sub><b>Executive · Research</b></sub><br><sub>자료 조사 · 근거 검증 · 사례 분석</sub></td>
-<td width="25%"></td>
-</tr>
-</table>
-
-### Council Roles · 책임 영역
-
-| Role | Member | Primary Responsibility |
+| ??븷 | ?대떦 | 二쇱슂 梨낆엫 |
 | --- | --- | --- |
-| **Lab Lead · Integration** | **이영준** | 프로젝트 포트폴리오 통합, 대외 창구, 프로젝트 간 자원·의사결정 연결 |
-| **Executive · PMO** | **구민우** | 문서·일정·회의·WBS·운영 기록 및 인수인계 관리 |
-| **Executive · Internal Review** | **심승준** | 내부 문제 발견, 요구사항 누락·리스크·품질 검토 및 개선 제안 |
-| **Executive · Design** | **박하음** | 비주얼·공간·UX, 발표자료·홍보물 디자인 기준 관리 |
-| **Executive · Development** | **이서율** | 개발 지원, 코드 리뷰·QA·유지보수·기술 인수인계 체계 |
-| **Executive · Execution** | **김민찬** | 실행 항목 추진, 현장 제작·테스트 지원, 후속 조치 완료 확인 |
-| **Executive · Research** | **최민성** | 자료 조사, 사례·시장·정책 분석, 출처와 근거 검증 |
+| **?⑹옣쨌R&D 珥앷큵** | **?댁쁺以** ?뫒?뤋 | 議곗쭅 ?꾨왂, ?꾨줈?앺듃 ?뱀씤, 援먯닔쨌湲곌? ?묐젰 |
+| **?꾨줈?앺듃愿由?* | **援щ???* ?뙰 | TF 吏꾪뻾瑜? 留덇컧, 李몄뿬 ?몄썝쨌?깃낵 愿由? 由댁뒪 ?대떦 |
+| **?곌뎄媛쒕컻쨌?숈깮?먯튂湲곌뎄** | **?댁꽌??* ?꾬툘 | ?뚮옯??媛쒕컻, ?숈깮?뙿룻븰援??묒쓽 |
+| **肄섑뀗痢졖룰린濡?* | **?댄삙??* ?뵦 | ?뚭컻湲, ?명꽣酉? ?쒕룞 湲곕줉, 蹂닿퀬???ㅽ넗由?援ъ꽦 |
+| **?댁쁺湲고쉷** | **源誘쇱갔** ?럠 | ?꾩껜 ?쇱젙, ?뚯쓽 ?댁쁺, 遺??媛??낅Т 議곗젙 |
+| **?붿옄?맞룸툕?쒕뵫** | **諛뺥븯??* 狩먲툘 | ?ъ뒪?? ?붿뒪肄붾뱶, ?몄뒪?, ?띾낫 ?붿옄??|
+| **議곗쭅?댁쁺쨌?됱궗湲고쉷** | **源誘쇱＜** ?└ | 議곗쭅 援ъ꽦쨌遺??諛곗튂, ?뚯쓽 吏꾪뻾, ?됱궗쨌?덉궛 湲고쉷, 援ъ꽦???섍껄?섎졃 |
+| **踰뺣Т쨌?ㅻ━** | **?ъ＜??* ?뙮 | ?숈쓽쨌?쒕챸 ?섑빀, 媛쒖씤?뺣낫 愿由? 媛쒕컻쨌?곌뎄??踰뺤쟻쨌?ㅻ━??湲곗? 寃??|
+| **議곗궗쨌?꾨왂** | **理쒕???* ?쪛 | ?먮즺議곗궗, 怨듬え?꽷룹??먯궗??諛쒓뎬 |
+| **?대?洹쒖젙쨌由ъ뒪?ш???* | **?ъ듅以** ?꾬툘 | 洹쒖젙吏뫢룹슫?곸썝移??묒꽦, 洹쒖튃 媛쒖꽑 ?쇰뱶諛? ?대? 由ъ뒪??룸늻???먭? |
 
-### Decision & Project Leadership · 의사결정과 프로젝트 동행
+### Operating Principle 쨌 ?댁쁺 ?먯튃
 
-- 모든 임원은 수평하게 의견을 제시하고, **안건별 책임자(DRI)** 가 제안·조율·후속 기록을 맡습니다.
-- 프로젝트 내부의 기술·일정·업무분장은 **프로젝트 팀장**이 책임지고, 담당 임원은 필요한 전문 영역을 지원합니다.
-- 교수·기업·기관 미팅, 발표, 주요 실증에는 **프로젝트 팀장 + 담당 임원 + 랩장**이 함께 동행합니다.
-- 조직 전체 자원, 공식 대외 입장, 예산, 안전·법적 쟁점은 임원진이 공동 검토하고 결정 근거를 기록합니다.
-- 수평 구조는 책임 부재를 뜻하지 않습니다. 모든 안건은 담당자·기한·결과물을 명확히 남깁니다.
+- ?꾩썝 吏곸콉? ?쒖뿴???꾨땲??媛곸옄??**二?梨낆엫 ?곸뿭**???섎??⑸땲??
+- 紐⑤뱺 ?덇굔? ?대떦?? 湲고븳怨?寃곌낵臾쇱쓣 紐낇솗??湲곕줉?⑸땲??
+- ?꾨줈?앺듃 ?대? ?낅Т??TF?μ씠 梨낆엫吏怨??대떦 ?꾩썝??吏?먰빀?덈떎.
+- 踰뺣쪧???먮떒???꾩슂???ъ븞? ?숆탳 ?대떦 遺?쒕굹 ?꾨Ц媛?먭쾶 ?뺤씤?⑸땲??
 
 ---
 
-## Executive Recruitment & Succession · 임원 영입 원칙
+## Executive Recruitment & Succession 쨌 ?꾩썝 ?곸엯 ?먯튃
 
-> 임원은 학번·나이·직함이 아니라 **검증된 강점, 책임감, 협업 태도, 기록과 인수인계 능력**을 기준으로 선임합니다.
-> 특정 개인을 보좌하기 위한 직책은 두지 않으며, 필요한 역할은 임원진이 수평적으로 분담합니다.
+> ?꾩썝? ?숇쾲쨌?섏씠쨌吏곹븿???꾨땲??**寃利앸맂 媛뺤젏, 梨낆엫媛? ?묒뾽 ?쒕룄, 湲곕줉怨??몄닔?멸퀎 ?λ젰**??湲곗??쇰줈 ?좎엫?⑸땲??
+> ?뱀젙 媛쒖씤??蹂댁쥖?섍린 ?꾪븳 吏곸콉? ?먯? ?딆쑝硫? ?꾩슂????븷? ?꾩썝吏꾩씠 ?섑룊?곸쑝濡?遺꾨떞?⑸땲??
 
 ```text
 Verified Strengths + Ownership + Collaboration + Handover
-                              ↓
+                              ??
                     Executive Candidate Pool
 ```
 
 ---
 
-# 🚀 Project / TF Teams · 프로젝트팀
+# ?? Project / TF Teams 쨌 ?꾨줈?앺듃?
 
-> **멤버 표시:** 프로젝트별 참여자는 **고학년 → 저학년**, 같은 학년에서는 **같은 학과·전공끼리 묶어서** 표시합니다.
+> **硫ㅻ쾭 ?쒖떆:** ?꾨줈?앺듃蹂?李몄뿬?먮뒗 **怨좏븰??????숇뀈**, 媛숈? ?숇뀈?먯꽌??**媛숈? ?숆낵쨌?꾧났?쇰━ 臾띠뼱??* ?쒖떆?⑸땲??
 
-## 01. 🌱 Smart Seedling AI TF
-**원예산림 × Vision AI × ROS 2 × IoT × Drone × Smart Agriculture**
+## 01. ?뙮 Smart Seedling AI TF
+**?먯삁?곕┝ 횞 Vision AI 횞 ROS 2 횞 IoT 횞 Drone 횞 Smart Agriculture**
 
-### Vision AI 기반 작물 생육 진단 및 맞춤형 방제/시비 솔루션
+### Vision AI 湲곕컲 ?묐Ъ ?앹쑁 吏꾨떒 諛?留욎땄??諛⑹젣/?쒕퉬 ?붾（??
 
-작물·모종 이미지와 환경 데이터를 축적하고 생육 상태와 이상징후를 분석하여, 전문가 검토 기반의 방제·시비 의사결정을 지원하는 연구 플랫폼입니다.
+?묐Ъ쨌紐⑥쥌 ?대?吏? ?섍꼍 ?곗씠?곕? 異뺤쟻?섍퀬 ?앹쑁 ?곹깭? ?댁긽吏뺥썑瑜?遺꾩꽍?섏뿬, ?꾨Ц媛 寃??湲곕컲??諛⑹젣쨌?쒕퉬 ?섏궗寃곗젙??吏?먰븯???곌뎄 ?뚮옯?쇱엯?덈떎.
 
-**Confirmed Members · 14명**
+**Confirmed Members 쨌 14紐?*
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="김현규"><br><b>GitHub 준비중</b><br><sub><b>김현규</b></sub><br><sub>4학년 · 원예산림</sub><br><sub><b>Farm Lead</b></sub></td>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="이금령"><br><b>GitHub 준비중</b><br><sub><b>이금령</b></sub><br><sub>4학년 · 원예산림</sub><br><sub><b>Smart Farm · Horticulture</b></sub></td>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="류종걸"><br><b>GitHub 준비중</b><br><sub><b>류종걸</b></sub><br><sub>3학년 · 컴퓨터공학</sub><br><sub><b>ROS 2 · C++ · AI Integration</b></sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/SeongJun08"><img src="https://github.com/SeongJun08.png?size=160" width="72" alt="심승준"><br><b>@SeongJun08</b></a><br><sub><b>심승준</b></sub><br><sub>2학년 · 컴퓨터공학</sub><br><sub><b>Hardware · Software</b></sub></td>
+<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="源?꾧퇋"><br><b>GitHub 以鍮꾩쨷</b><br><sub><b>源?꾧퇋</b></sub><br><sub>4?숇뀈 쨌 ?먯삁?곕┝</sub><br><sub><b>Farm Lead</b></sub></td>
+<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="?닿툑??><br><b>GitHub 以鍮꾩쨷</b><br><sub><b>?닿툑??/b></sub><br><sub>4?숇뀈 쨌 ?먯삁?곕┝</sub><br><sub><b>Smart Farm 쨌 Horticulture</b></sub></td>
+<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="瑜섏쥌嫄?><br><b>GitHub 以鍮꾩쨷</b><br><sub><b>瑜섏쥌嫄?/b></sub><br><sub>3?숇뀈 쨌 而댄벂?곌났??/sub><br><sub><b>ROS 2 쨌 C++ 쨌 AI Integration</b></sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/SeongJun08"><img src="https://github.com/SeongJun08.png?size=160" width="72" alt="?ъ듅以"><br><b>@SeongJun08</b></a><br><sub><b>?ъ듅以</b></sub><br><sub>2?숇뀈 쨌 而댄벂?곌났??/sub><br><sub><b>Hardware 쨌 Software</b></sub></td>
 </tr>
 <tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/h-ng21o"><img src="https://github.com/h-ng21o.png?size=160" width="72" alt="홍정우"><br><b>@h-ng21o</b></a><br><sub><b>홍정우</b></sub><br><sub>2학년 · 컴퓨터공학</sub><br><sub><b>Embedded · Software</b></sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="72" alt="구민우"><br><b>@minwoo9</b></a><br><sub><b>구민우</b></sub><br><sub>1학년 · IT경영정보</sub><br><sub><b>Documentation · Operations</b></sub></td>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="신동우"><br><b>GitHub 준비중</b><br><sub><b>신동우</b></sub><br><sub>1학년 · IT경영정보</sub><br><sub><b>Operations Support</b></sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=160" width="72" alt="박하음"><br><b>@haeum8877</b></a><br><sub><b>박하음</b></sub><br><sub>1학년 · 건축</sub><br><sub><b>Farm Structure · Spatial Design</b></sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/h-ng21o"><img src="https://github.com/h-ng21o.png?size=160" width="72" alt="?띿젙??><br><b>@h-ng21o</b></a><br><sub><b>?띿젙??/b></sub><br><sub>2?숇뀈 쨌 而댄벂?곌났??/sub><br><sub><b>Embedded 쨌 Software</b></sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="72" alt="援щ???><br><b>@minwoo9</b></a><br><sub><b>援щ???/b></sub><br><sub>1?숇뀈 쨌 IT寃쎌쁺?뺣낫</sub><br><sub><b>Documentation 쨌 Operations</b></sub></td>
+<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="?좊룞??><br><b>GitHub 以鍮꾩쨷</b><br><sub><b>?좊룞??/b></sub><br><sub>1?숇뀈 쨌 IT寃쎌쁺?뺣낫</sub><br><sub><b>Operations Support</b></sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/haeum8877"><img src="https://github.com/haeum8877.png?size=160" width="72" alt="諛뺥븯??><br><b>@haeum8877</b></a><br><sub><b>諛뺥븯??/b></sub><br><sub>1?숇뀈 쨌 嫄댁텞</sub><br><sub><b>Farm Structure 쨌 Spatial Design</b></sub></td>
 </tr>
 <tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/seongjun018"><img src="https://github.com/seongjun018.png?size=160" width="72" alt="박성준"><br><b>@seongjun018</b></a><br><sub><b>박성준</b></sub><br><sub>1학년 · 드론로봇공학</sub><br><sub><b>Drone Operations</b></sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/wjddbgks4046-ai"><img src="https://github.com/wjddbgks4046-ai.png?size=160" width="72" alt="정유한"><br><b>@wjddbgks4046-ai</b></a><br><sub><b>정유한</b></sub><br><sub>1학년 · 전기전자공학</sub><br><sub><b>Electronics · IoT</b></sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/chan1150"><img src="https://github.com/chan1150.png?size=160" width="72" alt="김민찬"><br><b>@chan1150</b></a><br><sub><b>김민찬</b></sub><br><sub>1학년 · 전기전자공학</sub><br><sub><b>Electronics · Field Build</b></sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/sera881"><img src="https://github.com/sera881.png?size=160" width="72" alt="신세라"><br><b>@sera881</b></a><br><sub><b>신세라</b></sub><br><sub>1학년 · 조경</sub><br><sub><b>Landscape · Planting Environment</b></sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/seongjun018"><img src="https://github.com/seongjun018.png?size=160" width="72" alt="諛뺤꽦以"><br><b>@seongjun018</b></a><br><sub><b>諛뺤꽦以</b></sub><br><sub>1?숇뀈 쨌 ?쒕줎濡쒕큸怨듯븰</sub><br><sub><b>Drone Operations</b></sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/wjddbgks4046-ai"><img src="https://github.com/wjddbgks4046-ai.png?size=160" width="72" alt="?뺤쑀??><br><b>@wjddbgks4046-ai</b></a><br><sub><b>?뺤쑀??/b></sub><br><sub>1?숇뀈 쨌 ?꾧린?꾩옄怨듯븰</sub><br><sub><b>Electronics 쨌 IoT</b></sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/chan1150"><img src="https://github.com/chan1150.png?size=160" width="72" alt="源誘쇱갔"><br><b>@chan1150</b></a><br><sub><b>源誘쇱갔</b></sub><br><sub>1?숇뀈 쨌 ?꾧린?꾩옄怨듯븰</sub><br><sub><b>Electronics 쨌 Field Build</b></sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/sera881"><img src="https://github.com/sera881.png?size=160" width="72" alt="?좎꽭??><br><b>@sera881</b></a><br><sub><b>?좎꽭??/b></sub><br><sub>1?숇뀈 쨌 議곌꼍</sub><br><sub><b>Landscape 쨌 Planting Environment</b></sub></td>
 </tr>
 <tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=160" width="72" alt="이영준"><br><b>@gxmzung</b></a><br><sub><b>이영준</b></sub><br><sub>1학년 · 컴퓨터공학</sub><br><sub><b>Project · System Integration</b></sub></td>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="임준호"><br><b>GitHub 준비중</b><br><sub><b>임준호</b></sub><br><sub>1학년 · 컴퓨터공학</sub><br><sub><b>AI Junior · Data & Vision</b></sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=160" width="72" alt="?댁쁺以"><br><b>@gxmzung</b></a><br><sub><b>?댁쁺以</b></sub><br><sub>1?숇뀈 쨌 而댄벂?곌났??/sub><br><sub><b>Project 쨌 System Integration</b></sub></td>
+<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="?꾩???><br><b>GitHub 以鍮꾩쨷</b><br><sub><b>?꾩???/b></sub><br><sub>1?숇뀈 쨌 而댄벂?곌났??/sub><br><sub><b>AI Junior 쨌 Data & Vision</b></sub></td>
 <td width="25%"></td>
 <td width="25%"></td>
 </tr>
@@ -130,100 +107,100 @@ Verified Strengths + Ownership + Collaboration + Handover
 
 | Area | Members | Scope |
 | --- | --- | --- |
-| 🌱 Farm / Domain | **김현규**, 이금령 | 농장 운영, 작물·생육 기준, 스마트팜 실험 |
-| 🤖 AI / ROS 2 | **류종걸**, 임준호 | C++/ROS 2, Vision AI, 데이터·학습 실험 |
-| 🧑‍💻 System / Development | **이영준**, 홍정우, 심승준 | HW/SW, Edge, 센서·플랫폼 통합 |
-| 🚁 Drone | **박성준** | 드론 운용, 항공 촬영, 원격탐사 확장 |
-| ⚡ Electronics / IoT | **정유한**, 김민찬 | 센서, 전원, 배선, IoT, 현장 하드웨어 |
-| 🏗️ Space / Environment | **박하음**, 신세라 | 시설·공간 구조, 식재·조경 환경 |
-| 📋 Operations / Documentation | **구민우**, 신동우 | 문서화, 일정·회의·운영 기록 |
+| ?뙮 Farm / Domain | **源?꾧퇋**, ?닿툑??| ?띿옣 ?댁쁺, ?묐Ъ쨌?앹쑁 湲곗?, ?ㅻ쭏?명뙗 ?ㅽ뿕 |
+| ?쨼 AI / ROS 2 | **瑜섏쥌嫄?*, ?꾩???| C++/ROS 2, Vision AI, ?곗씠?걔룻븰???ㅽ뿕 |
+| ?쭛?랅윊?System / Development | **?댁쁺以**, ?띿젙?? ?ъ듅以 | HW/SW, Edge, ?쇱꽌쨌?뚮옯???듯빀 |
+| ?쉧 Drone | **諛뺤꽦以** | ?쒕줎 ?댁슜, ??났 珥ъ쁺, ?먭꺽?먯궗 ?뺤옣 |
+| ??Electronics / IoT | **?뺤쑀??*, 源誘쇱갔 | ?쇱꽌, ?꾩썝, 諛곗꽑, IoT, ?꾩옣 ?섎뱶?⑥뼱 |
+| ?룛截?Space / Environment | **諛뺥븯??*, ?좎꽭??| ?쒖꽕쨌怨듦컙 援ъ“, ?앹옱쨌議곌꼍 ?섍꼍 |
+| ?뱥 Operations / Documentation | **援щ???*, ?좊룞??| 臾몄꽌?? ?쇱젙쨌?뚯쓽쨌?댁쁺 湲곕줉 |
 
-### Faculty Advisory Plan · 교수 자문 계획
+### Faculty Advisory Plan 쨌 援먯닔 ?먮Ц 怨꾪쉷
 
-| 분야 | 교수 | 소속 | 자문 요청 범위 |
+| 遺꾩빞 | 援먯닔 | ?뚯냽 | ?먮Ц ?붿껌 踰붿쐞 |
 | --- | --- | --- | --- |
-| 🌱 Horticulture / Domain | [**안영직 교수**](https://hakgwa.pcu.ac.kr/hortforest/88/professor/25700700/4046) | 원예산림학과 | 작물·생육 기준, 방제·시비, 실험 설계 및 원예학적 검증 |
-| ⚡ Electronics / Control | [**임거수 교수**](https://share.google/E2jCXp6xLHeimAoSl) | 전기전자공학과 | 센서·제어·PLC·IoT·현장 하드웨어 구성 자문 |
-| 🤖 AI / Software | [**김창수 교수**](https://dept.pcu.ac.kr/ce/91/professor/25401701/309) | AI소프트웨어공학부 컴퓨터공학전공 | Vision AI·데이터·플랫폼 연구 방향 및 교내 지원 프로그램 연계 자문 |
+| ?뙮 Horticulture / Domain | [**?덉쁺吏?援먯닔**](https://hakgwa.pcu.ac.kr/hortforest/88/professor/25700700/4046) | ?먯삁?곕┝?숆낵 | ?묐Ъ쨌?앹쑁 湲곗?, 諛⑹젣쨌?쒕퉬, ?ㅽ뿕 ?ㅺ퀎 諛??먯삁?숈쟻 寃利?|
+| ??Electronics / Control | [**?꾧굅??援먯닔**](https://share.google/E2jCXp6xLHeimAoSl) | ?꾧린?꾩옄怨듯븰怨?| ?쇱꽌쨌?쒖뼱쨌PLC쨌IoT쨌?꾩옣 ?섎뱶?⑥뼱 援ъ꽦 ?먮Ц |
+| ?쨼 AI / Software | [**源李쎌닔 援먯닔**](https://dept.pcu.ac.kr/ce/91/professor/25401701/309) | AI?뚰봽?몄썾?닿났?숇? 而댄벂?곌났?숈쟾怨?| Vision AI쨌?곗씠?걔룻뵆?ロ뤌 ?곌뎄 諛⑺뼢 諛?援먮궡 吏???꾨줈洹몃옩 ?곌퀎 ?먮Ц |
 
-> 위 교수진은 **자문 요청·연계 대상**으로 표기하며, 공식 참여가 확정되면 역할과 상태를 별도로 갱신합니다.
+> ??援먯닔吏꾩? **?먮Ц ?붿껌쨌?곌퀎 ???*?쇰줈 ?쒓린?섎ŉ, 怨듭떇 李몄뿬媛 ?뺤젙?섎㈃ ??븷怨??곹깭瑜?蹂꾨룄濡?媛깆떊?⑸땲??
 
 ---
 
-## 02. 🏥 Healthcare HIS TF
-**간호 × Healthcare IT × UX**
+## 02. ?룯 Healthcare HIS TF
+**媛꾪샇 횞 Healthcare IT 횞 UX**
 
-대학병원향 통합 의료 정보 시스템(HIS) 구축 및 간호 실무 최적화.
+??숇퀝?먰뼢 ?듯빀 ?섎즺 ?뺣낫 ?쒖뒪??HIS) 援ъ텞 諛?媛꾪샇 ?ㅻТ 理쒖쟻??
 
-**Domain Pool:** 김민주 · 최윤성 · 조서렴  
+**Domain Pool:** 源誘쇱＜ 쨌 理쒖쑄??쨌 議곗꽌??
 **Status:** `FORMING`
 
-## 03. 🧬 BioDockLab TF
-**생명공학 × Clinical Data × Biobanking × Platform**
+## 03. ?㎚ BioDockLab TF
+**?앸챸怨듯븰 횞 Clinical Data 횞 Biobanking 횞 Platform**
 
-글로벌 임상시험 데이터 관리 및 바이오 뱅킹 플랫폼 구축.
+湲濡쒕쾶 ?꾩긽?쒗뿕 ?곗씠??愿由?諛?諛붿씠??諭낇궧 ?뚮옯??援ъ텞.
 
-**Needed:** 생명공학 Domain · Backend/Data · Security · UX  
+**Needed:** ?앸챸怨듯븰 Domain 쨌 Backend/Data 쨌 Security 쨌 UX
 **Status:** `FORMING`
 
-## 04. 🏗️ Tunnel Stability Research TF
-**철도건설 × 데이터분석 × Research**
+## 04. ?룛截?Tunnel Stability Research TF
+**泥좊룄嫄댁꽕 횞 ?곗씠?곕텇??횞 Research**
 
-도마·도안 터널 구간의 지질 특성 분석 기반 토목 구조 안정성 연구 및 논문 투고.
+?꾨쭏쨌?꾩븞 ?곕꼸 援ш컙??吏吏??뱀꽦 遺꾩꽍 湲곕컲 ?좊ぉ 援ъ“ ?덉젙???곌뎄 諛??쇰Ц ?ш퀬.
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top"><a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="72" alt="구민우"><br><b>@minwoo9</b></a><br><sub><b>구민우</b></sub><br><sub>1학년 · IT경영정보</sub><br><sub><b>Documentation · Research Ops</b></sub></td>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="홍준형"><br><b>GitHub 준비중</b><br><sub><b>홍준형</b></sub><br><sub>1학년 · 철도건설공학</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=160" width="72" alt="이영준"><br><b>@gxmzung</b></a><br><sub><b>이영준</b></sub><br><sub>1학년 · 컴퓨터공학</sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/minwoo9"><img src="https://github.com/minwoo9.png?size=160" width="72" alt="援щ???><br><b>@minwoo9</b></a><br><sub><b>援щ???/b></sub><br><sub>1?숇뀈 쨌 IT寃쎌쁺?뺣낫</sub><br><sub><b>Documentation 쨌 Research Ops</b></sub></td>
+<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="?띿???><br><b>GitHub 以鍮꾩쨷</b><br><sub><b>?띿???/b></sub><br><sub>1?숇뀈 쨌 泥좊룄嫄댁꽕怨듯븰</sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=160" width="72" alt="?댁쁺以"><br><b>@gxmzung</b></a><br><sub><b>?댁쁺以</b></sub><br><sub>1?숇뀈 쨌 而댄벂?곌났??/sub></td>
 <td width="25%"></td>
 </tr>
 </table>
 
-**Output:** Dataset · Analysis Report · Academic Paper  
+**Output:** Dataset 쨌 Analysis Report 쨌 Academic Paper
 **Status:** `ACTIVE / RESEARCH`
 
-## 05. ⚽ Elite Youth Sports O2O TF
-**레저스포츠 × Platform × Career Data**
+## 05. ??Elite Youth Sports O2O TF
+**?덉??ㅽ룷痢?횞 Platform 횞 Career Data**
 
-엘리트 유소년 선수 매칭 및 경력 관리 O2O 플랫폼.
+?섎━???좎냼???좎닔 留ㅼ묶 諛?寃쎈젰 愿由?O2O ?뚮옯??
 
-**Domain:** 곽민규  
+**Domain:** 怨쎈?洹?
 **Status:** `FORMING`
 
-## 06. 🍽️ Zero-Waste FoodTech TF
-**Vision AI × 외식조리 × 식품영양**
+## 06. ?띂截?Zero-Waste FoodTech TF
+**Vision AI 횞 ?몄떇議곕━ 횞 ?앺뭹?곸뼇**
 
-식재료 인식 → 소비 우선순위 → 레시피 추천 → 실조리·영양 검증.
+?앹옱猷??몄떇 ???뚮퉬 ?곗꽑?쒖쐞 ???덉떆??異붿쿇 ???ㅼ“由?룹쁺??寃利?
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="김규리"><br><b>GitHub 준비중</b><br><sub><b>김규리</b></sub><br><sub>3학년 · 식품영양</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/guswls0520"><img src="https://github.com/guswls0520.png?size=160" width="72" alt="정현진"><br><b>@guswls0520</b></a><br><sub><b>정현진</b></sub><br><sub>1학년 · 식품영양</sub></td>
-<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="이지환"><br><b>GitHub 준비중</b><br><sub><b>이지환</b></sub><br><sub>1학년 · 외식조리</sub></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=160" width="72" alt="이영준"><br><b>@gxmzung</b></a><br><sub><b>이영준</b></sub><br><sub>1학년 · 컴퓨터공학</sub></td>
+<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="源洹쒕━"><br><b>GitHub 以鍮꾩쨷</b><br><sub><b>源洹쒕━</b></sub><br><sub>3?숇뀈 쨌 ?앺뭹?곸뼇</sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/guswls0520"><img src="https://github.com/guswls0520.png?size=160" width="72" alt="?뺥쁽吏?><br><b>@guswls0520</b></a><br><sub><b>?뺥쁽吏?/b></sub><br><sub>1?숇뀈 쨌 ?앺뭹?곸뼇</sub></td>
+<td align="center" width="25%" valign="top"><img src="https://github.com/ghost.png?size=160" width="72" alt="?댁???><br><b>GitHub 以鍮꾩쨷</b><br><sub><b>?댁???/b></sub><br><sub>1?숇뀈 쨌 ?몄떇議곕━</sub></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/gxmzung"><img src="https://github.com/gxmzung.png?size=160" width="72" alt="?댁쁺以"><br><b>@gxmzung</b></a><br><sub><b>?댁쁺以</b></sub><br><sub>1?숇뀈 쨌 而댄벂?곌났??/sub></td>
 </tr>
 </table>
 
 **Status:** `PLANNING / RESEARCH`
 
-## 07. 🎓 Paejae Pick
-**Campus Platform × Software × UX × Smart Mobility**
+## 07. ?럳 Paejae Pick
+**Campus Platform 횞 Software 횞 UX 횞 Smart Mobility**
 
-배재대학교 학생 생활 정보와 캠퍼스 이동 서비스를 연결하는 학생 중심 스마트 캠퍼스 플랫폼입니다.
+諛곗옱??숆탳 ?숈깮 ?앺솢 ?뺣낫? 罹좏띁???대룞 ?쒕퉬?ㅻ? ?곌껐?섎뒗 ?숈깮 以묒떖 ?ㅻ쭏??罹좏띁???뚮옯?쇱엯?덈떎.
 
-### Project Organization · 프로젝트 조직도
+### Project Organization 쨌 ?꾨줈?앺듃 議곗쭅??
 
 ```text
 Paejae Pick 2.0
-├── 개발팀장: 이영준 (@gxmzung)
-└── 유지보수: 이서율 (@seoyul1128)
+?쒋?? 媛쒕컻??? ?댁쁺以 (@gxmzung)
+?붴?? ?좎?蹂댁닔: ?댁꽌??(@seoyul1128)
 ```
 
-| 역할 | 담당 | 책임 범위 |
+| ??븷 | ?대떦 | 梨낆엫 踰붿쐞 |
 | --- | --- | --- |
-| **개발팀장** | [**이영준 · @gxmzung**](https://github.com/gxmzung) | 제품 방향, 아키텍처, 핵심 개발, 스마트 모빌리티 연동, 개발팀 조율 |
-| **유지보수** | [**이서율 · @seoyul1128**](https://github.com/seoyul1128) | QA, 버그 수정, 릴리스 점검, 문서 갱신, 운영 유지보수 |
+| **媛쒕컻???* | [**?댁쁺以 쨌 @gxmzung**](https://github.com/gxmzung) | ?쒗뭹 諛⑺뼢, ?꾪궎?띿쿂, ?듭떖 媛쒕컻, ?ㅻ쭏??紐⑤퉴由ы떚 ?곕룞, 媛쒕컻? 議곗쑉 |
+| **?좎?蹂댁닔** | [**?댁꽌??쨌 @seoyul1128**](https://github.com/seoyul1128) | QA, 踰꾧렇 ?섏젙, 由대━???먭?, 臾몄꽌 媛깆떊, ?댁쁺 ?좎?蹂댁닔 |
 
 **Repository:** [`paichai-nexus/paejae-pick-2-app`](https://github.com/paichai-nexus/paejae-pick-2-app)
 
@@ -233,390 +210,390 @@ Paejae Pick 2.0
 
 
 
-## 08. 🌐 NEXUS Web Platform TF
+## 08. ?뙋 NEXUS Web Platform TF
 
-**Computer / Software × Design × IT Management × Project Operations**
+**Computer / Software 횞 Design 횞 IT Management 횞 Project Operations**
 
-### PAICHAI NEXUS 공식 웹사이트 구축
+### PAICHAI NEXUS 怨듭떇 ?뱀궗?댄듃 援ъ텞
 
-NEXUS의 조직·멤버·프로젝트/TF·교수/기관 협력·성과·모집 정보를 한 곳에서 보여주는  
-**공식 웹 플랫폼**을 구축하는 내부 인프라 프로젝트입니다.
+NEXUS??議곗쭅쨌硫ㅻ쾭쨌?꾨줈?앺듃/TF쨌援먯닔/湲곌? ?묐젰쨌?깃낵쨌紐⑥쭛 ?뺣낫瑜???怨녹뿉??蹂댁뿬二쇰뒗
+**怨듭떇 ???뚮옯??*??援ъ텞?섎뒗 ?대? ?명봽???꾨줈?앺듃?낅땲??
 
-GitHub README에 길게 쌓여 있는 정보를 웹사이트로 분리하여, 방문자가 조직 구조와 프로젝트 진행 상황을  
-더 쉽고 직관적으로 탐색할 수 있도록 하는 것을 목표로 합니다.
+GitHub README??湲멸쾶 ?볦뿬 ?덈뒗 ?뺣낫瑜??뱀궗?댄듃濡?遺꾨━?섏뿬, 諛⑸Ц?먭? 議곗쭅 援ъ“? ?꾨줈?앺듃 吏꾪뻾 ?곹솴??
+???쎄퀬 吏곴??곸쑝濡??먯깋?????덈룄濡??섎뒗 寃껋쓣 紐⑺몴濡??⑸땲??
 
 **Core Features**
 
-`Home` · `About NEXUS` · `Organization` · `Members` · `Projects / TF` · `Partners / Advisors` · `Achievements` · `Join NEXUS`
+`Home` 쨌 `About NEXUS` 쨌 `Organization` 쨌 `Members` 쨌 `Projects / TF` 쨌 `Partners / Advisors` 쨌 `Achievements` 쨌 `Join NEXUS`
 
-**1차 PoC**
+**1李?PoC**
 
 ```text
 Information Architecture
-        ↓
+        ??
 Member / Project Data Model
-        ↓
+        ??
 Organization Page
-        ↓
+        ??
 Project / TF Page
-        ↓
+        ??
 Responsive UI
-        ↓
+        ??
 Deploy
 ```
 
 **Suggested Stack**
 
-`Next.js / React` · `TypeScript` · `GitHub Data` · `Responsive Web`
+`Next.js / React` 쨌 `TypeScript` 쨌 `GitHub Data` 쨌 `Responsive Web`
 
 <img src="https://img.shields.io/badge/STATUS-PLANNING-0EA5E9?style=flat-square">
 
 ---
 
-## 09. ✈️ Smart Travel & Airport Experience TF
+## 09. ?덌툘 Smart Travel & Airport Experience TF
 
-**관광경영 × 호텔항공경영 × 항공서비스 × 글로벌비즈니스 × 일본학 × 산업디자인 × 광고사진영상**
+**愿愿묎꼍??횞 ?명뀛??났寃쎌쁺 횞 ??났?쒕퉬??횞 湲濡쒕쾶鍮꾩쫰?덉뒪 횞 ?쇰낯??횞 ?곗뾽?붿옄??횞 愿묎퀬?ъ쭊?곸긽**
 
-### AI 기반 여행·공항 Passenger Journey 설계 플랫폼
+### AI 湲곕컲 ?ы뻾쨌怨듯빆 Passenger Journey ?ㅺ퀎 ?뚮옯??
 
-여행자가 출발 전부터 공항, 이동, 숙박, 관광지까지 경험하는 전체 여정을 분석하고,  
-**AI 기반 일정 추천과 서비스 UX를 결합하여 더 편리한 여행 경험을 설계하는 프로젝트**입니다.
+?ы뻾?먭? 異쒕컻 ?꾨???怨듯빆, ?대룞, ?숇컯, 愿愿묒?源뚯? 寃쏀뿕?섎뒗 ?꾩껜 ?ъ젙??遺꾩꽍?섍퀬,
+**AI 湲곕컲 ?쇱젙 異붿쿇怨??쒕퉬??UX瑜?寃고빀?섏뿬 ???몃━???ы뻾 寃쏀뿕???ㅺ퀎?섎뒗 ?꾨줈?앺듃**?낅땲??
 
-단순 여행 추천 앱이 아니라 관광·호텔·항공서비스 전공의 도메인 지식을 기반으로  
-Passenger Journey의 불편 요소를 발견하고 실제 서비스 개선안으로 연결하는 것을 목표로 합니다.
+?⑥닚 ?ы뻾 異붿쿇 ?깆씠 ?꾨땲??愿愿뫢룻샇?붋룻빆怨듭꽌鍮꾩뒪 ?꾧났???꾨찓??吏?앹쓣 湲곕컲?쇰줈
+Passenger Journey??遺덊렪 ?붿냼瑜?諛쒓껄?섍퀬 ?ㅼ젣 ?쒕퉬??媛쒖꽑?덉쑝濡??곌껐?섎뒗 寃껋쓣 紐⑺몴濡??⑸땲??
 
 **Project Flow**
 
 ```text
-Traveler Persona 정의
-        ↓
-여행 목적 / 일정 / 예산 입력
-        ↓
-AI 기반 이동·관광 동선 생성
-        ↓
-공항 / 호텔 / 관광지 Touch Point 분석
-        ↓
-언어·문화·서비스 불편 요소 탐색
-        ↓
-UX 개선안 및 서비스 프로토타입
-        ↓
+Traveler Persona ?뺤쓽
+        ??
+?ы뻾 紐⑹쟻 / ?쇱젙 / ?덉궛 ?낅젰
+        ??
+AI 湲곕컲 ?대룞쨌愿愿??숈꽑 ?앹꽦
+        ??
+怨듯빆 / ?명뀛 / 愿愿묒? Touch Point 遺꾩꽍
+        ??
+?몄뼱쨌臾명솕쨌?쒕퉬??遺덊렪 ?붿냼 ?먯깋
+        ??
+UX 媛쒖꽑??諛??쒕퉬???꾨줈?좏???
+        ??
 User Test
 ```
 
 **Major Roles**
 
-| 분야 | 역할 |
+| 遺꾩빞 | ??븷 |
 | --- | --- |
-| 관광경영 | 관광 동선, 관광객 행동, 목적지 경험 설계 |
-| 호텔항공경영 | 숙박·관광 서비스 운영, 고객 경험 |
-| 항공서비스 | 공항·탑승 Passenger Journey, 서비스 Touch Point |
-| 글로벌비즈니스 | 글로벌 서비스 모델, 시장·사업성 분석 |
-| 일본학 | 일본어·문화·지역 정보 검증 |
-| 산업디자인 | 키오스크·모바일 서비스·HMI UX |
-| 광고사진영상 | 관광 콘텐츠, 영상·브랜드 콘텐츠 |
+| 愿愿묎꼍??| 愿愿??숈꽑, 愿愿묎컼 ?됰룞, 紐⑹쟻吏 寃쏀뿕 ?ㅺ퀎 |
+| ?명뀛??났寃쎌쁺 | ?숇컯쨌愿愿??쒕퉬???댁쁺, 怨좉컼 寃쏀뿕 |
+| ??났?쒕퉬??| 怨듯빆쨌?묒듅 Passenger Journey, ?쒕퉬??Touch Point |
+| 湲濡쒕쾶鍮꾩쫰?덉뒪 | 湲濡쒕쾶 ?쒕퉬??紐⑤뜽, ?쒖옣쨌?ъ뾽??遺꾩꽍 |
+| ?쇰낯??| ?쇰낯?는룸Ц?붋룹????뺣낫 寃利?|
+| ?곗뾽?붿옄??| ?ㅼ삤?ㅽ겕쨌紐⑤컮???쒕퉬?ㅒ텵MI UX |
+| 愿묎퀬?ъ쭊?곸긽 | 愿愿?肄섑뀗痢? ?곸긽쨌釉뚮옖??肄섑뀗痢?|
 
-**1차 PoC**
+**1李?PoC**
 
-`Traveler Persona` · `Journey Map` · `AI Itinerary` · `Airport UX Prototype` · `User Test`
+`Traveler Persona` 쨌 `Journey Map` 쨌 `AI Itinerary` 쨌 `Airport UX Prototype` 쨌 `User Test`
 
 <img src="https://img.shields.io/badge/STATUS-VOTING-8B5CF6?style=flat-square">
 
 ---
 
-## 10. 🎭 Interactive Culture Tech Studio TF
+## 10. ?렚 Interactive Culture Tech Studio TF
 
-**공연예술 × 아트앤웹툰 × 게임애니메이션 × 의류패션 × 광고사진영상 × 산업디자인 × 뷰티케어**
+**怨듭뿰?덉닠 횞 ?꾪듃?ㅼ쎒??횞 寃뚯엫?좊땲硫붿씠??횞 ?섎쪟?⑥뀡 횞 愿묎퀬?ъ쭊?곸긽 횞 ?곗뾽?붿옄??횞 酉고떚耳??*
 
-### AI·인터랙션 기술 기반 참여형 문화예술 콘텐츠 제작
+### AI쨌?명꽣?숈뀡 湲곗닠 湲곕컲 李몄뿬??臾명솕?덉닠 肄섑뀗痢??쒖옉
 
-공연·웹툰·애니메이션·패션·영상·디자인을 하나의 경험으로 연결하여,  
-관람객의 움직임이나 선택에 따라 **영상·캐릭터·조명·연출이 실시간으로 변화하는 인터랙티브 콘텐츠**를 제작합니다.
+怨듭뿰쨌?뱁댆쨌?좊땲硫붿씠?샕룻뙣?샕룹쁺?겶룸뵒?먯씤???섎굹??寃쏀뿕?쇰줈 ?곌껐?섏뿬,
+愿?뚭컼???吏곸엫?대굹 ?좏깮???곕씪 **?곸긽쨌罹먮┃?걔룹“紐끒룹뿰異쒖씠 ?ㅼ떆媛꾩쑝濡?蹂?뷀븯???명꽣?숉떚釉?肄섑뀗痢?*瑜??쒖옉?⑸땲??
 
-기술 자체가 중심이 아니라 **문화예술 전공자가 콘텐츠와 연출을 주도하고, 기술 전공자가 구현을 지원하는 구조**를 지향합니다.
+湲곗닠 ?먯껜媛 以묒떖???꾨땲??**臾명솕?덉닠 ?꾧났?먭? 肄섑뀗痢좎? ?곗텧??二쇰룄?섍퀬, 湲곗닠 ?꾧났?먭? 援ы쁽??吏?먰븯??援ъ“**瑜?吏?ν빀?덈떎.
 
 **Project Flow**
 
 ```text
-Theme / Story 기획
-        ↓
-캐릭터·무대·의상 콘셉트 제작
-        ↓
+Theme / Story 湲고쉷
+        ??
+罹먮┃?걔룸Т?쨌?섏긽 肄섏뀎???쒖옉
+        ??
 Camera / Motion Tracking
-        ↓
-사용자 움직임·선택 인식
-        ↓
+        ??
+?ъ슜???吏곸엫쨌?좏깮 ?몄떇
+        ??
 AI Visual / Animation
-        ↓
-영상·조명·사운드 변화
-        ↓
+        ??
+?곸긽쨌議곕챸쨌?ъ슫??蹂??
+        ??
 Interactive Exhibition / Performance
 ```
 
 **Major Roles**
 
-| 분야 | 역할 |
+| 遺꾩빞 | ??븷 |
 | --- | --- |
-| 공연예술 | 공연 구성, 퍼포먼스, 무대 연출 |
-| 아트앤웹툰 | 세계관, 스토리, 캐릭터·비주얼 |
-| 게임애니메이션 | 캐릭터 애니메이션, 인터랙션 |
-| 의류패션 | 의상·스타일 콘셉트 |
-| 광고사진영상 | 촬영, 영상 연출, 홍보 콘텐츠 |
-| 산업디자인 | 전시 공간, 인터페이스, 체험 구조 |
-| 뷰티케어 | 메이크업·스타일링·비주얼 연출 |
+| 怨듭뿰?덉닠 | 怨듭뿰 援ъ꽦, ?쇳룷癒쇱뒪, 臾대? ?곗텧 |
+| ?꾪듃?ㅼ쎒??| ?멸퀎愿, ?ㅽ넗由? 罹먮┃?걔룸퉬二쇱뼹 |
+| 寃뚯엫?좊땲硫붿씠??| 罹먮┃???좊땲硫붿씠?? ?명꽣?숈뀡 |
+| ?섎쪟?⑥뀡 | ?섏긽쨌?ㅽ???肄섏뀎??|
+| 愿묎퀬?ъ쭊?곸긽 | 珥ъ쁺, ?곸긽 ?곗텧, ?띾낫 肄섑뀗痢?|
+| ?곗뾽?붿옄??| ?꾩떆 怨듦컙, ?명꽣?섏씠?? 泥댄뿕 援ъ“ |
+| 酉고떚耳??| 硫붿씠?ъ뾽쨌?ㅽ??쇰쭅쨌鍮꾩＜???곗텧 |
 
-**1차 PoC**
+**1李?PoC**
 
-`Story` · `Character` · `Motion Tracking` · `Interactive Visual` · `Mini Exhibition`
+`Story` 쨌 `Character` 쨌 `Motion Tracking` 쨌 `Interactive Visual` 쨌 `Mini Exhibition`
 
 **Final Output**
 
-`Interactive Exhibition` · `Performance Demo` · `Short Film` · `Making Film` · `Portfolio`
+`Interactive Exhibition` 쨌 `Performance Demo` 쨌 `Short Film` 쨌 `Making Film` 쨌 `Portfolio`
 
 <img src="https://img.shields.io/badge/STATUS-VOTING-8B5CF6?style=flat-square">
 
 ---
 
-### 🗳️ New TF Vote · 신규 프로젝트 투표
+### ?뿳截?New TF Vote 쨌 ?좉퇋 ?꾨줈?앺듃 ?ы몴
 
-| 번호 | 프로젝트 | 목적 |
+| 踰덊샇 | ?꾨줈?앺듃 | 紐⑹쟻 |
 | ---: | --- | --- |
-| **09** | ✈️ Smart Travel & Airport Experience | 관광·항공·호텔·글로벌 계열 신규 참여 확대 |
-| **10** | 🎭 Interactive Culture Tech Studio | 공연·패션·웹툰·영상·디자인 계열 신규 참여 확대 |
+| **09** | ?덌툘 Smart Travel & Airport Experience | 愿愿뫢룻빆怨돠룻샇?붋룰?濡쒕쾶 怨꾩뿴 ?좉퇋 李몄뿬 ?뺣? |
+| **10** | ?렚 Interactive Culture Tech Studio | 怨듭뿰쨌?⑥뀡쨌?뱁댆쨌?곸긽쨌?붿옄??怨꾩뿴 ?좉퇋 李몄뿬 ?뺣? |
 
-> **08번 NEXUS Web Platform은 내부 인프라 프로젝트로 추진**하고,  
-> 09·10번은 신규 학과 참여 수요를 확인하기 위한 **투표 후보 TF**로 운영합니다.
+> **08踰?NEXUS Web Platform? ?대? ?명봽???꾨줈?앺듃濡?異붿쭊**?섍퀬,
+> 09쨌10踰덉? ?좉퇋 ?숆낵 李몄뿬 ?섏슂瑜??뺤씤?섍린 ?꾪븳 **?ы몴 ?꾨낫 TF**濡??댁쁺?⑸땲??
 
 ---
 
-# 🧩 Functional Departments · 부서팀
+# ?㎥ Functional Departments 쨌 遺?쒗?
 
-## Functional Organization · 부서 운영 구조
+## Functional Organization 쨌 遺???댁쁺 援ъ“
 
 ```text
-        Lab Lead ↔ Horizontal Executive Council ↔ Project / TF Leaders
-                                │
+        Lab Lead ??Horizontal Executive Council ??Project / TF Leaders
+                                ??
                       FUNCTIONAL DEPARTMENTS
-                                │
-        ┌──────────────┬──────────────┬──────────────┬──────────────┐
-        │              │              │              │              │
-     전략기획부      프로젝트관리부      기술연구개발부      디자인브랜딩부
+                                ??
+        ?뚢???????????????р???????????????р???????????????р????????????????
+        ??             ??             ??             ??             ??
+     ?꾨왂湲고쉷遺      ?꾨줈?앺듃愿由щ?      湲곗닠?곌뎄媛쒕컻遺      ?붿옄?몃툕?쒕뵫遺
                        (PMO)             (R&D)
-        │              │              │              │
-        ├──────────────┼──────────────┼──────────────┤
-        │              │              │              │
-     대외협력부      사업기획·지원부     교육·커뮤니티부     사용자·사회연구부
+        ??             ??             ??             ??
+        ?쒋???????????????쇄???????????????쇄????????????????
+        ??             ??             ??             ??
+     ??명삊?λ?      ?ъ뾽湲고쉷쨌吏?먮?     援먯쑁쨌而ㅻ??덊떚遺     ?ъ슜?먃룹궗?뚯뿰援щ?
 ```
 
-> 기능부서는 임원진의 하위 조직이 아니라 **상시 역량 풀**입니다. 프로젝트/TF가 만들어지면 필요한 인원이 각 부서에서 TF로 교차 참여합니다.
-> 현재 명단은 **1차 희망 투표 기반 배정 후보**이며, 부서장 및 최종 소속은 운영 회의 후 확정합니다.
+> 湲곕뒫遺?쒕뒗 ?꾩썝吏꾩쓽 ?섏쐞 議곗쭅???꾨땲??**?곸떆 ??웾 ?**?낅땲?? ?꾨줈?앺듃/TF媛 留뚮뱾?댁?硫??꾩슂???몄썝??媛?遺?쒖뿉??TF濡?援먯감 李몄뿬?⑸땲??
+> ?꾩옱 紐낅떒? **1李??щ쭩 ?ы몴 湲곕컲 諛곗젙 ?꾨낫**?대ŉ, 遺?쒖옣 諛?理쒖쥌 ?뚯냽? ?댁쁺 ?뚯쓽 ???뺤젙?⑸땲??
 
 ### Department Mission
 
 | Department | Main Mission |
 | --- | --- |
-| 🧭 **전략기획부** | 신규 의제 발굴, 문제정의, 프로젝트 구조화, 로드맵·우선순위 설정 |
-| 📋 **프로젝트관리부 · PMO** | 일정·WBS, 업무분장, 회의·진척 관리, 산출물·회고 관리 |
-| 🧑‍💻 **기술연구개발부 · R&D** | AI·SW·HW·Embedded·Data 구현, 기술 검증 및 연구개발 |
-| 🎨 **디자인브랜딩부** | UX/UI, 시각화, 브랜드 아이덴티티, 발표자료·SNS·콘텐츠 |
-| 🤝 **대외협력부** | 교수·기업·기관·타대학 협력 및 외부 커뮤니케이션 |
-| 💼 **사업기획·지원부** | 예산, 사업계획서, 지원사업, 구매·행정, 사업화·운영지원 |
-| 🎓 **교육·커뮤니티부** | 세미나·스터디, 신규 멤버 온보딩, 행사·네트워킹·커뮤니티 운영 |
-| 🔎 **사용자·사회연구부** | 사용자 조사, UX Research, 정책·법·윤리·사회적 타당성, Human Review |
+| ?㎛ **?꾨왂湲고쉷遺** | ?좉퇋 ?섏젣 諛쒓뎬, 臾몄젣?뺤쓽, ?꾨줈?앺듃 援ъ“?? 濡쒕뱶留돠룹슦?좎닚???ㅼ젙 |
+| ?뱥 **?꾨줈?앺듃愿由щ? 쨌 PMO** | ?쇱젙쨌WBS, ?낅Т遺꾩옣, ?뚯쓽쨌吏꾩쿃 愿由? ?곗텧臾셋룻쉶怨?愿由?|
+| ?쭛?랅윊?**湲곗닠?곌뎄媛쒕컻遺 쨌 R&D** | AI쨌SW쨌HW쨌Embedded쨌Data 援ы쁽, 湲곗닠 寃利?諛??곌뎄媛쒕컻 |
+| ?렓 **?붿옄?몃툕?쒕뵫遺** | UX/UI, ?쒓컖?? 釉뚮옖???꾩씠?댄떚?? 諛쒗몴?먮즺쨌SNS쨌肄섑뀗痢?|
+| ?쩃 **??명삊?λ?** | 援먯닔쨌湲곗뾽쨌湲곌?쨌?????묐젰 諛??몃? 而ㅻ??덉??댁뀡 |
+| ?뮳 **?ъ뾽湲고쉷쨌吏?먮?** | ?덉궛, ?ъ뾽怨꾪쉷?? 吏?먯궗?? 援щℓ쨌?됱젙, ?ъ뾽?붋룹슫?곸???|
+| ?럳 **援먯쑁쨌而ㅻ??덊떚遺** | ?몃??샕룹뒪?곕뵒, ?좉퇋 硫ㅻ쾭 ?⑤낫?? ?됱궗쨌?ㅽ듃?뚰궧쨌而ㅻ??덊떚 ?댁쁺 |
+| ?뵊 **?ъ슜?먃룹궗?뚯뿰援щ?** | ?ъ슜??議곗궗, UX Research, ?뺤콉쨌踰빧룹쑄由?룹궗?뚯쟻 ??뱀꽦, Human Review |
 
 
-> **역할 구분:** 랩장은 프로젝트 통합·대외 창구, 수평 임원진은 각 책임 영역의 지원·검토, 프로젝트 팀장은 해당 TF의 실행 의사결정을 담당합니다.
-> 외부 일정과 중요 실증은 **랩장 · 담당 임원 · 프로젝트 팀장**이 함께 수행합니다. 전략기획부는 의제를 실행 가능한 프로젝트로 구조화하고, PMO는 실행과 완료 기록을 관리합니다.
+> **??븷 援щ텇:** ?⑹옣? ?꾨줈?앺듃 ?듯빀쨌???李쎄뎄, ?섑룊 ?꾩썝吏꾩? 媛?梨낆엫 ?곸뿭??吏?먃룰??? ?꾨줈?앺듃 ??μ? ?대떦 TF???ㅽ뻾 ?섏궗寃곗젙???대떦?⑸땲??
+> ?몃? ?쇱젙怨?以묒슂 ?ㅼ쬆? **?⑹옣 쨌 ?대떦 ?꾩썝 쨌 ?꾨줈?앺듃 ???*???④퍡 ?섑뻾?⑸땲?? ?꾨왂湲고쉷遺???섏젣瑜??ㅽ뻾 媛?ν븳 ?꾨줈?앺듃濡?援ъ“?뷀븯怨? PMO???ㅽ뻾怨??꾨즺 湲곕줉??愿由ы빀?덈떎.
 
 
 
 
-## Major-Aligned Assignment · 1차 기능부서 배정
+## Major-Aligned Assignment 쨌 1李?湲곕뒫遺??諛곗젙
 
-> **멤버 표시:** 각 부서 역시 **고학년 → 저학년**, 같은 학년에서는 **같은 학과·전공끼리 묶어서** 표시합니다.
+> **硫ㅻ쾭 ?쒖떆:** 媛?遺????떆 **怨좏븰??????숇뀈**, 媛숈? ?숇뀈?먯꽌??**媛숈? ?숆낵쨌?꾧났?쇰━ 臾띠뼱??* ?쒖떆?⑸땲??
 
-> **총 배정 인원: 31명**  
-> 중복 희망자는 1인 1기능부서를 기준으로 정리하되, **본인 희망을 우선하고 전공 적합성·인접 전공·단과대 연계성을 다음 기준으로 반영**했습니다.  
-> `상담 필요 / 역할 매칭 중` 인원은 인원수 균등 배정보다 **전공과 실제 역량이 가장 자연스럽게 연결되는 부서**를 우선했습니다.  
-> 따라서 부서별 인원은 동일하지 않으며, 기술계열 인원이 많은 현재 구성상 R&D가 가장 큰 부서가 되는 것을 허용합니다.
+> **珥?諛곗젙 ?몄썝: 31紐?*
+> 以묐났 ?щ쭩?먮뒗 1??1湲곕뒫遺?쒕? 湲곗??쇰줈 ?뺣━?섎릺, **蹂몄씤 ?щ쭩???곗꽑?섍퀬 ?꾧났 ?곹빀?굿룹씤???꾧났쨌?④낵? ?곌퀎?깆쓣 ?ㅼ쓬 湲곗??쇰줈 諛섏쁺**?덉뒿?덈떎.
+> `?곷떞 ?꾩슂 / ??븷 留ㅼ묶 以? ?몄썝? ?몄썝??洹좊벑 諛곗젙蹂대떎 **?꾧났怨??ㅼ젣 ??웾??媛???먯뿰?ㅻ읇寃??곌껐?섎뒗 遺??*瑜??곗꽑?덉뒿?덈떎.
+> ?곕씪??遺?쒕퀎 ?몄썝? ?숈씪?섏? ?딆쑝硫? 湲곗닠怨꾩뿴 ?몄썝??留롮? ?꾩옱 援ъ꽦??R&D媛 媛????遺?쒓? ?섎뒗 寃껋쓣 ?덉슜?⑸땲??
 
 ### Assignment Priority
 
 ```text
-본인 희망
-   ↓
-전공 적합성
-   ↓
-인접 전공 / 단과대 연계성
-   ↓
-프로젝트 경험 · 개인 역량
-   ↓
-부서 최소 운영인원 보완
+蹂몄씤 ?щ쭩
+   ??
+?꾧났 ?곹빀??
+   ??
+?몄젒 ?꾧났 / ?④낵? ?곌퀎??
+   ??
+?꾨줈?앺듃 寃쏀뿕 쨌 媛쒖씤 ??웾
+   ??
+遺??理쒖냼 ?댁쁺?몄썝 蹂댁셿
 ```
 
 ### Department Snapshot
 
-| 부서 | 인원 | 팀장 |
+| 遺??| ?몄썝 | ???|
 | --- | ---: | --- |
-| 🧭 전략기획부 | **4** | 미정 |
-| 📋 프로젝트관리부 · PMO | **4** | **구민우** |
-| 🧑‍💻 기술연구개발부 · R&D | **9** | **류종걸** |
-| 🎨 디자인브랜딩부 | **3** | 미정 |
-| 🤝 대외협력부 | **2** | 미정 |
-| 💼 사업기획·지원부 | **2** | 미정 |
-| 🎓 교육·커뮤니티부 | **2** | 미정 |
-| 🔎 사용자·사회연구부 | **5** | 미정 |
-| **합계** | **31** |  |
+| ?㎛ ?꾨왂湲고쉷遺 | **4** | 誘몄젙 |
+| ?뱥 ?꾨줈?앺듃愿由щ? 쨌 PMO | **4** | **援щ???* |
+| ?쭛?랅윊?湲곗닠?곌뎄媛쒕컻遺 쨌 R&D | **9** | **瑜섏쥌嫄?* |
+| ?렓 ?붿옄?몃툕?쒕뵫遺 | **3** | 誘몄젙 |
+| ?쩃 ??명삊?λ? | **2** | 誘몄젙 |
+| ?뮳 ?ъ뾽湲고쉷쨌吏?먮? | **2** | 誘몄젙 |
+| ?럳 援먯쑁쨌而ㅻ??덊떚遺 | **2** | 誘몄젙 |
+| ?뵊 ?ъ슜?먃룹궗?뚯뿰援щ? | **5** | 誘몄젙 |
+| **?⑷퀎** | **31** |  |
 
 
-## 🧭 전략기획부 · 4명
+## ?㎛ ?꾨왂湲고쉷遺 쨌 4紐?
 
-> **팀장: 미정**
+> **??? 誘몄젙**
 
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="김규태 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>김규태</b></sub><br>
-<sub>2학년 · 컴퓨터공학</sub>
+<img src="https://github.com/ghost.png?size=160" width="82" alt="源洹쒗깭 GitHub pending">
+<br><b>GitHub 以鍮꾩쨷</b><br>
+<sub><b>源洹쒗깭</b></sub><br>
+<sub>2?숇뀈 쨌 而댄벂?곌났??/sub>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/shield-761">
-<img src="https://github.com/shield-761.png?size=160" width="82" alt="정한빈">
+<img src="https://github.com/shield-761.png?size=160" width="82" alt="?뺥븳鍮?>
 <br><b>@shield-761</b>
 </a><br>
-<sub><b>정한빈</b></sub><br>
-<sub>1학년 · 게임공학</sub>
+<sub><b>?뺥븳鍮?/b></sub><br>
+<sub>1?숇뀈 쨌 寃뚯엫怨듯븰</sub>
 </td>
 <td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="이승민 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>이승민</b></sub><br>
-<sub>1학년 · 컴퓨터공학</sub>
+<img src="https://github.com/ghost.png?size=160" width="82" alt="?댁듅誘?GitHub pending">
+<br><b>GitHub 以鍮꾩쨷</b><br>
+<sub><b>?댁듅誘?/b></sub><br>
+<sub>1?숇뀈 쨌 而댄벂?곌났??/sub>
 </td>
 <td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="정취영 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>정취영</b></sub><br>
-<sub>1학년 · 행정학</sub>
+<img src="https://github.com/ghost.png?size=160" width="82" alt="?뺤랬??GitHub pending">
+<br><b>GitHub 以鍮꾩쨷</b><br>
+<sub><b>?뺤랬??/b></sub><br>
+<sub>1?숇뀈 쨌 ?됱젙??/sub>
 </td>
 </tr>
 </table>
 
 
-## 📋 프로젝트관리부 · PMO · 4명
+## ?뱥 ?꾨줈?앺듃愿由щ? 쨌 PMO 쨌 4紐?
 
-> **팀장: 구민우 · 1학년 · IT경영정보**
+> **??? 援щ???쨌 1?숇뀈 쨌 IT寃쎌쁺?뺣낫**
 
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/minwoo9">
-<img src="https://github.com/minwoo9.png?size=160" width="82" alt="구민우">
+<img src="https://github.com/minwoo9.png?size=160" width="82" alt="援щ???>
 <br><b>@minwoo9</b>
 </a><br>
-<sub><b>구민우</b></sub><br>
-<sub>1학년 · IT경영정보</sub><br><sub><b>팀장 · Department Lead</b></sub>
+<sub><b>援щ???/b></sub><br>
+<sub>1?숇뀈 쨌 IT寃쎌쁺?뺣낫</sub><br><sub><b>???쨌 Department Lead</b></sub>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/min020676">
-<img src="https://github.com/min020676.png?size=160" width="82" alt="최민성">
+<img src="https://github.com/min020676.png?size=160" width="82" alt="理쒕???>
 <br><b>@min020676</b>
 </a><br>
-<sub><b>최민성</b></sub><br>
-<sub>1학년 · IT경영정보</sub>
+<sub><b>理쒕???/b></sub><br>
+<sub>1?숇뀈 쨌 IT寃쎌쁺?뺣낫</sub>
 </td>
 <td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="김승조 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>김승조</b></sub><br>
-<sub>1학년 · 게임공학</sub>
+<img src="https://github.com/ghost.png?size=160" width="82" alt="源?뱀“ GitHub pending">
+<br><b>GitHub 以鍮꾩쨷</b><br>
+<sub><b>源?뱀“</b></sub><br>
+<sub>1?숇뀈 쨌 寃뚯엫怨듯븰</sub>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/overflow-52">
-<img src="https://github.com/overflow-52.png?size=160" width="82" alt="이혜성">
+<img src="https://github.com/overflow-52.png?size=160" width="82" alt="?댄삙??>
 <br><b>@overflow-52</b>
 </a><br>
-<sub><b>이혜성</b></sub><br>
-<sub>1학년 · 경찰법학</sub>
+<sub><b>?댄삙??/b></sub><br>
+<sub>1?숇뀈 쨌 寃쎌같踰뺥븰</sub>
 </td>
 </tr>
 </table>
 
 
-## 🧑‍💻 기술연구개발부 · R&D · 9명
+## ?쭛?랅윊?湲곗닠?곌뎄媛쒕컻遺 쨌 R&D 쨌 9紐?
 
-> **팀장: 류종걸 · 3학년 · 컴퓨터공학**
+> **??? 瑜섏쥌嫄?쨌 3?숇뀈 쨌 而댄벂?곌났??*
 
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/jaeh040817">
-<img src="https://github.com/jaeh040817.png?size=160" width="82" alt="유재현">
+<img src="https://github.com/jaeh040817.png?size=160" width="82" alt="?좎옱??>
 <br><b>@jaeh040817</b>
 </a><br>
-<sub><b>유재현</b></sub><br>
-<sub>3학년 · 정보보안학</sub>
+<sub><b>?좎옱??/b></sub><br>
+<sub>3?숇뀈 쨌 ?뺣낫蹂댁븞??/sub>
 </td>
 <td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="류종걸 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>류종걸</b></sub><br>
-<sub>3학년 · 컴퓨터공학</sub><br><sub><b>팀장 · Department Lead</b></sub>
+<img src="https://github.com/ghost.png?size=160" width="82" alt="瑜섏쥌嫄?GitHub pending">
+<br><b>GitHub 以鍮꾩쨷</b><br>
+<sub><b>瑜섏쥌嫄?/b></sub><br>
+<sub>3?숇뀈 쨌 而댄벂?곌났??/sub><br><sub><b>???쨌 Department Lead</b></sub>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/SeongJun08">
-<img src="https://github.com/SeongJun08.png?size=160" width="82" alt="심승준">
+<img src="https://github.com/SeongJun08.png?size=160" width="82" alt="?ъ듅以">
 <br><b>@SeongJun08</b>
 </a><br>
-<sub><b>심승준</b></sub><br>
-<sub>2학년 · 컴퓨터공학</sub>
+<sub><b>?ъ듅以</b></sub><br>
+<sub>2?숇뀈 쨌 而댄벂?곌났??/sub>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/seongjun018">
-<img src="https://github.com/seongjun018.png?size=160" width="82" alt="박성준">
+<img src="https://github.com/seongjun018.png?size=160" width="82" alt="諛뺤꽦以">
 <br><b>@seongjun018</b>
 </a><br>
-<sub><b>박성준</b></sub><br>
-<sub>1학년 · 드론로봇공학</sub>
+<sub><b>諛뺤꽦以</b></sub><br>
+<sub>1?숇뀈 쨌 ?쒕줎濡쒕큸怨듯븰</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="주현우 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>주현우</b></sub><br>
-<sub>1학년 · 드론로봇공학</sub>
+<img src="https://github.com/ghost.png?size=160" width="82" alt="二쇳쁽??GitHub pending">
+<br><b>GitHub 以鍮꾩쨷</b><br>
+<sub><b>二쇳쁽??/b></sub><br>
+<sub>1?숇뀈 쨌 ?쒕줎濡쒕큸怨듯븰</sub>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/seoyul1128">
-<img src="https://github.com/seoyul1128.png?size=160" width="82" alt="이서율">
+<img src="https://github.com/seoyul1128.png?size=160" width="82" alt="?댁꽌??>
 <br><b>@seoyul1128</b>
 </a><br>
-<sub><b>이서율</b></sub><br>
-<sub>1학년 · 소프트웨어학</sub>
+<sub><b>?댁꽌??/b></sub><br>
+<sub>1?숇뀈 쨌 ?뚰봽?몄썾?댄븰</sub>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/wjddbgks4046-ai">
-<img src="https://github.com/wjddbgks4046-ai.png?size=160" width="82" alt="정유한">
+<img src="https://github.com/wjddbgks4046-ai.png?size=160" width="82" alt="?뺤쑀??>
 <br><b>@wjddbgks4046-ai</b>
 </a><br>
-<sub><b>정유한</b></sub><br>
-<sub>1학년 · 전기전자공학</sub>
+<sub><b>?뺤쑀??/b></sub><br>
+<sub>1?숇뀈 쨌 ?꾧린?꾩옄怨듯븰</sub>
 </td>
 <td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="김동하 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>김동하</b></sub><br>
-<sub>1학년 · 컴퓨터공학</sub>
+<img src="https://github.com/ghost.png?size=160" width="82" alt="源?숉븯 GitHub pending">
+<br><b>GitHub 以鍮꾩쨷</b><br>
+<sub><b>源?숉븯</b></sub><br>
+<sub>1?숇뀈 쨌 而댄벂?곌났??/sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="문강민 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>문강민</b></sub><br>
-<sub>1학년 · 컴퓨터공학</sub>
+<img src="https://github.com/ghost.png?size=160" width="82" alt="臾멸컯誘?GitHub pending">
+<br><b>GitHub 以鍮꾩쨷</b><br>
+<sub><b>臾멸컯誘?/b></sub><br>
+<sub>1?숇뀈 쨌 而댄벂?곌났??/sub>
 </td>
 <td width="25%"></td>
 <td width="25%"></td>
@@ -625,60 +602,60 @@ Interactive Exhibition / Performance
 </table>
 
 
-## 🎨 디자인브랜딩부 · 3명
+## ?렓 ?붿옄?몃툕?쒕뵫遺 쨌 3紐?
 
-> **팀장: 미정**
+> **??? 誘몄젙**
 
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="이민준 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>이민준</b></sub><br>
-<sub>2학년 · 커뮤니케이션디자인</sub>
+<img src="https://github.com/ghost.png?size=160" width="82" alt="?대?以 GitHub pending">
+<br><b>GitHub 以鍮꾩쨷</b><br>
+<sub><b>?대?以</b></sub><br>
+<sub>2?숇뀈 쨌 而ㅻ??덉??댁뀡?붿옄??/sub>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/h-ng21o">
-<img src="https://github.com/h-ng21o.png?size=160" width="82" alt="홍정우">
+<img src="https://github.com/h-ng21o.png?size=160" width="82" alt="?띿젙??>
 <br><b>@h-ng21o</b>
 </a><br>
-<sub><b>홍정우</b></sub><br>
-<sub>2학년 · 컴퓨터공학</sub>
+<sub><b>?띿젙??/b></sub><br>
+<sub>2?숇뀈 쨌 而댄벂?곌났??/sub>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/sera881">
-<img src="https://github.com/sera881.png?size=160" width="82" alt="신세라">
+<img src="https://github.com/sera881.png?size=160" width="82" alt="?좎꽭??>
 <br><b>@sera881</b>
 </a><br>
-<sub><b>신세라</b></sub><br>
-<sub>1학년 · 조경</sub>
+<sub><b>?좎꽭??/b></sub><br>
+<sub>1?숇뀈 쨌 議곌꼍</sub>
 </td>
 <td width="25%"></td>
 </tr>
 </table>
 
 
-## 🤝 대외협력부 · 2명
+## ?쩃 ??명삊?λ? 쨌 2紐?
 
-> **팀장: 미정**
+> **??? 誘몄젙**
 
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/haeum8877">
-<img src="https://github.com/haeum8877.png?size=160" width="82" alt="박하음">
+<img src="https://github.com/haeum8877.png?size=160" width="82" alt="諛뺥븯??>
 <br><b>@haeum8877</b>
 </a><br>
-<sub><b>박하음</b></sub><br>
-<sub>1학년 · 건축</sub>
+<sub><b>諛뺥븯??/b></sub><br>
+<sub>1?숇뀈 쨌 嫄댁텞</sub>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/jack070401">
-<img src="https://github.com/jack070401.png?size=160" width="82" alt="장성빈">
+<img src="https://github.com/jack070401.png?size=160" width="82" alt="?μ꽦鍮?>
 <br><b>@jack070401</b>
 </a><br>
-<sub><b>장성빈</b></sub><br>
-<sub>1학년 · 전기전자공학</sub>
+<sub><b>?μ꽦鍮?/b></sub><br>
+<sub>1?숇뀈 쨌 ?꾧린?꾩옄怨듯븰</sub>
 </td>
 <td width="25%"></td>
 <td width="25%"></td>
@@ -686,23 +663,23 @@ Interactive Exhibition / Performance
 </table>
 
 
-## 💼 사업기획·지원부 · 2명
+## ?뮳 ?ъ뾽湲고쉷쨌吏?먮? 쨌 2紐?
 
-> **팀장: 미정**
+> **??? 誘몄젙**
 
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="권재현 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>권재현</b></sub><br>
-<sub>1학년 · IT경영정보</sub>
+<img src="https://github.com/ghost.png?size=160" width="82" alt="沅뚯옱??GitHub pending">
+<br><b>GitHub 以鍮꾩쨷</b><br>
+<sub><b>沅뚯옱??/b></sub><br>
+<sub>1?숇뀈 쨌 IT寃쎌쁺?뺣낫</sub>
 </td>
 <td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="이지환 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>이지환</b></sub><br>
-<sub>1학년 · 외식조리</sub>
+<img src="https://github.com/ghost.png?size=160" width="82" alt="?댁???GitHub pending">
+<br><b>GitHub 以鍮꾩쨷</b><br>
+<sub><b>?댁???/b></sub><br>
+<sub>1?숇뀈 쨌 ?몄떇議곕━</sub>
 </td>
 <td width="25%"></td>
 <td width="25%"></td>
@@ -710,27 +687,27 @@ Interactive Exhibition / Performance
 </table>
 
 
-## 🎓 교육·커뮤니티부 · 2명
+## ?럳 援먯쑁쨌而ㅻ??덊떚遺 쨌 2紐?
 
-> **팀장: 미정**
+> **??? 誘몄젙**
 
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/happurity">
-<img src="https://github.com/happurity.png?size=160" width="82" alt="심주연">
+<img src="https://github.com/happurity.png?size=160" width="82" alt="?ъ＜??>
 <br><b>@happurity</b>
 </a><br>
-<sub><b>심주연</b></sub><br>
-<sub>1학년 · 경찰법학</sub>
+<sub><b>?ъ＜??/b></sub><br>
+<sub>1?숇뀈 쨌 寃쎌같踰뺥븰</sub>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/guswls0520">
-<img src="https://github.com/guswls0520.png?size=160" width="82" alt="정현진">
+<img src="https://github.com/guswls0520.png?size=160" width="82" alt="?뺥쁽吏?>
 <br><b>@guswls0520</b>
 </a><br>
-<sub><b>정현진</b></sub><br>
-<sub>1학년 · 식품영양</sub>
+<sub><b>?뺥쁽吏?/b></sub><br>
+<sub>1?숇뀈 쨌 ?앺뭹?곸뼇</sub>
 </td>
 <td width="25%"></td>
 <td width="25%"></td>
@@ -738,160 +715,160 @@ Interactive Exhibition / Performance
 </table>
 
 
-## 🔎 사용자·사회연구부 · 5명
+## ?뵊 ?ъ슜?먃룹궗?뚯뿰援щ? 쨌 5紐?
 
-> **팀장: 미정**
+> **??? 誘몄젙**
 
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="조서렴 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>조서렴</b></sub><br>
-<sub>1학년 · 간호</sub>
+<img src="https://github.com/ghost.png?size=160" width="82" alt="議곗꽌??GitHub pending">
+<br><b>GitHub 以鍮꾩쨷</b><br>
+<sub><b>議곗꽌??/b></sub><br>
+<sub>1?숇뀈 쨌 媛꾪샇</sub>
 </td>
 <td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="김민주 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>김민주</b></sub><br>
-<sub>1학년 · 간호</sub>
+<img src="https://github.com/ghost.png?size=160" width="82" alt="源誘쇱＜ GitHub pending">
+<br><b>GitHub 以鍮꾩쨷</b><br>
+<sub><b>源誘쇱＜</b></sub><br>
+<sub>1?숇뀈 쨌 媛꾪샇</sub>
 </td>
 <td align="center" width="25%" valign="top">
 <a href="https://github.com/jeonghawaii07">
-<img src="https://github.com/jeonghawaii07.png?size=160" width="82" alt="김정환">
+<img src="https://github.com/jeonghawaii07.png?size=160" width="82" alt="源?뺥솚">
 <br><b>@jeonghawaii07</b>
 </a><br>
-<sub><b>김정환</b></sub><br>
-<sub>1학년 · 보건의료복지</sub>
+<sub><b>源?뺥솚</b></sub><br>
+<sub>1?숇뀈 쨌 蹂닿굔?섎즺蹂듭?</sub>
 </td>
 <td align="center" width="25%" valign="top">
-<img src="https://github.com/ghost.png?size=160" width="82" alt="신효림 GitHub pending">
-<br><b>GitHub 준비중</b><br>
-<sub><b>신효림</b></sub><br>
-<sub>1학년 · 보건의료복지</sub>
+<img src="https://github.com/ghost.png?size=160" width="82" alt="?좏슚由?GitHub pending">
+<br><b>GitHub 以鍮꾩쨷</b><br>
+<sub><b>?좏슚由?/b></sub><br>
+<sub>1?숇뀈 쨌 蹂닿굔?섎즺蹂듭?</sub>
 </td>
 </tr>
 </table>
 
 ### Assignment Notes
 
-- **전기전자 · 드론로봇 · 정보보안 · 컴퓨터/SW 계열**은 기본적으로 기술연구개발부 R&D와의 적합성을 우선했습니다.
-- **디자인브랜딩부**는 커뮤니케이션디자인을 중심으로, 디자인 희망자와 조경 등 인접 시각·공간 전공을 배치했습니다.
-- **사용자·사회연구부**는 보건의료복지·간호 등 사용자·현장 관찰과 검증에 강한 전공을 우선 배치했습니다.
-- 중복 희망자는 최초 희망을 무시하지 않고, 다른 부서의 적합도와 비교하여 최종 1개 부서로 정리했습니다.
-- 기능부서는 고정 신분이 아니라 활동 결과와 본인 희망에 따라 이동할 수 있습니다.
+- **?꾧린?꾩옄 쨌 ?쒕줎濡쒕큸 쨌 ?뺣낫蹂댁븞 쨌 而댄벂??SW 怨꾩뿴**? 湲곕낯?곸쑝濡?湲곗닠?곌뎄媛쒕컻遺 R&D????곹빀?깆쓣 ?곗꽑?덉뒿?덈떎.
+- **?붿옄?몃툕?쒕뵫遺**??而ㅻ??덉??댁뀡?붿옄?몄쓣 以묒떖?쇰줈, ?붿옄???щ쭩?먯? 議곌꼍 ???몄젒 ?쒓컖쨌怨듦컙 ?꾧났??諛곗튂?덉뒿?덈떎.
+- **?ъ슜?먃룹궗?뚯뿰援щ?**??蹂닿굔?섎즺蹂듭?쨌媛꾪샇 ???ъ슜?먃룻쁽??愿李곌낵 寃利앹뿉 媛뺥븳 ?꾧났???곗꽑 諛곗튂?덉뒿?덈떎.
+- 以묐났 ?щ쭩?먮뒗 理쒖큹 ?щ쭩??臾댁떆?섏? ?딄퀬, ?ㅻⅨ 遺?쒖쓽 ?곹빀?꾩? 鍮꾧탳?섏뿬 理쒖쥌 1媛?遺?쒕줈 ?뺣━?덉뒿?덈떎.
+- 湲곕뒫遺?쒕뒗 怨좎젙 ?좊텇???꾨땲???쒕룞 寃곌낵? 蹂몄씤 ?щ쭩???곕씪 ?대룞?????덉뒿?덈떎.
 
 ---
 
-# 🏫 College / Major Network · 단과대·전공 네트워크
+# ?룶 College / Major Network 쨌 ?④낵?쨌?꾧났 ?ㅽ듃?뚰겕
 
-전공 네트워크는 각 멤버가 프로젝트에서 제공할 **도메인 전문성**을 보여줍니다.
+?꾧났 ?ㅽ듃?뚰겕??媛?硫ㅻ쾭媛 ?꾨줈?앺듃?먯꽌 ?쒓났??**?꾨찓???꾨Ц??*??蹂댁뿬以띾땲??
 
 
-## 인문사회대학 · 3명
+## ?몃Ц?ы쉶???쨌 3紐?
 
-| 전공 | 멤버 |
+| ?꾧났 | 硫ㅻ쾭 |
 | --- | --- |
 
-| 행정학 | 정취영 (1학년) |
+| ?됱젙??| ?뺤랬??(1?숇뀈) |
 
-| 경찰법학 | [**이혜성 · @overflow-52**](https://github.com/overflow-52) (1학년), [**심주연 · @happurity**](https://github.com/happurity) (1학년) |
+| 寃쎌같踰뺥븰 | [**?댄삙??쨌 @overflow-52**](https://github.com/overflow-52) (1?숇뀈), [**?ъ＜??쨌 @happurity**](https://github.com/happurity) (1?숇뀈) |
 
 
 
-## 경영대학 · 5명
+## 寃쎌쁺???쨌 5紐?
 
-| 전공 | 멤버 |
+| ?꾧났 | 硫ㅻ쾭 |
 | --- | --- |
 
-| 경영학 | 문시우 (1학년) |
+| 寃쎌쁺??| 臾몄떆??(1?숇뀈) |
 
-| IT경영정보 | [**구민우 · @minwoo9**](https://github.com/minwoo9) (1학년), 권재현 (1학년), 신동우 (1학년), [**최민성 · @min020676**](https://github.com/min020676) (1학년) |
+| IT寃쎌쁺?뺣낫 | [**援щ???쨌 @minwoo9**](https://github.com/minwoo9) (1?숇뀈), 沅뚯옱??(1?숇뀈), ?좊룞??(1?숇뀈), [**理쒕???쨌 @min020676**](https://github.com/min020676) (1?숇뀈) |
 
 
 
-## 생명보건대학 · 10명
+## ?앸챸蹂닿굔???쨌 10紐?
 
-| 전공 | 멤버 |
+| ?꾧났 | 硫ㅻ쾭 |
 | --- | --- |
 
-| 보건의료복지 | [**김정환 · @jeonghawaii07**](https://github.com/jeonghawaii07) (1학년), 신효림 (1학년) |
+| 蹂닿굔?섎즺蹂듭? | [**源?뺥솚 쨌 @jeonghawaii07**](https://github.com/jeonghawaii07) (1?숇뀈), ?좏슚由?(1?숇뀈) |
 
-| 식품영양 | 김규리 (3학년), [**정현진 · @guswls0520**](https://github.com/guswls0520) (1학년) |
+| ?앺뭹?곸뼇 | 源洹쒕━ (3?숇뀈), [**?뺥쁽吏?쨌 @guswls0520**](https://github.com/guswls0520) (1?숇뀈) |
 
-| 간호 | 김민주 (1학년), 최윤성 (1학년), 조서렴 (1학년) |
+| 媛꾪샇 | 源誘쇱＜ (1?숇뀈), 理쒖쑄??(1?숇뀈), 議곗꽌??(1?숇뀈) |
 
-| 외식조리 | 이지환 (1학년) |
+| ?몄떇議곕━ | ?댁???(1?숇뀈) |
 
-| 원예산림 | 이금령 (4학년), 김현규 (4학년) |
+| ?먯삁?곕┝ | ?닿툑??(4?숇뀈), 源?꾧퇋 (4?숇뀈) |
 
 
 
-## AI·SW창의융합대학 · 27명
+## AI쨌SW李쎌쓽?듯빀???쨌 27紐?
 
-| 전공 | 멤버 |
+| ?꾧났 | 硫ㅻ쾭 |
 | --- | --- |
 
-| 컴퓨터공학 | [**심승준 · @SeongJun08**](https://github.com/SeongJun08) (2학년), [**홍정우 · @h-ng21o**](https://github.com/h-ng21o) (2학년), 김규태 (2학년), [**이영준 · @gxmzung**](https://github.com/gxmzung) (1학년), 김동하 (1학년), 이승민 (1학년), 최태현 (1학년), 문강민 (1학년), 임준호 (1학년), 김준민 (1학년), 소지성 (1학년), 최이솔 (1학년), 최수현 (1학년) |
+| 而댄벂?곌났??| [**?ъ듅以 쨌 @SeongJun08**](https://github.com/SeongJun08) (2?숇뀈), [**?띿젙??쨌 @h-ng21o**](https://github.com/h-ng21o) (2?숇뀈), 源洹쒗깭 (2?숇뀈), [**?댁쁺以 쨌 @gxmzung**](https://github.com/gxmzung) (1?숇뀈), 源?숉븯 (1?숇뀈), ?댁듅誘?(1?숇뀈), 理쒗깭??(1?숇뀈), 臾멸컯誘?(1?숇뀈), ?꾩???(1?숇뀈), 源以誘?(1?숇뀈), ?뚯???(1?숇뀈), 理쒖씠??(1?숇뀈), 理쒖닔??(1?숇뀈) |
 
-| 소프트웨어학 | [**이서율 · @seoyul1128**](https://github.com/seoyul1128) (1학년) |
+| ?뚰봽?몄썾?댄븰 | [**?댁꽌??쨌 @seoyul1128**](https://github.com/seoyul1128) (1?숇뀈) |
 
-| 게임공학 | 김승조 (1학년), [**정한빈 · @shield-761**](https://github.com/shield-761) (1학년) |
+| 寃뚯엫怨듯븰 | 源?뱀“ (1?숇뀈), [**?뺥븳鍮?쨌 @shield-761**](https://github.com/shield-761) (1?숇뀈) |
 
-| 드론로봇공학 | [**박성준 · @seongjun018**](https://github.com/seongjun018) (1학년), 주현우 (1학년), 윤경환 (1학년) |
+| ?쒕줎濡쒕큸怨듯븰 | [**諛뺤꽦以 쨌 @seongjun018**](https://github.com/seongjun018) (1?숇뀈), 二쇳쁽??(1?숇뀈), ?ㅺ꼍??(1?숇뀈) |
 
-| 전기전자공학 | [**김민찬 · @chan1150**](https://github.com/chan1150) (1학년), [**정유한 · @wjddbgks4046-ai**](https://github.com/wjddbgks4046-ai) (1학년), [**장성빈 · @jack070401**](https://github.com/jack070401) (1학년) |
+| ?꾧린?꾩옄怨듯븰 | [**源誘쇱갔 쨌 @chan1150**](https://github.com/chan1150) (1?숇뀈), [**?뺤쑀??쨌 @wjddbgks4046-ai**](https://github.com/wjddbgks4046-ai) (1?숇뀈), [**?μ꽦鍮?쨌 @jack070401**](https://github.com/jack070401) (1?숇뀈) |
 
-| 철도건설공학 | 홍준형 (1학년) |
+| 泥좊룄嫄댁꽕怨듯븰 | ?띿???(1?숇뀈) |
 
-| 정보보안학 | [**유재현 · @jaeh040817**](https://github.com/jaeh040817) (3학년), 이건형 (2학년), 김태하 (1학년), 김지효 (1학년) |
+| ?뺣낫蹂댁븞??| [**?좎옱??쨌 @jaeh040817**](https://github.com/jaeh040817) (3?숇뀈), ?닿굔??(2?숇뀈), 源?쒗븯 (1?숇뀈), 源吏??(1?숇뀈) |
 
 
 
-## 문화예술대학 · 8명
+## 臾명솕?덉닠???쨌 8紐?
 
-| 전공 | 멤버 |
+| ?꾧났 | 硫ㅻ쾭 |
 | --- | --- |
 
-| 레저스포츠 | [**곽민규 · @minixdbxkyuu**](https://github.com/minixdbxkyuu) (1학년) |
+| ?덉??ㅽ룷痢?| [**怨쎈?洹?쨌 @minixdbxkyuu**](https://github.com/minixdbxkyuu) (1?숇뀈) |
 
-| 미디어콘텐츠 | 손지원 (1학년) |
+| 誘몃뵒?댁퐯?먯툩 | ?먯???(1?숇뀈) |
 
-| 건축 | [**박하음 · @haeum8877**](https://github.com/haeum8877) (1학년), 장지훈 (1학년) |
+| 嫄댁텞 | [**諛뺥븯??쨌 @haeum8877**](https://github.com/haeum8877) (1?숇뀈), ?μ???(1?숇뀈) |
 
-| 커뮤니케이션디자인 | 이민준 (2학년), 양우진 (1학년), 신유진 (1학년) |
+| 而ㅻ??덉??댁뀡?붿옄??| ?대?以 (2?숇뀈), ?묒슦吏?(1?숇뀈), ?좎쑀吏?(1?숇뀈) |
 
-| 조경 | [**신세라 · @sera881**](https://github.com/sera881) (1학년) |
+| 議곌꼍 | [**?좎꽭??쨌 @sera881**](https://github.com/sera881) (1?숇뀈) |
 
 
 
 ---
 
-# 📊 Organization Snapshot
+# ?뱤 Organization Snapshot
 
-| 구분 | 현황 |
+| 援щ텇 | ?꾪솴 |
 | --- | ---: |
-| 전체 활동 구성원 | **53명** |
-| 참여 전공 / 분야 | **21개** |
-| 기능부서 | **8개** |
-| Project / TF | **과업별 탄력 운영** |
-| 조직 구조 | **Matrix + TF** |
+| ?꾩껜 ?쒕룞 援ъ꽦??| **53紐?* |
+| 李몄뿬 ?꾧났 / 遺꾩빞 | **21媛?* |
+| 湲곕뒫遺??| **8媛?* |
+| Project / TF | **怨쇱뾽蹂??꾨젰 ?댁쁺** |
+| 議곗쭅 援ъ“ | **Matrix + TF** |
 
 ---
 
-# 🔄 Role & Handover Policy
+# ?봽 Role & Handover Policy
 
-- 한 멤버는 여러 TF에 참여할 수 있지만 핵심 프로젝트는 `0~2개`를 권장합니다.
-- 전공은 실제 학생 소속, 기능부서는 지속 역량, TF는 실제 문제 해결 단위로 기록합니다.
-- GitHub 계정이 확인된 멤버는 프로필 이미지와 계정을 연결합니다.
-- TF 종료 후에도 코드·데이터·문서·발표자료·역할·의사결정 기록을 남깁니다.
-- 군 복무·휴학·복학·졸업·신규 모집은 연도별 로스터로 관리합니다.
+- ??硫ㅻ쾭???щ윭 TF??李몄뿬?????덉?留??듭떖 ?꾨줈?앺듃??`0~2媛?瑜?沅뚯옣?⑸땲??
+- ?꾧났? ?ㅼ젣 ?숈깮 ?뚯냽, 湲곕뒫遺?쒕뒗 吏????웾, TF???ㅼ젣 臾몄젣 ?닿껐 ?⑥쐞濡?湲곕줉?⑸땲??
+- GitHub 怨꾩젙???뺤씤??硫ㅻ쾭???꾨줈???대?吏? 怨꾩젙???곌껐?⑸땲??
+- TF 醫낅즺 ?꾩뿉??肄붾뱶쨌?곗씠?걔룸Ц?쑣룸컻?쒖옄猷뙿룹뿭?졖룹쓽?ш껐??湲곕줉???④퉩?덈떎.
+- 援?蹂듬Т쨌?댄븰쨌蹂듯븰쨌議몄뾽쨌?좉퇋 紐⑥쭛? ?곕룄蹂?濡쒖뒪?곕줈 愿由ы빀?덈떎.
 
 ```text
-IDEA → TF FORMATION → DEFINE → BUILD → VALIDATE → EVIDENCE → CONTINUE / CLOSE
+IDEA ??TF FORMATION ??DEFINE ??BUILD ??VALIDATE ??EVIDENCE ??CONTINUE / CLOSE
 ```
 
 ---
 
-<p align="center"><b>PAICHAI NEXUS</b><br>LAB COUNCIL · PROJECT / TF · FUNCTION · MAJOR NETWORK</p>
-<p align="center"><sub>사람을 잇고, 가능성을 열다.</sub></p>
+<p align="center"><b>PAICHAI NEXUS</b><br>LAB COUNCIL 쨌 PROJECT / TF 쨌 FUNCTION 쨌 MAJOR NETWORK</p>
+<p align="center"><sub>?щ엺???뉕퀬, 媛?μ꽦???대떎.</sub></p>
