@@ -355,6 +355,7 @@ NEXUS는 프로젝트에 필요한 역할을 다음과 같은 분야로 나누�
 | 연구·개발 | [이서율](https://github.com/seoyul1128) · 담당 임원 |
 | 디자인·소통 | [박하음](https://github.com/haeum8877) · 담당 임원 / 이민준 · 임시 팀장 |
 | 대외협력 | [구민우](https://github.com/minwoo9) · 담당 임원 |
+| 운영지원 | [최민성](https://github.com/min020676) · 담당 임원 / 김민찬 · 임시 팀장 |
 | 교육·행사 | 류종걸 · 임시 팀장 |
 | 인문사회·사용자 연구 | [심주연](https://github.com/happurity) · 임시 팀장 |
 
