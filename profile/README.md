@@ -138,33 +138,43 @@ Smart Seedling AI는 작물의 이미지와 온도·습도 같은 환경 정보�
 
 ## 현재 프로젝트
 
-| 프로젝트 | 현재 목표 | 상태 | 저장소 |
-| --- | --- | --- | --- |
-| 🌱 [Smart Seedling AI](https://github.com/paichai-nexus/smart-seedling-ai) | 이미지와 환경 데이터 수집 및 화면 표시 | `진행 중` | [저장소](https://github.com/paichai-nexus/smart-seedling-ai) |
-| 🎓 [Paejae Pick 2.0](https://github.com/paichai-nexus/paejae-pick-2-app) | 기존 서비스 관리 및 필요한 기능 개선 | `유지·개선` | [저장소](https://github.com/paichai-nexus/paejae-pick-2-app) |
-| 🍽️ Zero-Waste FoodTech | 식재료 인식과 레시피 추천 가능성 조사 | `준비 중` | 저장소 준비 중 |
+NEXUS의 공식 프로젝트는 코드 유무와 관계없이 **책임자, 현재 상태, 다음 목표와 기록**을 기준으로 관리합니다.
 
-### 🍽️ Zero-Waste FoodTech
+전체 프로젝트 현황은 [**NEXUS Project Registry →**](https://github.com/paichai-nexus/nexus-project-registry)에서 확인할 수 있습니다.
 
-> 식품영양학과 × 외식조리학과 × 컴퓨터공학과
+| 프로젝트 | 현재 목표 | 상태 | Project Lead | 저장소 |
+| --- | --- | --- | --- | --- |
+| 🌱 Smart Seedling AI | 이미지·환경 데이터 기반 생육 관찰 연구 플랫폼 구축 | `Active` | 김현규 | [저장소](https://github.com/paichai-nexus/smart-seedling-ai) |
+| 🎓 Paejae Pick 2.0 | 스마트 캠퍼스 기능 고도화 및 실제 연동 조건 정리 | `Active` | 이영준 | [저장소](https://github.com/paichai-nexus/paejae-pick-2-app) |
+| 🗳️ NEXUS Event Platform | 제24회 경영대학 학술제 QR 인증·투표·심사·집계 시스템 | `Active · Official Deployment` | 확정 필요 | [저장소](https://github.com/paichai-nexus/nexus-event-platform) |
+| 🤖 ROS2 Campus Autonomous Delivery Robot | 캠퍼스 환경 저속 자율주행·배송 로봇 연구 | `Prototype` | 확정 필요 | [저장소](https://github.com/paichai-nexus/ros2-campus-autonomous-delivery-robot) |
+| 🌐 International Logistics Learning Support | 국제물류론 유학생·내국인 공동 수업 보조자료 시제품 | `Prototype` | 확정 필요 | [저장소](https://github.com/paichai-nexus/logistics-learning-support) |
+| 🏥 Healthcare HIS | 의료·간호 업무 흐름 기반 HIS 요구사항 정의 | `Planning` | 확정 필요 | [저장소](https://github.com/paichai-nexus/healthcare-his) |
+| 🚇 Tunnel Stability Research | 터널 지질·안정성 연구 범위 및 데이터 정의 | `Planning` | 확정 필요 | [저장소](https://github.com/paichai-nexus/tunnel-stability-research) |
+| 🍽️ Zero-Waste FoodTech | 식재료 활용·조리·영양 검증 프로젝트 범위 확정 | `Planning` | 김규리 | [저장소](https://github.com/paichai-nexus/zero-waste-foodtech) |
+| 🏃 Elite Youth Sports | 유소년 선수 매칭·관리 서비스 문제 및 MVP 정의 | `Planning` | 확정 필요 | [저장소](https://github.com/paichai-nexus/elite-youth-sports) |
 
-냉장고에 남아 있는 식재료를 더 효율적으로 사용할 수 있도록 돕는 프로젝트입니다.
-
-사용자가 식재료를 촬영하면 종류와 상태를 확인하고, 먼저 사용해야 할 재료와 만들 수 있는 음식을 추천하는 기능을 생각하고 있습니다.
-
-컴퓨터가 추천한 결과를 그대로 사용하는 것이 아니라, 외식조리학과 학생이 실제로 조리해보고 식품영양학과 학생이 영양과 안전성을 확인합니다.
+### 프로젝트 등록 원칙
 
 ```text
-식재료 촬영
-→ 식재료 종류와 상태 확인
-→ 먼저 사용할 재료 판단
-→ 만들 수 있는 음식 추천
-→ 외식조리학과의 실제 조리와 수정
-→ 식품영양학과의 영양·안전 확인
-→ 사용자 의견 반영
+문제 정의
+ ↓
+Project Lead 확정
+ ↓
+Repository 생성
+ ↓
+README / Milestone 작성
+ ↓
+Project Registry 등록
+ ↓
+개발·연구·검증
+ ↓
+결과 기록 및 인수인계
 ```
 
-현재는 참여자, 비슷한 사례, 첫 실험 범위와 학과별 역할을 정리하는 준비 단계입니다. 책임자와 첫 번째 결과물이 정해진 후 실제 진행 여부를 결정합니다.
+회의에서 아이디어가 나왔다는 이유만으로 공식 프로젝트가 되지는 않습니다.
+
+**Repository, Project Lead, Current Status, Next Milestone**이 확인되는 시점부터 공식 NEXUS 프로젝트로 관리합니다.
 
 ---
 
