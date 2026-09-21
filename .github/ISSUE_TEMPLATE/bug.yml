@@ -1,0 +1,43 @@
+name: Bug Report
+description: Report a reproducible problem in a NEXUS project.
+title: "[BUG] "
+labels:
+  - bug
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      placeholder: paejae-pick-2-app
+    validations:
+      required: true
+  - type: textarea
+    id: bug
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to Reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Result
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, browser, device, branch, commit, hardware, etc.
+  - type: checkboxes
+    id: security
+    attributes:
+      label: Sensitive Information
+      options:
+        - label: 비밀번호, API Key, 개인정보 등 민감정보를 첨부하지 않았습니다.
+          required: true

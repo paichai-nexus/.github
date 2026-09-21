@@ -1,89 +1,80 @@
 # Contributing to PAICHAI NEXUS
 
-PAICHAI NEXUS projects are interdisciplinary by design. Contributions should be technically clear, domain-aware, reviewable, and documented.
+PAICHAI NEXUS repositories are managed as student-led research and project repositories.
 
-## Before You Start
+## Basic Workflow
 
-1. Read the project README and current status.
-2. Confirm the problem, scope, and owner of the task.
-3. Check related Issues and Pull Requests.
-4. Define how the change will be verified.
+Issue → Branch → Commit → Pull Request → Review → Merge → Documentation / Handover
 
-## Branch Naming
+## Branch Rules
 
-```text
-feature/<short-description>
-fix/<short-description>
-docs/<short-description>
-research/<short-description>
-experiment/<short-description>
-```
+Do not work directly on `main`.
+
+Recommended branch names:
+
+- `feat/...`
+- `fix/...`
+- `docs/...`
+- `research/...`
+- `chore/...`
+- `refactor/...`
+- `test/...`
+
+## Commit Messages
+
+Recommended format:
+
+`type: short description`
 
 Examples:
 
-```text
-feature/seedling-detection-pipeline
-research/growth-metric-baseline
-docs/update-validation-plan
-fix/camera-reconnect
-```
-
-## Commit Style
-
-Prefer small, understandable commits.
-
-```text
-feat: add seedling image preprocessing
-fix: handle camera reconnect failure
-docs: document validation criteria
-test: add growth metric regression test
-research: add baseline experiment results
-```
+- `feat: add QR participant check-in`
+- `fix: prevent duplicate audience vote`
+- `docs: update experiment procedure`
+- `research: add HSV segmentation baseline`
 
 ## Pull Requests
 
-Every PR should explain:
+A Pull Request should explain:
 
-- **What changed?**
-- **Why is it needed?**
-- **How was it verified?**
-- **What remains unverified?**
-- **Are there screenshots, logs, datasets, or experiment results?**
+1. What changed?
+2. Why was it needed?
+3. How was it tested or verified?
+4. What remains?
+5. Is documentation updated?
 
-Avoid merging work whose status cannot be explained.
+Do not bypass repository protection rules for ordinary work.
 
-## Evidence Rule
+## Project Documentation
 
-Use precise status language:
+Each official NEXUS project should maintain:
 
-```text
-Implemented
-Demonstrated
-Validated
-Field Verified
-```
+- Project status
+- Project Lead
+- Team / roles
+- Defined problem
+- Current progress
+- Next milestone
+- Expected output
+- Setup / experiment procedure
+- Results
+- Handover notes
 
-Do not use these terms interchangeably.
+Project Registry:
+https://github.com/paichai-nexus/nexus-project-registry
 
-## Interdisciplinary Review
+## Security and Privacy
 
-When a change affects domain assumptions, request review from the relevant domain contributor in addition to technical review.
+Never commit passwords, API keys, access tokens, `.env` secrets, personal identifiers, private student records, private university documents, or confidential company data.
 
-Examples:
+Use `.env.example` for configuration examples.
 
-- agriculture / horticulture assumptions
-- healthcare workflows
-- nutrition or food safety
-- civil / geological interpretation
-- human-subject or user-research design
+## AI-assisted Work
 
-## Documentation
+AI tools may be used, but contributors must be able to explain and verify the submitted work.
 
-Significant decisions should remain discoverable in:
+The contributor remains responsible for correctness, testing, citations, licenses, privacy, security, and reproducibility.
 
-- README
-- Issues
-- Pull Requests
-- `/docs`
-- experiment notes
-- architecture or research-design documents
+## Handover
+
+When leaving a project or role, update current status, unresolved issues, next milestone, setup instructions, important files, and known risks.

@@ -1,0 +1,32 @@
+name: Feature Request
+description: Propose a feature or improvement for an existing NEXUS project.
+title: "[FEAT] "
+labels:
+  - enhancement
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      placeholder: nexus-event-platform
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / Need
+      description: 어떤 문제나 필요에서 나온 요청인가요?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed Change
+      description: 원하는 변경사항을 적어주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria
+      description: 무엇이 되면 완료라고 볼 수 있나요?

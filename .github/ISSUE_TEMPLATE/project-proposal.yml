@@ -1,0 +1,103 @@
+name: NEXUS Project Proposal
+description: Propose a new PAICHAI NEXUS project or request formal project registration.
+title: "[PROJECT] "
+labels:
+  - project-proposal
+body:
+  - type: markdown
+    attributes:
+      value: |
+        PAICHAI NEXUS 프로젝트 제안서입니다.
+        단순 아이디어가 아니라 실제 진행 의사가 있는 프로젝트를 기준으로 작성해주세요.
+
+  - type: input
+    id: project_name
+    attributes:
+      label: Project Name
+      placeholder: Smart Seedling AI
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: 어떤 문제를 해결하려고 합니까?
+    validations:
+      required: true
+
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective
+      description: 첫 번째로 만들거나 검증할 결과물을 적어주세요.
+    validations:
+      required: true
+
+  - type: input
+    id: lead
+    attributes:
+      label: Project Lead
+      description: 책임자를 적어주세요. 미정이면 TBD.
+      placeholder: TBD
+    validations:
+      required: true
+
+  - type: textarea
+    id: team
+    attributes:
+      label: Team / Majors
+      description: 참여자, 학과, 역할을 적어주세요.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: Initial Status
+      options:
+        - Idea
+        - Planning
+        - Prototype
+        - Active
+        - Validation
+    validations:
+      required: true
+
+  - type: textarea
+    id: milestone
+    attributes:
+      label: Next Milestone
+      description: 다음에 완료해야 할 구체적인 목표를 적어주세요.
+    validations:
+      required: true
+
+  - type: input
+    id: target_date
+    attributes:
+      label: Target Date
+      placeholder: YYYY-MM-DD
+
+  - type: textarea
+    id: output
+    attributes:
+      label: Expected Output
+      description: Software, hardware, research, paper, prototype, design, service 등
+    validations:
+      required: true
+
+  - type: textarea
+    id: support
+    attributes:
+      label: Support Needed
+      description: 인력, 데이터, 교수 자문, 공간, 장비, 예산, 디자인, 대외협력 등
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: 책임자, 상태, 다음 목표를 지속적으로 기록하겠습니다.
+          required: true
+        - label: 개인정보·비밀번호·API Key 등 민감정보를 공개 저장소에 올리지 않겠습니다.
+          required: true
